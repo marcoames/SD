@@ -40,11 +40,16 @@ type dmxReq int // enumeracao dos estados possiveis de um processo
 const (
 	ENTER dmxReq = iota
 	EXIT
+	//
+	SNAPSHOT
 )
 
 type dmxResp struct { // mensagem do módulo DIMEX infrmando que pode acessar - pode ser somente um sinal (vazio)
 	// mensagem para aplicacao indicando que pode prosseguir
 }
+
+// State: bool emSnapshot = false
+// 	int idSnap
 
 type DIMEX_Module struct {
 	Req       chan dmxReq  // canal para receber pedidos da aplicacao (REQ e EXIT)
@@ -108,6 +113,9 @@ func (module *DIMEX_Module) Start() {
 				} else if dmxR == EXIT {
 					module.outDbg("app libera mx")
 					module.handleUponReqExit() // ENTRADA DO ALGORITMO
+				} else if dmxR == SNAPSHOT {
+					// SNAPSHOT VINDO DA APP
+					module.handleSnapshotApp()
 				}
 
 			case msgOutro := <-module.Pp2plink.Ind: // vindo de outro processo
@@ -120,7 +128,11 @@ func (module *DIMEX_Module) Start() {
 					module.outDbg("          <<<---- pede??  " + msgOutro.Message)
 					module.handleUponDeliverReqEntry(msgOutro) // ENTRADA DO ALGORITMO
 
+				} else if strings.Contains(msgOutro.Message, "take snapshot") {
+					// SNAPSHOT VINDO OUTRO PROCESSO
+					module.handleSnapshotProcesso(msgOutro)
 				}
+
 			}
 		}
 	}()
@@ -257,6 +269,59 @@ func (module *DIMEX_Module) handleUponDeliverReqEntry(msgOutro PP2PLink.PP2PLink
 	if rts > module.lcl {
 		module.lcl = rts
 	}
+}
+
+// ------------------------------------------------------------------------------------
+// ------- SNAPSHOT
+// ------------------------------------------------------------------------------------
+
+// SNAPSHOT: ESTADO INTERNO, CANAIS DE ENTRADA
+
+// SNAPSHOT RECEBIDO DA APLICACAO
+func (module *DIMEX_Module) handleSnapshotApp() {
+
+	// envia mensagem de snapshot para outros
+	for i := 0; i < len(module.addresses); i++ {
+		if i != module.id {
+			module.sendToLink(module.addresses[i], "take snapshot", "")
+		}
+	}
+
+}
+
+// SNAPSHOT RECEBIDO DE OUTROS PROCESSOS
+func (module *DIMEX_Module) handleSnapshotProcesso(msgOutro PP2PLink.PP2PLink_Ind_Message) {
+	// Decifra a mensagem recebida
+	var r, rts int
+	fmt.Sscanf(msgOutro.Message, "take snapshot, %d, %d", &r, &rts)
+
+	// IMPLEMENTAR ALGORITMO SLIDES
+
+	// if not emSnap {
+	// 	guarda estrutura dimex em snap[id]
+	// 	guarda estado do canal C[origem, esteProcesso] = vazio
+	// 	emSnap = true
+	// 	idSnap = id
+	// }
+
+	//fmt.Printf("Mensagem: take snapshot, %d, %d", r, rts)
+
+	// SNAPSHOT i -> Estado: module.st, module.Ind
+	// Escreve SNAPSHOT i em arquivo -> SNAPSHOT module.id
+
+	// Depois de receber segundo "take snapshot" para de gravar o canal
+
+	// // CRIA ARQUIVO DE SNAPSHOT DO PROCESSO
+	// filename := fmt.Sprintf(".SNAP%d.txt", module.id)
+	// file, err := os.OpenFile(filename, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	// if err != nil {
+	// 	fmt.Println("Error opening file:", err)
+	// 	return
+	// }
+	// defer file.Close() // Ensure the file is closed at the end of the function
+
+	// ESCREVE NO ARQUIVO DO SNAPSHOT
+
 }
 
 // ------------------------------------------------------------------------------------
