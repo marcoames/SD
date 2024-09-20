@@ -1,0 +1,54 @@
+
+Snapshot ID: 1	Process ID: 1	Process State: 0
+In-Transit Messages:
+  From Process 1:
+    take snapshot, 1, 1
+    take snapshot, 1, 1
+    respOK, 1
+
+-------------------------
+
+Snapshot ID: 2	Process ID: 1	Process State: 0
+In-Transit Messages:
+  From Process 1:
+    take snapshot, 2, 1
+    take snapshot, 2, 1
+    respOK, 1
+
+-------------------------
+
+Snapshot ID: 3	Process ID: 1	Process State: 0
+In-Transit Messages:
+  From Process 1:
+    take snapshot, 3, 1
+    take snapshot, 3, 1
+
+-------------------------
+
+Snapshot ID: 4	Process ID: 1	Process State: 0
+In-Transit Messages:
+  From Process 1:
+    take snapshot, 4, 1
+    take snapshot, 4, 1
+    respOK, 1
+
+-------------------------
+
+Snapshot ID: 5	Process ID: 1	Process State: 0
+In-Transit Messages:
+  From Process 1:
+    take snapshot, 5, 1
+    take snapshot, 5, 1
+    respOK, 1
+
+-------------------------
+
+Snapshot ID: 6	Process ID: 1	Process State: 0
+In-Transit Messages:
+  From Process 1:
+    take snapshot, 6, 1
+    take snapshot, 6, 1
+    respOK, 1
+    respOK, 1
+
+-------------------------

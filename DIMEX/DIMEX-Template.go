@@ -22,6 +22,7 @@ package DIMEX
 import (
 	PP2PLink "SD/PP2PLink"
 	"fmt"
+	"os"
 	"strings"
 )
 
@@ -48,8 +49,13 @@ type dmxResp struct { // mensagem do módulo DIMEX infrmando que pode acessar - 
 	// mensagem para aplicacao indicando que pode prosseguir
 }
 
-// State: bool emSnapshot = false
-// 	int idSnap
+// SNAPSHOT
+type StateSNAP struct {
+	emSnapshot bool             // se esta em snapshot
+	idSnap     int              // snapshot ID
+	Canais     map[int][]string // key: sender process ID, value: list of messages recorded
+	msgSnap    map[int]bool     // key: sender process ID, value: whether marker received on this channel
+}
 
 type DIMEX_Module struct {
 	Req       chan dmxReq  // canal para receber pedidos da aplicacao (REQ e EXIT)
@@ -63,6 +69,8 @@ type DIMEX_Module struct {
 	nbrResps  int
 	dbg       bool
 
+	stSNAP StateSNAP // ESTADO DE SNAPSHOT
+
 	Pp2plink *PP2PLink.PP2PLink // acesso aa comunicacao enviar por PP2PLinq.Req  e receber por PP2PLinq.Ind
 }
 
@@ -70,7 +78,7 @@ type DIMEX_Module struct {
 // ------- inicializacao
 // ------------------------------------------------------------------------------------
 
-func NewDIMEX(_addresses []string, _id int, _dbg bool) *DIMEX_Module {
+func NewDIMEX(_addresses []string, _id int, _dbg bool, _snapID int) *DIMEX_Module {
 
 	p2p := PP2PLink.NewPP2PLink(_addresses[_id], _dbg)
 
@@ -85,6 +93,13 @@ func NewDIMEX(_addresses []string, _id int, _dbg bool) *DIMEX_Module {
 		lcl:       0,
 		reqTs:     0,
 		dbg:       _dbg,
+
+		stSNAP: StateSNAP{
+			emSnapshot: false,
+			idSnap:     _snapID,
+			Canais:     make(map[int][]string),
+			msgSnap:    make(map[int]bool),
+		},
 
 		Pp2plink: p2p}
 
@@ -115,6 +130,9 @@ func (module *DIMEX_Module) Start() {
 					module.handleUponReqExit() // ENTRADA DO ALGORITMO
 				} else if dmxR == SNAPSHOT {
 					// SNAPSHOT VINDO DA APP
+					fmt.Println("-------------------------")
+					fmt.Printf("Mensagem: take snapshot RECEBIDA DA APP")
+					fmt.Println("-------------------------")
 					module.handleSnapshotApp()
 				}
 
@@ -279,49 +297,167 @@ func (module *DIMEX_Module) handleUponDeliverReqEntry(msgOutro PP2PLink.PP2PLink
 
 // SNAPSHOT RECEBIDO DA APLICACAO
 func (module *DIMEX_Module) handleSnapshotApp() {
+	// If already in snapshot, ignore
+	if module.stSNAP.emSnapshot {
+		return
+	}
 
-	// envia mensagem de snapshot para outros
+	// Mark the snapshot initiation
+	module.stSNAP.emSnapshot = true
+	module.stSNAP.idSnap++ // Increment snapshot ID
+
+	module.stSNAP.Canais = make(map[int][]string)
+	module.stSNAP.msgSnap = make(map[int]bool)
+
+	// module.saveLocalState()
+
+	// Initialize markersReceived for all incoming channels as false
 	for i := 0; i < len(module.addresses); i++ {
 		if i != module.id {
-			module.sendToLink(module.addresses[i], "take snapshot", "")
+			module.stSNAP.msgSnap[i] = false
 		}
 	}
 
+	// Start recording incoming messages on each channel
+
+	// Send a "take snapshot com o snapshotID, module.id" message to other processes
+	for i := 0; i < len(module.addresses); i++ {
+		if i != module.id {
+			// responseMessage := fmt.Sprintf("take snapshot, %d", currentSnapID)
+			responseMessage := fmt.Sprintf("take snapshot, %d, %d", module.stSNAP.idSnap, module.id)
+			module.sendToLink(module.addresses[i], responseMessage, "")
+
+			fmt.Println("-------------------------------------------------")
+			fmt.Printf("Mensagem: take snapshot id %d enviada de %d para %d ", module.stSNAP.idSnap, module.id, i)
+			fmt.Println("-------------------------------------------------")
+
+		}
+	}
 }
 
 // SNAPSHOT RECEBIDO DE OUTROS PROCESSOS
 func (module *DIMEX_Module) handleSnapshotProcesso(msgOutro PP2PLink.PP2PLink_Ind_Message) {
-	// Decifra a mensagem recebida
-	var r, rts int
-	fmt.Sscanf(msgOutro.Message, "take snapshot, %d, %d", &r, &rts)
+	// Parse the incoming "take snapshot, snapshotID, senderID" message
+	var snapshotID, senderID int
+	fmt.Sscanf(msgOutro.Message, "take snapshot, %d, %d", &snapshotID, &senderID)
 
-	// IMPLEMENTAR ALGORITMO SLIDES
+	fmt.Println("--------------------------------------------------")
+	fmt.Printf("Mensagem: take snapshot id %d recebida em %d de %d\n", snapshotID, module.id, senderID)
+	fmt.Println("--------------------------------------------------")
 
-	// if not emSnap {
-	// 	guarda estrutura dimex em snap[id]
-	// 	guarda estado do canal C[origem, esteProcesso] = vazio
-	// 	emSnap = true
-	// 	idSnap = id
-	// }
+	// If not already in a snapshot, start one
+	if !module.stSNAP.emSnapshot {
+		module.stSNAP.emSnapshot = true
+		module.stSNAP.idSnap = snapshotID
+		module.stSNAP.Canais = make(map[int][]string)
+		module.stSNAP.msgSnap = make(map[int]bool)
 
-	//fmt.Printf("Mensagem: take snapshot, %d, %d", r, rts)
+		// Initialize markers for all channels
+		for i := 0; i < len(module.addresses); i++ {
+			if i != module.id {
+				module.stSNAP.msgSnap[i] = false
+			}
+		}
 
-	// SNAPSHOT i -> Estado: module.st, module.Ind
-	// Escreve SNAPSHOT i em arquivo -> SNAPSHOT module.id
+		// Propagate the snapshot request to other processes
+		for i := 0; i < len(module.addresses); i++ {
+			if i != module.id {
+				responseMessage := fmt.Sprintf("take snapshot, %d, %d", snapshotID, module.id)
+				module.sendToLink(module.addresses[i], responseMessage, "")
 
-	// Depois de receber segundo "take snapshot" para de gravar o canal
+				fmt.Println("--------------------------------------------------")
+				fmt.Printf("Mensagem: take snapshot id %d enviada de %d para %d\n", snapshotID, module.id, i)
+				fmt.Println("--------------------------------------------------")
+			}
+		}
 
-	// // CRIA ARQUIVO DE SNAPSHOT DO PROCESSO
-	// filename := fmt.Sprintf(".SNAP%d.txt", module.id)
-	// file, err := os.OpenFile(filename, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
-	// if err != nil {
-	// 	fmt.Println("Error opening file:", err)
-	// 	return
-	// }
-	// defer file.Close() // Ensure the file is closed at the end of the function
+	}
 
-	// ESCREVE NO ARQUIVO DO SNAPSHOT
+	// If in snapshot, store the incoming message
+	if module.stSNAP.emSnapshot {
+		module.stSNAP.Canais[senderID] = append(module.stSNAP.Canais[senderID], msgOutro.Message)
+	}
 
+	if module.stSNAP.emSnapshot && module.stSNAP.idSnap == snapshotID {
+		// Already in the snapshot, mark the marker received from the sender
+		module.stSNAP.msgSnap[senderID] = true
+		fmt.Println("Vetor de mensagem de snap:", module.stSNAP.msgSnap)
+
+		// Check if all markers have been received
+		if module.checkSnapshotCompletion() {
+			// Save the snapshot since all markers have been received
+			module.saveSnapshot(snapshotID)
+			module.stSNAP.emSnapshot = false // Reset the snapshot state after saving
+		}
+	}
+}
+
+// Check if all markers have been received for the current snapshot
+func (module *DIMEX_Module) checkSnapshotCompletion() bool {
+	allMarkersReceived := true
+
+	// Check if markers from all channels have been received
+	for i := 0; i < len(module.addresses); i++ {
+		if i != module.id && !module.stSNAP.msgSnap[i] {
+			allMarkersReceived = false
+			break
+		}
+	}
+
+	if allMarkersReceived {
+		fmt.Println("Todos os marcadores recebidos para o snapshot ID:", module.stSNAP.idSnap)
+		return true
+	} else {
+		fmt.Println("Aguardando marcadores de outros processos...")
+		return false
+	}
+}
+
+// Save the snapshot (local state and in-transit messages) to a file
+func (module *DIMEX_Module) saveSnapshot(snapshotID int) {
+	// Formata o estado local
+	stateData := fmt.Sprintf(
+		"Snapshot ID: %d\tProcess ID: %d\tProcess State: %v\n",
+		snapshotID, // SNAPSHOT ID
+		module.id,  // Process ID
+		module.st,  // process state
+	)
+
+	// Formata as mensagens in-transit
+	inTransitData := "In-Transit Messages:\n"
+	for sender, msgs := range module.stSNAP.Canais {
+		inTransitData += fmt.Sprintf("  From Process %d:\n", sender)
+		for _, msg := range msgs {
+			inTransitData += fmt.Sprintf("    %s\n", msg)
+		}
+	}
+
+	// Combine local state and in-transit messages
+	fullSnapshot := stateData + inTransitData
+
+	// Define the filename based on the module ID
+	fileName := fmt.Sprintf("snapshot_%d.txt", module.id)
+
+	// Create or open the file for appending the snapshot
+	file, err := os.OpenFile(fileName, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	if err != nil {
+		fmt.Println("Error opening snapshot file:", err)
+		return
+	}
+	defer file.Close()
+
+	// Add a newline before and after the snapshot to ensure proper separation
+	fullSnapshot = "\n" + fullSnapshot + "\n-------------------------\n"
+
+	// Write the full snapshot to the file
+	_, err = file.WriteString(fullSnapshot)
+	if err != nil {
+		fmt.Println("Error writing snapshot to file:", err)
+		return
+	}
+
+	// Log success message
+	//module.outDbg(fmt.Sprintf("Snapshot %d saved to %s", snapshotID, fileName))
 }
 
 // ------------------------------------------------------------------------------------
@@ -330,6 +466,12 @@ func (module *DIMEX_Module) handleSnapshotProcesso(msgOutro PP2PLink.PP2PLink_In
 
 func (module *DIMEX_Module) sendToLink(address string, content string, space string) {
 	module.outDbg(space + " ---->>>>   to: " + address + "     msg: " + content)
+
+	if module.stSNAP.emSnapshot {
+		// Record the message in transit for the snapshot
+		module.stSNAP.Canais[module.id] = append(module.stSNAP.Canais[module.id], content)
+	}
+
 	module.Pp2plink.Req <- PP2PLink.PP2PLink_Req_Message{
 		To:      address,
 		Message: content}

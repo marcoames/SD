@@ -50,7 +50,7 @@ func main() {
 	addresses := os.Args[2:]
 	// fmt.Print("id: ", id, "   ") fmt.Println(addresses)
 
-	var dmx *DIMEX.DIMEX_Module = DIMEX.NewDIMEX(addresses, id, true)
+	var dmx *DIMEX.DIMEX_Module = DIMEX.NewDIMEX(addresses, id, true, 0)
 	fmt.Println(dmx)
 
 	// abre arquivo que TODOS processos devem poder usar
@@ -65,10 +65,18 @@ func main() {
 	time.Sleep(3 * time.Second)
 
 	for {
+		//for i := 0; i < 20; i++ {
+
+		//SOLICITA SNAPSHOT PARA PROCESSO 0
+		if id == 0 {
+			// cria snapshot com id incrementando
+			dmx.Req <- DIMEX.SNAPSHOT
+		}
+
 		// SOLICITA ACESSO AO DIMEX
 		fmt.Println("[ APP id: ", id, " PEDE   MX ]")
 		dmx.Req <- DIMEX.ENTER
-		//fmt.Println("[ APP id: ", id, " ESPERA MX ]")
+		fmt.Println("[ APP id: ", id, " ESPERA MX ]")
 		// ESPERA LIBERACAO DO MODULO DIMEX
 		<-dmx.Ind //
 
