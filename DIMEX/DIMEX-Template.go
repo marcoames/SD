@@ -318,8 +318,6 @@ func (module *DIMEX_Module) handleSnapshotApp() {
 		}
 	}
 
-	// Start recording incoming messages on each channel
-
 	// Send a "take snapshot com o snapshotID, module.id" message to other processes
 	for i := 0; i < len(module.addresses); i++ {
 		if i != module.id {
@@ -344,6 +342,11 @@ func (module *DIMEX_Module) handleSnapshotProcesso(msgOutro PP2PLink.PP2PLink_In
 	fmt.Println("--------------------------------------------------")
 	fmt.Printf("Mensagem: take snapshot id %d recebida em %d de %d\n", snapshotID, module.id, senderID)
 	fmt.Println("--------------------------------------------------")
+
+	// If in snapshot, store the incoming message
+	//if module.stSNAP.emSnapshot {
+	module.stSNAP.Canais[senderID] = append(module.stSNAP.Canais[senderID], msgOutro.Message)
+	//}
 
 	// If not already in a snapshot, start one
 	if !module.stSNAP.emSnapshot {
@@ -374,9 +377,9 @@ func (module *DIMEX_Module) handleSnapshotProcesso(msgOutro PP2PLink.PP2PLink_In
 	}
 
 	// If in snapshot, store the incoming message
-	if module.stSNAP.emSnapshot {
-		module.stSNAP.Canais[senderID] = append(module.stSNAP.Canais[senderID], msgOutro.Message)
-	}
+	// if module.stSNAP.emSnapshot {
+	// 	module.stSNAP.Canais[senderID] = append(module.stSNAP.Canais[senderID], msgOutro.Message)
+	// }
 
 	if module.stSNAP.emSnapshot && module.stSNAP.idSnap == snapshotID {
 		// Already in the snapshot, mark the marker received from the sender
