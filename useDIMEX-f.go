@@ -50,7 +50,7 @@ func main() {
 	addresses := os.Args[2:]
 	// fmt.Print("id: ", id, "   ") fmt.Println(addresses)
 
-	var dmx *DIMEX.DIMEX_Module = DIMEX.NewDIMEX(addresses, id, true, 0)
+	var dmx *DIMEX.DIMEX_Module = DIMEX.NewDIMEX(addresses, id, true, -1)
 	fmt.Println(dmx)
 
 	// abre arquivo que TODOS processos devem poder usar
