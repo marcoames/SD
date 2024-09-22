@@ -31,6 +31,7 @@ package main
 import (
 	"SD/DIMEX"
 	"fmt"
+	"math/rand/v2"
 	"os"
 	"strconv"
 	"time"
@@ -65,12 +66,12 @@ func main() {
 	time.Sleep(3 * time.Second)
 
 	for {
-		//for i := 0; i < 20; i++ {
 
-		//SOLICITA SNAPSHOT PARA PROCESSO 0
-		if id == 0 {
-			// cria snapshot com id incrementando
-			dmx.Req <- DIMEX.SNAPSHOT
+		// Solicita snapshot para processo 0
+		if rand.Float64() < 0.2 { // 20%
+			if id == 0 {
+				dmx.Req <- DIMEX.SNAPSHOT
+			}
 		}
 
 		// SOLICITA ACESSO AO DIMEX

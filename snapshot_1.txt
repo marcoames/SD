@@ -1,0 +1,7204 @@
+Snapshot ID: 0	Process ID: 1	 Logic Clock: 1	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 0, 1
+  From Process 2:
+    take snapshot, 0, 1
+    take snapshot, 0, 2
+
+-------------------------
+Snapshot ID: 1	Process ID: 1	 Logic Clock: 9	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 1, 1
+  From Process 2:
+    take snapshot, 1, 1
+    take snapshot, 1, 2
+
+-------------------------
+Snapshot ID: 2	Process ID: 1	 Logic Clock: 15	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 2, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 2, 1
+    take snapshot, 2, 2
+
+-------------------------
+Snapshot ID: 3	Process ID: 1	 Logic Clock: 20	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 3, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 3, 1
+    take snapshot, 3, 2
+
+-------------------------
+Snapshot ID: 4	Process ID: 1	 Logic Clock: 22	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 4, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 4, 1
+    take snapshot, 4, 2
+
+-------------------------
+Snapshot ID: 5	Process ID: 1	 Logic Clock: 31	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 5, 1
+  From Process 2:
+    take snapshot, 5, 1
+    take snapshot, 5, 2
+
+-------------------------
+Snapshot ID: 6	Process ID: 1	 Logic Clock: 54	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 6, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 6, 1
+    take snapshot, 6, 2
+
+-------------------------
+Snapshot ID: 7	Process ID: 1	 Logic Clock: 59	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 7, 1
+  From Process 2:
+    take snapshot, 7, 1
+    take snapshot, 7, 2
+
+-------------------------
+Snapshot ID: 8	Process ID: 1	 Logic Clock: 66	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 8, 1
+  From Process 2:
+    take snapshot, 8, 1
+    take snapshot, 8, 2
+
+-------------------------
+Snapshot ID: 9	Process ID: 1	 Logic Clock: 72	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 9, 1
+    take snapshot, 9, 0
+  From Process 2:
+    take snapshot, 9, 1
+
+-------------------------
+Snapshot ID: 10	Process ID: 1	 Logic Clock: 74	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 10, 1
+  From Process 2:
+    take snapshot, 10, 1
+    take snapshot, 10, 2
+
+-------------------------
+Snapshot ID: 11	Process ID: 1	 Logic Clock: 79	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 11, 1
+  From Process 2:
+    take snapshot, 11, 1
+    take snapshot, 11, 2
+
+-------------------------
+Snapshot ID: 12	Process ID: 1	 Logic Clock: 87	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 12, 1
+  From Process 2:
+    take snapshot, 12, 1
+    take snapshot, 12, 2
+
+-------------------------
+Snapshot ID: 13	Process ID: 1	 Logic Clock: 98	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 13, 1
+  From Process 2:
+    take snapshot, 13, 1
+    take snapshot, 13, 2
+
+-------------------------
+Snapshot ID: 14	Process ID: 1	 Logic Clock: 101	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 14, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 14, 1
+    take snapshot, 14, 2
+
+-------------------------
+Snapshot ID: 15	Process ID: 1	 Logic Clock: 107	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 15, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 15, 1
+    take snapshot, 15, 2
+
+-------------------------
+Snapshot ID: 16	Process ID: 1	 Logic Clock: 112	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 16, 1
+    take snapshot, 16, 2
+  From Process 0:
+    take snapshot, 16, 1
+    respOK, 1
+    respOK, 1
+
+-------------------------
+Snapshot ID: 17	Process ID: 1	 Logic Clock: 119	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 17, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 17, 1
+    take snapshot, 17, 2
+
+-------------------------
+Snapshot ID: 18	Process ID: 1	 Logic Clock: 123	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 18, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 18, 1
+    take snapshot, 18, 2
+
+-------------------------
+Snapshot ID: 19	Process ID: 1	 Logic Clock: 126	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 19, 1
+  From Process 2:
+    take snapshot, 19, 1
+    take snapshot, 19, 2
+
+-------------------------
+Snapshot ID: 20	Process ID: 1	 Logic Clock: 130	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 20, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 20, 1
+    take snapshot, 20, 2
+
+-------------------------
+Snapshot ID: 21	Process ID: 1	 Logic Clock: 136	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 21, 1
+  From Process 2:
+    take snapshot, 21, 1
+    take snapshot, 21, 2
+
+-------------------------
+Snapshot ID: 22	Process ID: 1	 Logic Clock: 146	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 22, 1
+  From Process 2:
+    take snapshot, 22, 1
+    take snapshot, 22, 2
+
+-------------------------
+Snapshot ID: 23	Process ID: 1	 Logic Clock: 149	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 23, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 23, 1
+    take snapshot, 23, 2
+
+-------------------------
+Snapshot ID: 24	Process ID: 1	 Logic Clock: 156	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 24, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 24, 1
+    take snapshot, 24, 2
+
+-------------------------
+Snapshot ID: 25	Process ID: 1	 Logic Clock: 159	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 25, 1
+    take snapshot, 25, 2
+  From Process 0:
+    take snapshot, 25, 1
+    respOK, 1
+
+-------------------------
+Snapshot ID: 26	Process ID: 1	 Logic Clock: 161	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 26, 1
+    take snapshot, 26, 2
+  From Process 0:
+    take snapshot, 26, 1
+
+-------------------------
+Snapshot ID: 27	Process ID: 1	 Logic Clock: 165	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 27, 1
+  From Process 2:
+    take snapshot, 27, 1
+    take snapshot, 27, 2
+
+-------------------------
+Snapshot ID: 28	Process ID: 1	 Logic Clock: 168	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 28, 1
+  From Process 2:
+    take snapshot, 28, 1
+    take snapshot, 28, 2
+
+-------------------------
+Snapshot ID: 29	Process ID: 1	 Logic Clock: 172	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 29, 1
+  From Process 2:
+    take snapshot, 29, 1
+    take snapshot, 29, 2
+
+-------------------------
+Snapshot ID: 30	Process ID: 1	 Logic Clock: 176	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 30, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 30, 1
+    take snapshot, 30, 2
+
+-------------------------
+Snapshot ID: 31	Process ID: 1	 Logic Clock: 183	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 31, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 31, 1
+    take snapshot, 31, 2
+
+-------------------------
+Snapshot ID: 32	Process ID: 1	 Logic Clock: 188	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 32, 1
+  From Process 2:
+    take snapshot, 32, 1
+    take snapshot, 32, 2
+
+-------------------------
+Snapshot ID: 33	Process ID: 1	 Logic Clock: 192	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 33, 1
+  From Process 2:
+    take snapshot, 33, 1
+    take snapshot, 33, 2
+
+-------------------------
+Snapshot ID: 34	Process ID: 1	 Logic Clock: 193	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 34, 1
+  From Process 2:
+    take snapshot, 34, 1
+    take snapshot, 34, 2
+
+-------------------------
+Snapshot ID: 35	Process ID: 1	 Logic Clock: 196	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 35, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 35, 1
+    take snapshot, 35, 2
+
+-------------------------
+Snapshot ID: 36	Process ID: 1	 Logic Clock: 201	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 36, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 36, 1
+    take snapshot, 36, 2
+
+-------------------------
+Snapshot ID: 37	Process ID: 1	 Logic Clock: 203	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 37, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 37, 1
+    take snapshot, 37, 2
+
+-------------------------
+Snapshot ID: 38	Process ID: 1	 Logic Clock: 209	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 38, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 38, 1
+    take snapshot, 38, 2
+
+-------------------------
+Snapshot ID: 39	Process ID: 1	 Logic Clock: 215	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 39, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 39, 1
+    take snapshot, 39, 2
+
+-------------------------
+Snapshot ID: 40	Process ID: 1	 Logic Clock: 224	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 40, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 40, 1
+    take snapshot, 40, 2
+
+-------------------------
+Snapshot ID: 41	Process ID: 1	 Logic Clock: 227	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 41, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 41, 1
+    take snapshot, 41, 2
+
+-------------------------
+Snapshot ID: 42	Process ID: 1	 Logic Clock: 232	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 42, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 42, 1
+    take snapshot, 42, 2
+
+-------------------------
+Snapshot ID: 43	Process ID: 1	 Logic Clock: 245	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 43, 1
+  From Process 2:
+    take snapshot, 43, 1
+    take snapshot, 43, 2
+
+-------------------------
+Snapshot ID: 44	Process ID: 1	 Logic Clock: 249	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 44, 1
+  From Process 2:
+    take snapshot, 44, 1
+    take snapshot, 44, 2
+
+-------------------------
+Snapshot ID: 45	Process ID: 1	 Logic Clock: 258	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 45, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 45, 1
+    take snapshot, 45, 2
+
+-------------------------
+Snapshot ID: 46	Process ID: 1	 Logic Clock: 260	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 46, 1
+  From Process 2:
+    take snapshot, 46, 1
+    take snapshot, 46, 2
+
+-------------------------
+Snapshot ID: 47	Process ID: 1	 Logic Clock: 261	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 47, 1
+  From Process 2:
+    take snapshot, 47, 1
+    take snapshot, 47, 2
+
+-------------------------
+Snapshot ID: 48	Process ID: 1	 Logic Clock: 266	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 48, 1
+  From Process 2:
+    take snapshot, 48, 1
+    take snapshot, 48, 2
+
+-------------------------
+Snapshot ID: 49	Process ID: 1	 Logic Clock: 268	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 49, 1
+  From Process 2:
+    take snapshot, 49, 1
+    take snapshot, 49, 2
+
+-------------------------
+Snapshot ID: 50	Process ID: 1	 Logic Clock: 273	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 50, 1
+  From Process 2:
+    take snapshot, 50, 1
+    take snapshot, 50, 2
+
+-------------------------
+Snapshot ID: 51	Process ID: 1	 Logic Clock: 283	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 51, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 51, 1
+    take snapshot, 51, 2
+
+-------------------------
+Snapshot ID: 52	Process ID: 1	 Logic Clock: 291	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 52, 1
+  From Process 2:
+    take snapshot, 52, 1
+    take snapshot, 52, 2
+
+-------------------------
+Snapshot ID: 53	Process ID: 1	 Logic Clock: 297	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 53, 1
+  From Process 2:
+    take snapshot, 53, 1
+    take snapshot, 53, 2
+
+-------------------------
+Snapshot ID: 54	Process ID: 1	 Logic Clock: 309	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 54, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 54, 1
+    take snapshot, 54, 2
+
+-------------------------
+Snapshot ID: 55	Process ID: 1	 Logic Clock: 314	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 55, 1
+  From Process 2:
+    take snapshot, 55, 1
+    take snapshot, 55, 2
+
+-------------------------
+Snapshot ID: 56	Process ID: 1	 Logic Clock: 317	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 56, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 56, 1
+    take snapshot, 56, 2
+
+-------------------------
+Snapshot ID: 57	Process ID: 1	 Logic Clock: 321	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 57, 1
+  From Process 2:
+    take snapshot, 57, 1
+    take snapshot, 57, 2
+
+-------------------------
+Snapshot ID: 58	Process ID: 1	 Logic Clock: 323	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 58, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 58, 1
+    take snapshot, 58, 2
+
+-------------------------
+Snapshot ID: 59	Process ID: 1	 Logic Clock: 329	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 59, 1
+  From Process 2:
+    take snapshot, 59, 1
+    take snapshot, 59, 2
+
+-------------------------
+Snapshot ID: 60	Process ID: 1	 Logic Clock: 332	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 60, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 60, 1
+    take snapshot, 60, 2
+
+-------------------------
+Snapshot ID: 61	Process ID: 1	 Logic Clock: 335	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 61, 1
+  From Process 2:
+    take snapshot, 61, 1
+    take snapshot, 61, 2
+
+-------------------------
+Snapshot ID: 62	Process ID: 1	 Logic Clock: 338	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 62, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 62, 1
+    take snapshot, 62, 2
+
+-------------------------
+Snapshot ID: 63	Process ID: 1	 Logic Clock: 340	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 63, 1
+  From Process 2:
+    take snapshot, 63, 1
+    take snapshot, 63, 2
+
+-------------------------
+Snapshot ID: 64	Process ID: 1	 Logic Clock: 353	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 64, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 64, 1
+    take snapshot, 64, 2
+
+-------------------------
+Snapshot ID: 65	Process ID: 1	 Logic Clock: 355	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 65, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 65, 1
+    take snapshot, 65, 2
+
+-------------------------
+Snapshot ID: 66	Process ID: 1	 Logic Clock: 357	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 66, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 66, 1
+    take snapshot, 66, 2
+
+-------------------------
+Snapshot ID: 67	Process ID: 1	 Logic Clock: 359	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 67, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 67, 1
+    take snapshot, 67, 2
+
+-------------------------
+Snapshot ID: 68	Process ID: 1	 Logic Clock: 365	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 68, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 68, 1
+    take snapshot, 68, 2
+
+-------------------------
+Snapshot ID: 69	Process ID: 1	 Logic Clock: 369	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 69, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 69, 1
+    take snapshot, 69, 2
+
+-------------------------
+Snapshot ID: 70	Process ID: 1	 Logic Clock: 375	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 70, 1
+  From Process 2:
+    take snapshot, 70, 1
+    take snapshot, 70, 2
+
+-------------------------
+Snapshot ID: 71	Process ID: 1	 Logic Clock: 381	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 71, 1
+  From Process 2:
+    take snapshot, 71, 1
+    take snapshot, 71, 2
+
+-------------------------
+Snapshot ID: 72	Process ID: 1	 Logic Clock: 389	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 72, 1
+  From Process 2:
+    take snapshot, 72, 1
+    take snapshot, 72, 2
+
+-------------------------
+Snapshot ID: 73	Process ID: 1	 Logic Clock: 393	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 73, 1
+    take snapshot, 73, 2
+  From Process 0:
+    take snapshot, 73, 1
+
+-------------------------
+Snapshot ID: 74	Process ID: 1	 Logic Clock: 414	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 74, 1
+  From Process 2:
+    take snapshot, 74, 1
+    take snapshot, 74, 2
+
+-------------------------
+Snapshot ID: 75	Process ID: 1	 Logic Clock: 430	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 75, 1
+  From Process 2:
+    take snapshot, 75, 1
+    take snapshot, 75, 2
+
+-------------------------
+Snapshot ID: 76	Process ID: 1	 Logic Clock: 437	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 76, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 76, 1
+    take snapshot, 76, 2
+
+-------------------------
+Snapshot ID: 77	Process ID: 1	 Logic Clock: 446	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 77, 1
+  From Process 2:
+    take snapshot, 77, 1
+    take snapshot, 77, 2
+
+-------------------------
+Snapshot ID: 78	Process ID: 1	 Logic Clock: 454	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 78, 1
+  From Process 2:
+    take snapshot, 78, 1
+    take snapshot, 78, 2
+
+-------------------------
+Snapshot ID: 79	Process ID: 1	 Logic Clock: 458	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 79, 1
+    reqEntry, 1, 459
+    respOK, 1
+  From Process 2:
+    take snapshot, 79, 1
+    reqEntry, 1, 459
+    take snapshot, 79, 2
+
+-------------------------
+Snapshot ID: 80	Process ID: 1	 Logic Clock: 475	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 80, 1
+    take snapshot, 80, 2
+  From Process 0:
+    take snapshot, 80, 1
+
+-------------------------
+Snapshot ID: 81	Process ID: 1	 Logic Clock: 491	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 81, 1
+    take snapshot, 81, 0
+  From Process 2:
+    take snapshot, 81, 1
+
+-------------------------
+Snapshot ID: 82	Process ID: 1	 Logic Clock: 492	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 82, 1
+  From Process 2:
+    take snapshot, 82, 1
+    take snapshot, 82, 2
+
+-------------------------
+Snapshot ID: 83	Process ID: 1	 Logic Clock: 496	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 83, 1
+  From Process 2:
+    take snapshot, 83, 1
+    take snapshot, 83, 2
+
+-------------------------
+Snapshot ID: 84	Process ID: 1	 Logic Clock: 500	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 84, 1
+  From Process 2:
+    take snapshot, 84, 1
+    take snapshot, 84, 2
+
+-------------------------
+Snapshot ID: 85	Process ID: 1	 Logic Clock: 504	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 85, 1
+  From Process 2:
+    take snapshot, 85, 1
+    take snapshot, 85, 2
+
+-------------------------
+Snapshot ID: 86	Process ID: 1	 Logic Clock: 505	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 86, 1
+    take snapshot, 86, 2
+  From Process 0:
+    take snapshot, 86, 1
+
+-------------------------
+Snapshot ID: 87	Process ID: 1	 Logic Clock: 509	Waiting: [true false false]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 87, 1
+    respOK, 1
+    reqEntry, 1, 510
+  From Process 2:
+    take snapshot, 87, 1
+    reqEntry, 1, 510
+    take snapshot, 87, 2
+
+-------------------------
+Snapshot ID: 88	Process ID: 1	 Logic Clock: 534	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 88, 1
+  From Process 2:
+    take snapshot, 88, 1
+    take snapshot, 88, 2
+
+-------------------------
+Snapshot ID: 89	Process ID: 1	 Logic Clock: 540	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 89, 1
+  From Process 2:
+    take snapshot, 89, 1
+    take snapshot, 89, 2
+
+-------------------------
+Snapshot ID: 90	Process ID: 1	 Logic Clock: 559	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 90, 1
+    take snapshot, 90, 2
+  From Process 0:
+    take snapshot, 90, 1
+
+-------------------------
+Snapshot ID: 91	Process ID: 1	 Logic Clock: 563	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 91, 1
+  From Process 2:
+    take snapshot, 91, 1
+    take snapshot, 91, 2
+
+-------------------------
+Snapshot ID: 92	Process ID: 1	 Logic Clock: 566	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 92, 1
+  From Process 2:
+    take snapshot, 92, 1
+    take snapshot, 92, 2
+
+-------------------------
+Snapshot ID: 93	Process ID: 1	 Logic Clock: 567	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 93, 1
+  From Process 2:
+    take snapshot, 93, 1
+    take snapshot, 93, 2
+
+-------------------------
+Snapshot ID: 94	Process ID: 1	 Logic Clock: 570	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 94, 1
+  From Process 2:
+    take snapshot, 94, 1
+    take snapshot, 94, 2
+
+-------------------------
+Snapshot ID: 95	Process ID: 1	 Logic Clock: 584	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 95, 1
+  From Process 2:
+    take snapshot, 95, 1
+    take snapshot, 95, 2
+
+-------------------------
+Snapshot ID: 96	Process ID: 1	 Logic Clock: 592	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 96, 1
+  From Process 2:
+    take snapshot, 96, 1
+    take snapshot, 96, 2
+
+-------------------------
+Snapshot ID: 97	Process ID: 1	 Logic Clock: 600	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 97, 1
+    respOK, 1
+    reqEntry, 1, 602
+  From Process 2:
+    take snapshot, 97, 1
+    reqEntry, 1, 602
+    take snapshot, 97, 2
+
+-------------------------
+Snapshot ID: 98	Process ID: 1	 Logic Clock: 608	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 98, 1
+  From Process 2:
+    take snapshot, 98, 1
+    take snapshot, 98, 2
+
+-------------------------
+Snapshot ID: 99	Process ID: 1	 Logic Clock: 624	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 99, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 99, 1
+    take snapshot, 99, 2
+
+-------------------------
+Snapshot ID: 100	Process ID: 1	 Logic Clock: 628	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 100, 1
+  From Process 2:
+    take snapshot, 100, 1
+    take snapshot, 100, 2
+
+-------------------------
+Snapshot ID: 101	Process ID: 1	 Logic Clock: 644	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 101, 1
+    respOK, 1
+    reqEntry, 1, 646
+  From Process 2:
+    take snapshot, 101, 1
+    reqEntry, 1, 646
+    take snapshot, 101, 2
+
+-------------------------
+Snapshot ID: 102	Process ID: 1	 Logic Clock: 648	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 102, 1
+    take snapshot, 102, 2
+  From Process 0:
+    take snapshot, 102, 1
+
+-------------------------
+Snapshot ID: 103	Process ID: 1	 Logic Clock: 663	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 103, 1
+    take snapshot, 103, 2
+  From Process 0:
+    take snapshot, 103, 1
+
+-------------------------
+Snapshot ID: 104	Process ID: 1	 Logic Clock: 666	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 104, 1
+  From Process 2:
+    take snapshot, 104, 1
+    take snapshot, 104, 2
+
+-------------------------
+Snapshot ID: 105	Process ID: 1	 Logic Clock: 709	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 105, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 105, 1
+    respOK, 1
+    take snapshot, 105, 2
+
+-------------------------
+Snapshot ID: 106	Process ID: 1	 Logic Clock: 719	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 106, 1
+    take snapshot, 106, 2
+  From Process 0:
+    take snapshot, 106, 1
+
+-------------------------
+Snapshot ID: 107	Process ID: 1	 Logic Clock: 736	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 107, 1
+    respOK, 1
+    reqEntry, 1, 738
+  From Process 2:
+    take snapshot, 107, 1
+    respOK, 1
+    reqEntry, 1, 738
+    take snapshot, 107, 2
+
+-------------------------
+Snapshot ID: 108	Process ID: 1	 Logic Clock: 750	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 108, 1
+  From Process 2:
+    take snapshot, 108, 1
+    take snapshot, 108, 2
+
+-------------------------
+Snapshot ID: 109	Process ID: 1	 Logic Clock: 763	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 109, 1
+    respOK, 1
+    reqEntry, 1, 765
+  From Process 2:
+    take snapshot, 109, 1
+    respOK, 1
+    reqEntry, 1, 765
+    take snapshot, 109, 2
+
+-------------------------
+Snapshot ID: 110	Process ID: 1	 Logic Clock: 772	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 110, 1
+  From Process 2:
+    take snapshot, 110, 1
+    take snapshot, 110, 2
+
+-------------------------
+Snapshot ID: 111	Process ID: 1	 Logic Clock: 776	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 111, 1
+  From Process 2:
+    take snapshot, 111, 1
+    take snapshot, 111, 2
+
+-------------------------
+Snapshot ID: 112	Process ID: 1	 Logic Clock: 791	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 112, 1
+  From Process 2:
+    take snapshot, 112, 1
+    take snapshot, 112, 2
+
+-------------------------
+Snapshot ID: 113	Process ID: 1	 Logic Clock: 800	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 113, 1
+  From Process 2:
+    take snapshot, 113, 1
+    take snapshot, 113, 2
+
+-------------------------
+Snapshot ID: 114	Process ID: 1	 Logic Clock: 827	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 114, 1
+    take snapshot, 114, 0
+  From Process 2:
+    take snapshot, 114, 1
+
+-------------------------
+Snapshot ID: 115	Process ID: 1	 Logic Clock: 832	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 115, 1
+  From Process 2:
+    take snapshot, 115, 1
+    take snapshot, 115, 2
+
+-------------------------
+Snapshot ID: 116	Process ID: 1	 Logic Clock: 839	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 116, 1
+  From Process 2:
+    take snapshot, 116, 1
+    take snapshot, 116, 2
+
+-------------------------
+Snapshot ID: 117	Process ID: 1	 Logic Clock: 885	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 117, 1
+  From Process 2:
+    take snapshot, 117, 1
+    take snapshot, 117, 2
+
+-------------------------
+Snapshot ID: 118	Process ID: 1	 Logic Clock: 897	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 118, 1
+  From Process 2:
+    take snapshot, 118, 1
+    take snapshot, 118, 2
+
+-------------------------
+Snapshot ID: 119	Process ID: 1	 Logic Clock: 914	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 119, 1
+  From Process 2:
+    take snapshot, 119, 1
+    take snapshot, 119, 2
+
+-------------------------
+Snapshot ID: 120	Process ID: 1	 Logic Clock: 941	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 120, 1
+    respOK, 1
+    reqEntry, 1, 943
+  From Process 2:
+    take snapshot, 120, 1
+    respOK, 1
+    reqEntry, 1, 943
+    take snapshot, 120, 2
+
+-------------------------
+Snapshot ID: 121	Process ID: 1	 Logic Clock: 945	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 121, 1
+  From Process 2:
+    take snapshot, 121, 1
+    take snapshot, 121, 2
+
+-------------------------
+Snapshot ID: 122	Process ID: 1	 Logic Clock: 953	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 122, 1
+  From Process 2:
+    take snapshot, 122, 1
+    take snapshot, 122, 2
+
+-------------------------
+Snapshot ID: 123	Process ID: 1	 Logic Clock: 967	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 123, 1
+  From Process 2:
+    take snapshot, 123, 1
+    take snapshot, 123, 2
+
+-------------------------
+Snapshot ID: 124	Process ID: 1	 Logic Clock: 992	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 124, 1
+    respOK, 1
+    reqEntry, 1, 995
+  From Process 2:
+    take snapshot, 124, 1
+    reqEntry, 1, 995
+    respOK, 1
+    take snapshot, 124, 2
+
+-------------------------
+Snapshot ID: 125	Process ID: 1	 Logic Clock: 997	Waiting: [true false false]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 125, 1
+    respOK, 1
+    reqEntry, 1, 998
+  From Process 2:
+    take snapshot, 125, 1
+    reqEntry, 1, 998
+    respOK, 1
+    take snapshot, 125, 2
+
+-------------------------
+Snapshot ID: 126	Process ID: 1	 Logic Clock: 1008	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 126, 1
+    respOK, 1
+    reqEntry, 1, 1010
+  From Process 2:
+    take snapshot, 126, 1
+    respOK, 1
+    reqEntry, 1, 1010
+    take snapshot, 126, 2
+
+-------------------------
+Snapshot ID: 127	Process ID: 1	 Logic Clock: 1022	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 127, 1
+    take snapshot, 127, 2
+  From Process 0:
+    take snapshot, 127, 1
+
+-------------------------
+Snapshot ID: 128	Process ID: 1	 Logic Clock: 1046	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 128, 1
+  From Process 2:
+    take snapshot, 128, 1
+    take snapshot, 128, 2
+
+-------------------------
+Snapshot ID: 129	Process ID: 1	 Logic Clock: 1054	Waiting: [true false false]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 129, 1
+    respOK, 1
+    reqEntry, 1, 1055
+  From Process 2:
+    take snapshot, 129, 1
+    reqEntry, 1, 1055
+    respOK, 1
+    take snapshot, 129, 2
+
+-------------------------
+Snapshot ID: 130	Process ID: 1	 Logic Clock: 1056	Waiting: [true false false]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 130, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 130, 1
+    respOK, 1
+    take snapshot, 130, 2
+
+-------------------------
+Snapshot ID: 131	Process ID: 1	 Logic Clock: 1063	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 131, 1
+  From Process 2:
+    take snapshot, 131, 1
+    take snapshot, 131, 2
+
+-------------------------
+Snapshot ID: 132	Process ID: 1	 Logic Clock: 1076	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 132, 1
+    take snapshot, 132, 2
+  From Process 0:
+    take snapshot, 132, 1
+    respOK, 1
+
+-------------------------
+Snapshot ID: 133	Process ID: 1	 Logic Clock: 1094	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 133, 1
+  From Process 2:
+    take snapshot, 133, 1
+    take snapshot, 133, 2
+
+-------------------------
+Snapshot ID: 134	Process ID: 1	 Logic Clock: 1096	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 134, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 134, 1
+    take snapshot, 134, 2
+
+-------------------------
+Snapshot ID: 135	Process ID: 1	 Logic Clock: 1109	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 135, 1
+  From Process 2:
+    take snapshot, 135, 1
+    take snapshot, 135, 2
+
+-------------------------
+Snapshot ID: 136	Process ID: 1	 Logic Clock: 1115	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 136, 1
+  From Process 2:
+    take snapshot, 136, 1
+    take snapshot, 136, 2
+
+-------------------------
+Snapshot ID: 137	Process ID: 1	 Logic Clock: 1121	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 137, 1
+  From Process 2:
+    take snapshot, 137, 1
+    take snapshot, 137, 2
+
+-------------------------
+Snapshot ID: 138	Process ID: 1	 Logic Clock: 1133	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 138, 1
+    respOK, 1
+    reqEntry, 1, 1135
+  From Process 2:
+    take snapshot, 138, 1
+    respOK, 1
+    reqEntry, 1, 1135
+    take snapshot, 138, 2
+
+-------------------------
+Snapshot ID: 139	Process ID: 1	 Logic Clock: 1142	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 139, 1
+    respOK, 1
+    reqEntry, 1, 1144
+  From Process 2:
+    take snapshot, 139, 1
+    respOK, 1
+    reqEntry, 1, 1144
+    take snapshot, 139, 2
+
+-------------------------
+Snapshot ID: 140	Process ID: 1	 Logic Clock: 1161	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 140, 1
+  From Process 2:
+    take snapshot, 140, 1
+    take snapshot, 140, 2
+
+-------------------------
+Snapshot ID: 141	Process ID: 1	 Logic Clock: 1165	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 141, 1
+    respOK, 1
+    reqEntry, 1, 1168
+  From Process 2:
+    take snapshot, 141, 1
+    respOK, 1
+    reqEntry, 1, 1168
+    take snapshot, 141, 2
+
+-------------------------
+Snapshot ID: 142	Process ID: 1	 Logic Clock: 1196	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 142, 1
+    respOK, 1
+    reqEntry, 1, 1197
+  From Process 2:
+    take snapshot, 142, 1
+    respOK, 1
+    reqEntry, 1, 1197
+    take snapshot, 142, 2
+
+-------------------------
+Snapshot ID: 143	Process ID: 1	 Logic Clock: 1201	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 143, 1
+    respOK, 1
+    reqEntry, 1, 1203
+  From Process 2:
+    take snapshot, 143, 1
+    respOK, 1
+    reqEntry, 1, 1203
+    take snapshot, 143, 2
+
+-------------------------
+Snapshot ID: 144	Process ID: 1	 Logic Clock: 1209	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 144, 1
+  From Process 2:
+    take snapshot, 144, 1
+    take snapshot, 144, 2
+
+-------------------------
+Snapshot ID: 145	Process ID: 1	 Logic Clock: 1213	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 145, 1
+    take snapshot, 145, 2
+  From Process 0:
+    take snapshot, 145, 1
+
+-------------------------
+Snapshot ID: 146	Process ID: 1	 Logic Clock: 1219	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 146, 1
+  From Process 2:
+    take snapshot, 146, 1
+    take snapshot, 146, 2
+
+-------------------------
+Snapshot ID: 147	Process ID: 1	 Logic Clock: 1237	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 147, 1
+    reqEntry, 1, 1238
+    respOK, 1
+  From Process 2:
+    take snapshot, 147, 1
+    reqEntry, 1, 1238
+    take snapshot, 147, 2
+
+-------------------------
+Snapshot ID: 148	Process ID: 1	 Logic Clock: 1243	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 148, 1
+  From Process 2:
+    take snapshot, 148, 1
+    take snapshot, 148, 2
+
+-------------------------
+Snapshot ID: 149	Process ID: 1	 Logic Clock: 1251	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 149, 1
+  From Process 2:
+    take snapshot, 149, 1
+    take snapshot, 149, 2
+
+-------------------------
+Snapshot ID: 150	Process ID: 1	 Logic Clock: 1263	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 150, 1
+    respOK, 1
+    reqEntry, 1, 1265
+    take snapshot, 150, 2
+  From Process 0:
+    take snapshot, 150, 1
+    respOK, 1
+    reqEntry, 1, 1265
+
+-------------------------
+Snapshot ID: 151	Process ID: 1	 Logic Clock: 1279	Waiting: [true false false]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 151, 1
+    respOK, 1
+    reqEntry, 1, 1280
+  From Process 2:
+    take snapshot, 151, 1
+    reqEntry, 1, 1280
+    respOK, 1
+    take snapshot, 151, 2
+
+-------------------------
+Snapshot ID: 152	Process ID: 1	 Logic Clock: 1284	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 152, 1
+    respOK, 1
+    reqEntry, 1, 1286
+    take snapshot, 152, 2
+  From Process 0:
+    take snapshot, 152, 1
+    respOK, 1
+    reqEntry, 1, 1286
+
+-------------------------
+Snapshot ID: 153	Process ID: 1	 Logic Clock: 1311	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 153, 1
+  From Process 2:
+    take snapshot, 153, 1
+    take snapshot, 153, 2
+
+-------------------------
+Snapshot ID: 154	Process ID: 1	 Logic Clock: 1326	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 154, 1
+  From Process 2:
+    take snapshot, 154, 1
+    take snapshot, 154, 2
+
+-------------------------
+Snapshot ID: 155	Process ID: 1	 Logic Clock: 1331	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 155, 1
+  From Process 2:
+    take snapshot, 155, 1
+    take snapshot, 155, 2
+
+-------------------------
+Snapshot ID: 156	Process ID: 1	 Logic Clock: 1338	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 156, 1
+  From Process 2:
+    take snapshot, 156, 1
+    take snapshot, 156, 2
+
+-------------------------
+Snapshot ID: 157	Process ID: 1	 Logic Clock: 1344	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 157, 1
+    reqEntry, 1, 1345
+  From Process 2:
+    take snapshot, 157, 1
+    reqEntry, 1, 1345
+    respOK, 1
+    take snapshot, 157, 2
+
+-------------------------
+Snapshot ID: 158	Process ID: 1	 Logic Clock: 1370	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 158, 1
+  From Process 2:
+    take snapshot, 158, 1
+    take snapshot, 158, 2
+
+-------------------------
+Snapshot ID: 159	Process ID: 1	 Logic Clock: 1385	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 159, 1
+  From Process 2:
+    take snapshot, 159, 1
+    take snapshot, 159, 2
+
+-------------------------
+Snapshot ID: 160	Process ID: 1	 Logic Clock: 1394	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 160, 1
+    respOK, 1
+    reqEntry, 1, 1397
+  From Process 2:
+    take snapshot, 160, 1
+    reqEntry, 1, 1397
+    respOK, 1
+    take snapshot, 160, 2
+
+-------------------------
+Snapshot ID: 161	Process ID: 1	 Logic Clock: 1402	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 161, 1
+  From Process 2:
+    take snapshot, 161, 1
+    take snapshot, 161, 2
+
+-------------------------
+Snapshot ID: 162	Process ID: 1	 Logic Clock: 1410	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 162, 1
+    respOK, 1
+    reqEntry, 1, 1413
+  From Process 2:
+    take snapshot, 162, 1
+    respOK, 1
+    reqEntry, 1, 1413
+    take snapshot, 162, 2
+
+-------------------------
+Snapshot ID: 163	Process ID: 1	 Logic Clock: 1428	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 163, 1
+  From Process 2:
+    take snapshot, 163, 1
+    take snapshot, 163, 2
+
+-------------------------
+Snapshot ID: 164	Process ID: 1	 Logic Clock: 1432	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 164, 1
+  From Process 2:
+    take snapshot, 164, 1
+    take snapshot, 164, 2
+
+-------------------------
+Snapshot ID: 165	Process ID: 1	 Logic Clock: 1437	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 165, 1
+    respOK, 1
+    reqEntry, 1, 1438
+  From Process 2:
+    take snapshot, 165, 1
+    reqEntry, 1, 1438
+    take snapshot, 165, 2
+
+-------------------------
+Snapshot ID: 166	Process ID: 1	 Logic Clock: 1448	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 166, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 166, 1
+    respOK, 1
+    take snapshot, 166, 2
+
+-------------------------
+Snapshot ID: 167	Process ID: 1	 Logic Clock: 1466	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 167, 1
+  From Process 2:
+    take snapshot, 167, 1
+    take snapshot, 167, 2
+
+-------------------------
+Snapshot ID: 168	Process ID: 1	 Logic Clock: 1498	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 168, 1
+  From Process 2:
+    take snapshot, 168, 1
+    take snapshot, 168, 2
+
+-------------------------
+Snapshot ID: 169	Process ID: 1	 Logic Clock: 1500	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 169, 1
+  From Process 2:
+    take snapshot, 169, 1
+    take snapshot, 169, 2
+
+-------------------------
+Snapshot ID: 170	Process ID: 1	 Logic Clock: 1507	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 170, 1
+  From Process 2:
+    take snapshot, 170, 1
+    take snapshot, 170, 2
+
+-------------------------
+Snapshot ID: 171	Process ID: 1	 Logic Clock: 1518	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 171, 1
+  From Process 2:
+    take snapshot, 171, 1
+    take snapshot, 171, 2
+
+-------------------------
+Snapshot ID: 172	Process ID: 1	 Logic Clock: 1533	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 172, 1
+  From Process 2:
+    take snapshot, 172, 1
+    take snapshot, 172, 2
+
+-------------------------
+Snapshot ID: 173	Process ID: 1	 Logic Clock: 1548	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 173, 1
+  From Process 2:
+    take snapshot, 173, 1
+    take snapshot, 173, 2
+
+-------------------------
+Snapshot ID: 174	Process ID: 1	 Logic Clock: 1563	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 174, 1
+    take snapshot, 174, 2
+  From Process 0:
+    take snapshot, 174, 1
+
+-------------------------
+Snapshot ID: 175	Process ID: 1	 Logic Clock: 1578	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 175, 1
+  From Process 2:
+    take snapshot, 175, 1
+    take snapshot, 175, 2
+
+-------------------------
+Snapshot ID: 176	Process ID: 1	 Logic Clock: 1579	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 176, 1
+  From Process 2:
+    take snapshot, 176, 1
+    take snapshot, 176, 2
+
+-------------------------
+Snapshot ID: 177	Process ID: 1	 Logic Clock: 1583	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 177, 1
+  From Process 2:
+    take snapshot, 177, 1
+    take snapshot, 177, 2
+
+-------------------------
+Snapshot ID: 178	Process ID: 1	 Logic Clock: 1586	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 178, 1
+    reqEntry, 1, 1587
+    respOK, 1
+    take snapshot, 178, 2
+  From Process 0:
+    take snapshot, 178, 1
+    respOK, 1
+    reqEntry, 1, 1587
+
+-------------------------
+Snapshot ID: 179	Process ID: 1	 Logic Clock: 1596	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 179, 1
+  From Process 2:
+    take snapshot, 179, 1
+    take snapshot, 179, 2
+
+-------------------------
+Snapshot ID: 180	Process ID: 1	 Logic Clock: 1612	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 180, 1
+  From Process 2:
+    take snapshot, 180, 1
+    take snapshot, 180, 2
+
+-------------------------
+Snapshot ID: 181	Process ID: 1	 Logic Clock: 1615	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 181, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 181, 1
+    respOK, 1
+    take snapshot, 181, 2
+
+-------------------------
+Snapshot ID: 182	Process ID: 1	 Logic Clock: 1621	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 182, 1
+    reqEntry, 1, 1622
+  From Process 2:
+    take snapshot, 182, 1
+    respOK, 1
+    reqEntry, 1, 1622
+    take snapshot, 182, 2
+
+-------------------------
+Snapshot ID: 183	Process ID: 1	 Logic Clock: 1624	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 183, 1
+  From Process 2:
+    take snapshot, 183, 1
+    take snapshot, 183, 2
+
+-------------------------
+Snapshot ID: 184	Process ID: 1	 Logic Clock: 1630	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 184, 1
+  From Process 2:
+    take snapshot, 184, 1
+    take snapshot, 184, 2
+
+-------------------------
+Snapshot ID: 185	Process ID: 1	 Logic Clock: 1644	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 185, 1
+    respOK, 1
+    reqEntry, 1, 1646
+  From Process 2:
+    take snapshot, 185, 1
+    respOK, 1
+    reqEntry, 1, 1646
+    take snapshot, 185, 2
+
+-------------------------
+Snapshot ID: 186	Process ID: 1	 Logic Clock: 1653	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 186, 1
+    reqEntry, 1, 1654
+  From Process 2:
+    take snapshot, 186, 1
+    respOK, 1
+    reqEntry, 1, 1654
+    take snapshot, 186, 2
+
+-------------------------
+Snapshot ID: 187	Process ID: 1	 Logic Clock: 1667	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 187, 1
+    take snapshot, 187, 2
+  From Process 0:
+    take snapshot, 187, 1
+
+-------------------------
+Snapshot ID: 188	Process ID: 1	 Logic Clock: 1672	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 188, 1
+  From Process 2:
+    take snapshot, 188, 1
+    take snapshot, 188, 2
+
+-------------------------
+Snapshot ID: 189	Process ID: 1	 Logic Clock: 1684	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 189, 1
+    take snapshot, 189, 0
+  From Process 2:
+    take snapshot, 189, 1
+
+-------------------------
+Snapshot ID: 190	Process ID: 1	 Logic Clock: 1712	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 190, 1
+  From Process 2:
+    take snapshot, 190, 1
+    take snapshot, 190, 2
+
+-------------------------
+Snapshot ID: 191	Process ID: 1	 Logic Clock: 1717	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 191, 1
+    take snapshot, 191, 2
+  From Process 0:
+    take snapshot, 191, 1
+
+-------------------------
+Snapshot ID: 192	Process ID: 1	 Logic Clock: 1731	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 192, 1
+  From Process 2:
+    take snapshot, 192, 1
+    take snapshot, 192, 2
+
+-------------------------
+Snapshot ID: 193	Process ID: 1	 Logic Clock: 1750	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 193, 1
+  From Process 2:
+    take snapshot, 193, 1
+    take snapshot, 193, 2
+
+-------------------------
+Snapshot ID: 194	Process ID: 1	 Logic Clock: 1757	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 194, 1
+  From Process 2:
+    take snapshot, 194, 1
+    respOK, 1
+    take snapshot, 194, 2
+
+-------------------------
+Snapshot ID: 195	Process ID: 1	 Logic Clock: 1769	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 195, 1
+  From Process 2:
+    take snapshot, 195, 1
+    take snapshot, 195, 2
+
+-------------------------
+Snapshot ID: 196	Process ID: 1	 Logic Clock: 1795	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 196, 1
+  From Process 2:
+    take snapshot, 196, 1
+    take snapshot, 196, 2
+
+-------------------------
+Snapshot ID: 197	Process ID: 1	 Logic Clock: 1808	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 197, 1
+    take snapshot, 197, 0
+  From Process 2:
+    take snapshot, 197, 1
+
+-------------------------
+Snapshot ID: 198	Process ID: 1	 Logic Clock: 1826	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 198, 1
+    take snapshot, 198, 0
+  From Process 2:
+    take snapshot, 198, 1
+
+-------------------------
+Snapshot ID: 199	Process ID: 1	 Logic Clock: 1839	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 199, 1
+  From Process 2:
+    take snapshot, 199, 1
+    take snapshot, 199, 2
+
+-------------------------
+Snapshot ID: 200	Process ID: 1	 Logic Clock: 1846	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 200, 1
+  From Process 2:
+    take snapshot, 200, 1
+    take snapshot, 200, 2
+
+-------------------------
+Snapshot ID: 201	Process ID: 1	 Logic Clock: 1895	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 201, 1
+    respOK, 1
+    reqEntry, 1, 1896
+  From Process 2:
+    take snapshot, 201, 1
+    respOK, 1
+    reqEntry, 1, 1896
+    take snapshot, 201, 2
+
+-------------------------
+Snapshot ID: 202	Process ID: 1	 Logic Clock: 1900	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 202, 1
+    respOK, 1
+    reqEntry, 1, 1902
+  From Process 2:
+    take snapshot, 202, 1
+    respOK, 1
+    reqEntry, 1, 1902
+    take snapshot, 202, 2
+
+-------------------------
+Snapshot ID: 203	Process ID: 1	 Logic Clock: 1905	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 203, 1
+  From Process 2:
+    take snapshot, 203, 1
+    take snapshot, 203, 2
+
+-------------------------
+Snapshot ID: 204	Process ID: 1	 Logic Clock: 1943	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 204, 1
+    respOK, 1
+    reqEntry, 1, 1944
+  From Process 2:
+    take snapshot, 204, 1
+    respOK, 1
+    reqEntry, 1, 1944
+    take snapshot, 204, 2
+
+-------------------------
+Snapshot ID: 205	Process ID: 1	 Logic Clock: 1969	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 205, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 205, 1
+    take snapshot, 205, 2
+
+-------------------------
+Snapshot ID: 206	Process ID: 1	 Logic Clock: 1977	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 206, 1
+    take snapshot, 206, 2
+  From Process 0:
+    take snapshot, 206, 1
+
+-------------------------
+Snapshot ID: 207	Process ID: 1	 Logic Clock: 1995	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 207, 1
+    take snapshot, 207, 2
+  From Process 0:
+    take snapshot, 207, 1
+
+-------------------------
+Snapshot ID: 208	Process ID: 1	 Logic Clock: 2006	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 208, 1
+    respOK, 1
+    take snapshot, 208, 0
+  From Process 2:
+    take snapshot, 208, 1
+    respOK, 1
+
+-------------------------
+Snapshot ID: 209	Process ID: 1	 Logic Clock: 2014	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 209, 1
+  From Process 2:
+    take snapshot, 209, 1
+    take snapshot, 209, 2
+
+-------------------------
+Snapshot ID: 210	Process ID: 1	 Logic Clock: 2023	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 210, 1
+  From Process 2:
+    take snapshot, 210, 1
+    take snapshot, 210, 2
+
+-------------------------
+Snapshot ID: 211	Process ID: 1	 Logic Clock: 2035	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 211, 1
+  From Process 2:
+    take snapshot, 211, 1
+    take snapshot, 211, 2
+
+-------------------------
+Snapshot ID: 212	Process ID: 1	 Logic Clock: 2041	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 212, 1
+  From Process 2:
+    take snapshot, 212, 1
+    take snapshot, 212, 2
+
+-------------------------
+Snapshot ID: 213	Process ID: 1	 Logic Clock: 2042	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 213, 1
+  From Process 2:
+    take snapshot, 213, 1
+    take snapshot, 213, 2
+
+-------------------------
+Snapshot ID: 214	Process ID: 1	 Logic Clock: 2062	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 214, 1
+    take snapshot, 214, 2
+  From Process 0:
+    take snapshot, 214, 1
+
+-------------------------
+Snapshot ID: 215	Process ID: 1	 Logic Clock: 2082	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 215, 1
+    respOK, 1
+    take snapshot, 215, 0
+  From Process 2:
+    take snapshot, 215, 1
+
+-------------------------
+Snapshot ID: 216	Process ID: 1	 Logic Clock: 2085	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 216, 1
+  From Process 2:
+    take snapshot, 216, 1
+    take snapshot, 216, 2
+
+-------------------------
+Snapshot ID: 217	Process ID: 1	 Logic Clock: 2090	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 217, 1
+  From Process 2:
+    take snapshot, 217, 1
+    take snapshot, 217, 2
+
+-------------------------
+Snapshot ID: 218	Process ID: 1	 Logic Clock: 2098	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 218, 1
+    respOK, 1
+    reqEntry, 1, 2099
+  From Process 2:
+    take snapshot, 218, 1
+    respOK, 1
+    reqEntry, 1, 2099
+    take snapshot, 218, 2
+
+-------------------------
+Snapshot ID: 219	Process ID: 1	 Logic Clock: 2109	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 219, 1
+    reqEntry, 1, 2110
+  From Process 2:
+    take snapshot, 219, 1
+    reqEntry, 1, 2110
+    take snapshot, 219, 2
+
+-------------------------
+Snapshot ID: 220	Process ID: 1	 Logic Clock: 2118	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 220, 1
+    respOK, 1
+    reqEntry, 1, 2119
+  From Process 2:
+    take snapshot, 220, 1
+    respOK, 1
+    reqEntry, 1, 2119
+    take snapshot, 220, 2
+
+-------------------------
+Snapshot ID: 221	Process ID: 1	 Logic Clock: 2134	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 221, 1
+    respOK, 1
+    reqEntry, 1, 2136
+  From Process 2:
+    take snapshot, 221, 1
+    reqEntry, 1, 2136
+    take snapshot, 221, 2
+
+-------------------------
+Snapshot ID: 222	Process ID: 1	 Logic Clock: 2140	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 222, 1
+  From Process 2:
+    take snapshot, 222, 1
+    take snapshot, 222, 2
+
+-------------------------
+Snapshot ID: 223	Process ID: 1	 Logic Clock: 2168	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 223, 1
+    respOK, 1
+    reqEntry, 1, 2169
+  From Process 2:
+    take snapshot, 223, 1
+    respOK, 1
+    reqEntry, 1, 2169
+    take snapshot, 223, 2
+
+-------------------------
+Snapshot ID: 224	Process ID: 1	 Logic Clock: 2182	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 224, 1
+    respOK, 1
+    reqEntry, 1, 2185
+  From Process 2:
+    take snapshot, 224, 1
+    respOK, 1
+    reqEntry, 1, 2185
+    take snapshot, 224, 2
+
+-------------------------
+Snapshot ID: 225	Process ID: 1	 Logic Clock: 2205	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 225, 1
+    reqEntry, 1, 2207
+    respOK, 1
+  From Process 2:
+    take snapshot, 225, 1
+    respOK, 1
+    reqEntry, 1, 2207
+    take snapshot, 225, 2
+
+-------------------------
+Snapshot ID: 226	Process ID: 1	 Logic Clock: 2220	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 226, 1
+    reqEntry, 1, 2221
+  From Process 2:
+    take snapshot, 226, 1
+    reqEntry, 1, 2221
+    take snapshot, 226, 2
+
+-------------------------
+Snapshot ID: 227	Process ID: 1	 Logic Clock: 2253	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 227, 1
+    reqEntry, 1, 2255
+    respOK, 1
+  From Process 2:
+    take snapshot, 227, 1
+    respOK, 1
+    reqEntry, 1, 2255
+    take snapshot, 227, 2
+
+-------------------------
+Snapshot ID: 228	Process ID: 1	 Logic Clock: 2262	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 228, 1
+  From Process 2:
+    take snapshot, 228, 1
+    take snapshot, 228, 2
+
+-------------------------
+Snapshot ID: 229	Process ID: 1	 Logic Clock: 2268	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 229, 1
+    take snapshot, 229, 2
+  From Process 0:
+    take snapshot, 229, 1
+
+-------------------------
+Snapshot ID: 230	Process ID: 1	 Logic Clock: 2273	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 230, 1
+    respOK, 1
+    reqEntry, 1, 2274
+    respOK, 1
+  From Process 2:
+    take snapshot, 230, 1
+    respOK, 1
+    reqEntry, 1, 2274
+    take snapshot, 230, 2
+
+-------------------------
+Snapshot ID: 231	Process ID: 1	 Logic Clock: 2280	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 231, 1
+  From Process 2:
+    take snapshot, 231, 1
+    take snapshot, 231, 2
+
+-------------------------
+Snapshot ID: 232	Process ID: 1	 Logic Clock: 2298	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 232, 1
+  From Process 2:
+    take snapshot, 232, 1
+    take snapshot, 232, 2
+
+-------------------------
+Snapshot ID: 233	Process ID: 1	 Logic Clock: 2301	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 233, 1
+  From Process 2:
+    take snapshot, 233, 1
+    take snapshot, 233, 2
+
+-------------------------
+Snapshot ID: 234	Process ID: 1	 Logic Clock: 2304	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 234, 1
+  From Process 2:
+    take snapshot, 234, 1
+    take snapshot, 234, 2
+
+-------------------------
+Snapshot ID: 235	Process ID: 1	 Logic Clock: 2306	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 235, 1
+  From Process 2:
+    take snapshot, 235, 1
+    take snapshot, 235, 2
+
+-------------------------
+Snapshot ID: 236	Process ID: 1	 Logic Clock: 2307	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 236, 1
+    reqEntry, 1, 2308
+  From Process 2:
+    take snapshot, 236, 1
+    reqEntry, 1, 2308
+    take snapshot, 236, 2
+
+-------------------------
+Snapshot ID: 237	Process ID: 1	 Logic Clock: 2319	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 237, 1
+  From Process 2:
+    take snapshot, 237, 1
+    take snapshot, 237, 2
+
+-------------------------
+Snapshot ID: 238	Process ID: 1	 Logic Clock: 2326	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 238, 1
+  From Process 2:
+    take snapshot, 238, 1
+    take snapshot, 238, 2
+
+-------------------------
+Snapshot ID: 239	Process ID: 1	 Logic Clock: 2336	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 239, 1
+    take snapshot, 239, 0
+  From Process 2:
+    take snapshot, 239, 1
+
+-------------------------
+Snapshot ID: 240	Process ID: 1	 Logic Clock: 2342	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 240, 1
+    respOK, 1
+    reqEntry, 1, 2343
+  From Process 2:
+    take snapshot, 240, 1
+    respOK, 1
+    reqEntry, 1, 2343
+    take snapshot, 240, 2
+
+-------------------------
+Snapshot ID: 241	Process ID: 1	 Logic Clock: 2375	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 241, 1
+  From Process 2:
+    take snapshot, 241, 1
+    take snapshot, 241, 2
+
+-------------------------
+Snapshot ID: 242	Process ID: 1	 Logic Clock: 2377	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 242, 1
+    respOK, 1
+    reqEntry, 1, 2380
+  From Process 2:
+    take snapshot, 242, 1
+    respOK, 1
+    reqEntry, 1, 2380
+    take snapshot, 242, 2
+
+-------------------------
+Snapshot ID: 243	Process ID: 1	 Logic Clock: 2385	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 243, 1
+    respOK, 1
+    reqEntry, 1, 2388
+  From Process 2:
+    take snapshot, 243, 1
+    respOK, 1
+    reqEntry, 1, 2388
+    take snapshot, 243, 2
+
+-------------------------
+Snapshot ID: 244	Process ID: 1	 Logic Clock: 2392	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 244, 1
+  From Process 2:
+    take snapshot, 244, 1
+    take snapshot, 244, 2
+
+-------------------------
+Snapshot ID: 245	Process ID: 1	 Logic Clock: 2400	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 245, 1
+    take snapshot, 245, 2
+  From Process 0:
+    take snapshot, 245, 1
+
+-------------------------
+Snapshot ID: 246	Process ID: 1	 Logic Clock: 2404	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 246, 1
+    take snapshot, 246, 2
+  From Process 0:
+    take snapshot, 246, 1
+
+-------------------------
+Snapshot ID: 247	Process ID: 1	 Logic Clock: 2419	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 247, 1
+    respOK, 1
+    reqEntry, 1, 2421
+  From Process 2:
+    take snapshot, 247, 1
+    respOK, 1
+    reqEntry, 1, 2421
+    take snapshot, 247, 2
+
+-------------------------
+Snapshot ID: 248	Process ID: 1	 Logic Clock: 2428	Waiting: [true false false]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 248, 1
+    respOK, 1
+    reqEntry, 1, 2429
+  From Process 2:
+    take snapshot, 248, 1
+    reqEntry, 1, 2429
+    take snapshot, 248, 2
+
+-------------------------
+Snapshot ID: 249	Process ID: 1	 Logic Clock: 2434	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 249, 1
+    respOK, 1
+    reqEntry, 1, 2437
+  From Process 2:
+    take snapshot, 249, 1
+    reqEntry, 1, 2437
+    respOK, 1
+    take snapshot, 249, 2
+
+-------------------------
+Snapshot ID: 250	Process ID: 1	 Logic Clock: 2444	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 250, 1
+    take snapshot, 250, 0
+  From Process 2:
+    take snapshot, 250, 1
+
+-------------------------
+Snapshot ID: 251	Process ID: 1	 Logic Clock: 2454	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 251, 1
+  From Process 2:
+    take snapshot, 251, 1
+    take snapshot, 251, 2
+
+-------------------------
+Snapshot ID: 252	Process ID: 1	 Logic Clock: 2456	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 252, 1
+  From Process 2:
+    take snapshot, 252, 1
+    take snapshot, 252, 2
+
+-------------------------
+Snapshot ID: 253	Process ID: 1	 Logic Clock: 2489	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 253, 1
+  From Process 2:
+    take snapshot, 253, 1
+    take snapshot, 253, 2
+
+-------------------------
+Snapshot ID: 254	Process ID: 1	 Logic Clock: 2500	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 254, 1
+  From Process 2:
+    take snapshot, 254, 1
+    take snapshot, 254, 2
+
+-------------------------
+Snapshot ID: 255	Process ID: 1	 Logic Clock: 2507	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 255, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 255, 1
+    respOK, 1
+    take snapshot, 255, 2
+
+-------------------------
+Snapshot ID: 256	Process ID: 1	 Logic Clock: 2520	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 256, 1
+    respOK, 1
+    reqEntry, 1, 2522
+  From Process 2:
+    take snapshot, 256, 1
+    respOK, 1
+    reqEntry, 1, 2522
+    take snapshot, 256, 2
+
+-------------------------
+Snapshot ID: 257	Process ID: 1	 Logic Clock: 2538	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 257, 1
+    reqEntry, 1, 2539
+    respOK, 1
+  From Process 2:
+    take snapshot, 257, 1
+    respOK, 1
+    reqEntry, 1, 2539
+    take snapshot, 257, 2
+
+-------------------------
+Snapshot ID: 258	Process ID: 1	 Logic Clock: 2543	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 258, 1
+  From Process 2:
+    take snapshot, 258, 1
+    take snapshot, 258, 2
+
+-------------------------
+Snapshot ID: 259	Process ID: 1	 Logic Clock: 2573	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 259, 1
+  From Process 2:
+    take snapshot, 259, 1
+    take snapshot, 259, 2
+
+-------------------------
+Snapshot ID: 260	Process ID: 1	 Logic Clock: 2575	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 260, 1
+  From Process 2:
+    take snapshot, 260, 1
+    take snapshot, 260, 2
+
+-------------------------
+Snapshot ID: 261	Process ID: 1	 Logic Clock: 2593	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 261, 1
+  From Process 2:
+    take snapshot, 261, 1
+    take snapshot, 261, 2
+
+-------------------------
+Snapshot ID: 262	Process ID: 1	 Logic Clock: 2596	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 262, 1
+  From Process 2:
+    take snapshot, 262, 1
+    take snapshot, 262, 2
+
+-------------------------
+Snapshot ID: 263	Process ID: 1	 Logic Clock: 2613	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 263, 1
+  From Process 2:
+    take snapshot, 263, 1
+    take snapshot, 263, 2
+
+-------------------------
+Snapshot ID: 264	Process ID: 1	 Logic Clock: 2626	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 264, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 264, 1
+    respOK, 1
+    take snapshot, 264, 2
+
+-------------------------
+Snapshot ID: 265	Process ID: 1	 Logic Clock: 2634	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 265, 1
+    reqEntry, 1, 2636
+    respOK, 1
+  From Process 2:
+    take snapshot, 265, 1
+    respOK, 1
+    reqEntry, 1, 2636
+    take snapshot, 265, 2
+
+-------------------------
+Snapshot ID: 266	Process ID: 1	 Logic Clock: 2643	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 266, 1
+    respOK, 1
+    reqEntry, 1, 2644
+  From Process 2:
+    take snapshot, 266, 1
+    respOK, 1
+    reqEntry, 1, 2644
+    take snapshot, 266, 2
+
+-------------------------
+Snapshot ID: 267	Process ID: 1	 Logic Clock: 2671	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 267, 1
+    take snapshot, 267, 2
+  From Process 0:
+    take snapshot, 267, 1
+
+-------------------------
+Snapshot ID: 268	Process ID: 1	 Logic Clock: 2681	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 268, 1
+  From Process 2:
+    take snapshot, 268, 1
+    take snapshot, 268, 2
+
+-------------------------
+Snapshot ID: 269	Process ID: 1	 Logic Clock: 2685	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 269, 1
+    respOK, 1
+    reqEntry, 1, 2688
+  From Process 2:
+    take snapshot, 269, 1
+    respOK, 1
+    reqEntry, 1, 2688
+    take snapshot, 269, 2
+
+-------------------------
+Snapshot ID: 270	Process ID: 1	 Logic Clock: 2698	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 270, 1
+  From Process 2:
+    take snapshot, 270, 1
+    take snapshot, 270, 2
+
+-------------------------
+Snapshot ID: 271	Process ID: 1	 Logic Clock: 2715	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 271, 1
+    reqEntry, 1, 2716
+    take snapshot, 271, 2
+  From Process 0:
+    take snapshot, 271, 1
+    respOK, 1
+    reqEntry, 1, 2716
+
+-------------------------
+Snapshot ID: 272	Process ID: 1	 Logic Clock: 2740	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 272, 1
+    take snapshot, 272, 2
+  From Process 0:
+    take snapshot, 272, 1
+
+-------------------------
+Snapshot ID: 273	Process ID: 1	 Logic Clock: 2754	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 273, 1
+  From Process 2:
+    take snapshot, 273, 1
+    take snapshot, 273, 2
+
+-------------------------
+Snapshot ID: 274	Process ID: 1	 Logic Clock: 2773	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 274, 1
+    take snapshot, 274, 2
+  From Process 0:
+    take snapshot, 274, 1
+
+-------------------------
+Snapshot ID: 275	Process ID: 1	 Logic Clock: 2786	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 275, 1
+    reqEntry, 1, 2788
+  From Process 2:
+    take snapshot, 275, 1
+    respOK, 1
+    reqEntry, 1, 2788
+    take snapshot, 275, 2
+
+-------------------------
+Snapshot ID: 276	Process ID: 1	 Logic Clock: 2794	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 276, 1
+  From Process 2:
+    take snapshot, 276, 1
+    take snapshot, 276, 2
+
+-------------------------
+Snapshot ID: 277	Process ID: 1	 Logic Clock: 2801	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 277, 1
+    take snapshot, 277, 2
+  From Process 0:
+    take snapshot, 277, 1
+
+-------------------------
+Snapshot ID: 278	Process ID: 1	 Logic Clock: 2812	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 278, 1
+  From Process 2:
+    take snapshot, 278, 1
+    take snapshot, 278, 2
+
+-------------------------
+Snapshot ID: 279	Process ID: 1	 Logic Clock: 2848	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 279, 1
+  From Process 2:
+    take snapshot, 279, 1
+    take snapshot, 279, 2
+
+-------------------------
+Snapshot ID: 280	Process ID: 1	 Logic Clock: 2853	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 280, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 280, 1
+    respOK, 1
+    take snapshot, 280, 2
+
+-------------------------
+Snapshot ID: 281	Process ID: 1	 Logic Clock: 2857	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 281, 1
+  From Process 2:
+    take snapshot, 281, 1
+    take snapshot, 281, 2
+
+-------------------------
+Snapshot ID: 282	Process ID: 1	 Logic Clock: 2864	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 282, 1
+    respOK, 1
+    reqEntry, 1, 2866
+  From Process 2:
+    take snapshot, 282, 1
+    respOK, 1
+    reqEntry, 1, 2866
+    take snapshot, 282, 2
+
+-------------------------
+Snapshot ID: 283	Process ID: 1	 Logic Clock: 2872	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 283, 1
+  From Process 2:
+    take snapshot, 283, 1
+    take snapshot, 283, 2
+
+-------------------------
+Snapshot ID: 284	Process ID: 1	 Logic Clock: 2889	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 284, 1
+  From Process 2:
+    take snapshot, 284, 1
+    take snapshot, 284, 2
+
+-------------------------
+Snapshot ID: 285	Process ID: 1	 Logic Clock: 2917	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 285, 1
+    take snapshot, 285, 2
+  From Process 0:
+    take snapshot, 285, 1
+
+-------------------------
+Snapshot ID: 286	Process ID: 1	 Logic Clock: 2924	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 286, 1
+  From Process 2:
+    take snapshot, 286, 1
+    take snapshot, 286, 2
+
+-------------------------
+Snapshot ID: 287	Process ID: 1	 Logic Clock: 2934	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 287, 1
+    take snapshot, 287, 0
+  From Process 2:
+    take snapshot, 287, 1
+
+-------------------------
+Snapshot ID: 288	Process ID: 1	 Logic Clock: 2940	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 288, 1
+    respOK, 1
+    reqEntry, 1, 2941
+  From Process 2:
+    take snapshot, 288, 1
+    respOK, 1
+    reqEntry, 1, 2941
+    take snapshot, 288, 2
+
+-------------------------
+Snapshot ID: 289	Process ID: 1	 Logic Clock: 2956	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 289, 1
+  From Process 2:
+    take snapshot, 289, 1
+    take snapshot, 289, 2
+
+-------------------------
+Snapshot ID: 290	Process ID: 1	 Logic Clock: 2965	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 290, 1
+  From Process 2:
+    take snapshot, 290, 1
+    respOK, 1
+    take snapshot, 290, 2
+
+-------------------------
+Snapshot ID: 291	Process ID: 1	 Logic Clock: 2974	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 291, 1
+  From Process 2:
+    take snapshot, 291, 1
+    take snapshot, 291, 2
+
+-------------------------
+Snapshot ID: 292	Process ID: 1	 Logic Clock: 2980	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 292, 1
+  From Process 2:
+    take snapshot, 292, 1
+    take snapshot, 292, 2
+
+-------------------------
+Snapshot ID: 293	Process ID: 1	 Logic Clock: 2997	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 293, 1
+    respOK, 1
+    reqEntry, 1, 2999
+  From Process 2:
+    take snapshot, 293, 1
+    respOK, 1
+    reqEntry, 1, 2999
+    take snapshot, 293, 2
+
+-------------------------
+Snapshot ID: 294	Process ID: 1	 Logic Clock: 3018	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 294, 1
+    respOK, 1
+    reqEntry, 1, 3020
+  From Process 2:
+    take snapshot, 294, 1
+    reqEntry, 1, 3020
+    respOK, 1
+    take snapshot, 294, 2
+
+-------------------------
+Snapshot ID: 295	Process ID: 1	 Logic Clock: 3040	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 295, 1
+  From Process 2:
+    take snapshot, 295, 1
+    take snapshot, 295, 2
+
+-------------------------
+Snapshot ID: 296	Process ID: 1	 Logic Clock: 3064	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 296, 1
+    take snapshot, 296, 2
+  From Process 0:
+    take snapshot, 296, 1
+
+-------------------------
+Snapshot ID: 297	Process ID: 1	 Logic Clock: 3068	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 297, 1
+  From Process 2:
+    take snapshot, 297, 1
+    take snapshot, 297, 2
+
+-------------------------
+Snapshot ID: 298	Process ID: 1	 Logic Clock: 3086	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 298, 1
+    take snapshot, 298, 2
+  From Process 0:
+    take snapshot, 298, 1
+
+-------------------------
+Snapshot ID: 299	Process ID: 1	 Logic Clock: 3111	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 299, 1
+  From Process 2:
+    take snapshot, 299, 1
+    take snapshot, 299, 2
+
+-------------------------
+Snapshot ID: 300	Process ID: 1	 Logic Clock: 3117	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 300, 1
+  From Process 2:
+    take snapshot, 300, 1
+    take snapshot, 300, 2
+
+-------------------------
+Snapshot ID: 301	Process ID: 1	 Logic Clock: 3126	Waiting: [true false false]	Process State: 2
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 301, 1
+    reqEntry, 1, 3127
+    take snapshot, 301, 2
+  From Process 0:
+    take snapshot, 301, 1
+    respOK, 1
+    reqEntry, 1, 3127
+
+-------------------------
+Snapshot ID: 302	Process ID: 1	 Logic Clock: 3129	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 302, 1
+    take snapshot, 302, 2
+  From Process 0:
+    take snapshot, 302, 1
+
+-------------------------
+Snapshot ID: 303	Process ID: 1	 Logic Clock: 3145	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 303, 1
+  From Process 2:
+    take snapshot, 303, 1
+    take snapshot, 303, 2
+
+-------------------------
+Snapshot ID: 304	Process ID: 1	 Logic Clock: 3159	Waiting: [true false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 304, 1
+  From Process 2:
+    take snapshot, 304, 1
+    take snapshot, 304, 2
+
+-------------------------
+Snapshot ID: 305	Process ID: 1	 Logic Clock: 3169	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 305, 1
+    take snapshot, 305, 0
+  From Process 2:
+    take snapshot, 305, 1
+
+-------------------------
+Snapshot ID: 306	Process ID: 1	 Logic Clock: 3174	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 306, 1
+  From Process 2:
+    take snapshot, 306, 1
+    take snapshot, 306, 2
+
+-------------------------
+Snapshot ID: 307	Process ID: 1	 Logic Clock: 3180	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 307, 1
+  From Process 2:
+    take snapshot, 307, 1
+    take snapshot, 307, 2
+
+-------------------------
+Snapshot ID: 308	Process ID: 1	 Logic Clock: 3234	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 308, 1
+    respOK, 1
+    reqEntry, 1, 3237
+  From Process 2:
+    take snapshot, 308, 1
+    respOK, 1
+    reqEntry, 1, 3237
+    take snapshot, 308, 2
+
+-------------------------
+Snapshot ID: 309	Process ID: 1	 Logic Clock: 3251	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 309, 1
+    respOK, 1
+    reqEntry, 1, 3253
+  From Process 2:
+    take snapshot, 309, 1
+    respOK, 1
+    reqEntry, 1, 3253
+    take snapshot, 309, 2
+
+-------------------------
+Snapshot ID: 310	Process ID: 1	 Logic Clock: 3265	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 310, 1
+  From Process 2:
+    take snapshot, 310, 1
+    take snapshot, 310, 2
+
+-------------------------
+Snapshot ID: 311	Process ID: 1	 Logic Clock: 3284	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 311, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 311, 1
+    respOK, 1
+    take snapshot, 311, 2
+
+-------------------------
+Snapshot ID: 312	Process ID: 1	 Logic Clock: 3286	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 312, 1
+  From Process 2:
+    take snapshot, 312, 1
+    take snapshot, 312, 2
+
+-------------------------
+Snapshot ID: 313	Process ID: 1	 Logic Clock: 3299	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 313, 1
+  From Process 2:
+    take snapshot, 313, 1
+    take snapshot, 313, 2
+
+-------------------------
+Snapshot ID: 314	Process ID: 1	 Logic Clock: 3308	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 314, 1
+  From Process 2:
+    take snapshot, 314, 1
+    take snapshot, 314, 2
+
+-------------------------
+Snapshot ID: 315	Process ID: 1	 Logic Clock: 3312	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 315, 1
+  From Process 2:
+    take snapshot, 315, 1
+    take snapshot, 315, 2
+
+-------------------------
+Snapshot ID: 316	Process ID: 1	 Logic Clock: 3357	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 316, 1
+  From Process 2:
+    take snapshot, 316, 1
+    take snapshot, 316, 2
+
+-------------------------
+Snapshot ID: 317	Process ID: 1	 Logic Clock: 3369	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 317, 1
+  From Process 2:
+    take snapshot, 317, 1
+    take snapshot, 317, 2
+
+-------------------------
+Snapshot ID: 318	Process ID: 1	 Logic Clock: 3375	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 318, 1
+    take snapshot, 318, 2
+  From Process 0:
+    take snapshot, 318, 1
+
+-------------------------
+Snapshot ID: 319	Process ID: 1	 Logic Clock: 3396	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 319, 1
+    respOK, 1
+    reqEntry, 1, 3397
+  From Process 2:
+    take snapshot, 319, 1
+    respOK, 1
+    reqEntry, 1, 3397
+    take snapshot, 319, 2
+
+-------------------------
+Snapshot ID: 320	Process ID: 1	 Logic Clock: 3411	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 320, 1
+  From Process 2:
+    take snapshot, 320, 1
+    take snapshot, 320, 2
+
+-------------------------
+Snapshot ID: 321	Process ID: 1	 Logic Clock: 3417	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 321, 1
+    respOK, 1
+    reqEntry, 1, 3419
+    take snapshot, 321, 2
+  From Process 0:
+    take snapshot, 321, 1
+    reqEntry, 1, 3419
+
+-------------------------
+Snapshot ID: 322	Process ID: 1	 Logic Clock: 3431	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 322, 1
+    take snapshot, 322, 2
+  From Process 0:
+    take snapshot, 322, 1
+
+-------------------------
+Snapshot ID: 323	Process ID: 1	 Logic Clock: 3438	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 323, 1
+    respOK, 1
+    reqEntry, 1, 3440
+  From Process 2:
+    take snapshot, 323, 1
+    reqEntry, 1, 3440
+    respOK, 1
+    take snapshot, 323, 2
+
+-------------------------
+Snapshot ID: 324	Process ID: 1	 Logic Clock: 3457	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 324, 1
+    respOK, 1
+    reqEntry, 1, 3458
+  From Process 2:
+    take snapshot, 324, 1
+    respOK, 1
+    reqEntry, 1, 3458
+    take snapshot, 324, 2
+
+-------------------------
+Snapshot ID: 325	Process ID: 1	 Logic Clock: 3519	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 325, 1
+    respOK, 1
+    reqEntry, 1, 3520
+  From Process 2:
+    take snapshot, 325, 1
+    respOK, 1
+    reqEntry, 1, 3520
+    take snapshot, 325, 2
+
+-------------------------
+Snapshot ID: 326	Process ID: 1	 Logic Clock: 3542	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 326, 1
+  From Process 2:
+    take snapshot, 326, 1
+    take snapshot, 326, 2
+
+-------------------------
+Snapshot ID: 327	Process ID: 1	 Logic Clock: 3551	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 327, 1
+    respOK, 1
+    reqEntry, 1, 3553
+  From Process 2:
+    take snapshot, 327, 1
+    respOK, 1
+    reqEntry, 1, 3553
+    take snapshot, 327, 2
+
+-------------------------
+Snapshot ID: 328	Process ID: 1	 Logic Clock: 3569	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 328, 1
+    reqEntry, 1, 3571
+    respOK, 1
+  From Process 2:
+    take snapshot, 328, 1
+    respOK, 1
+    reqEntry, 1, 3571
+    take snapshot, 328, 2
+
+-------------------------
+Snapshot ID: 329	Process ID: 1	 Logic Clock: 3590	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 329, 1
+  From Process 2:
+    take snapshot, 329, 1
+    take snapshot, 329, 2
+
+-------------------------
+Snapshot ID: 330	Process ID: 1	 Logic Clock: 3597	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 330, 1
+  From Process 2:
+    take snapshot, 330, 1
+    take snapshot, 330, 2
+
+-------------------------
+Snapshot ID: 331	Process ID: 1	 Logic Clock: 3612	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 331, 1
+  From Process 2:
+    take snapshot, 331, 1
+    take snapshot, 331, 2
+
+-------------------------
+Snapshot ID: 332	Process ID: 1	 Logic Clock: 3617	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 332, 1
+    respOK, 1
+    reqEntry, 1, 3618
+  From Process 2:
+    take snapshot, 332, 1
+    respOK, 1
+    reqEntry, 1, 3618
+    take snapshot, 332, 2
+
+-------------------------
+Snapshot ID: 333	Process ID: 1	 Logic Clock: 3633	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 333, 1
+    respOK, 1
+    reqEntry, 1, 3636
+  From Process 2:
+    take snapshot, 333, 1
+    respOK, 1
+    reqEntry, 1, 3636
+    take snapshot, 333, 2
+
+-------------------------
+Snapshot ID: 334	Process ID: 1	 Logic Clock: 3641	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 334, 1
+    respOK, 1
+    reqEntry, 1, 3643
+  From Process 2:
+    take snapshot, 334, 1
+    reqEntry, 1, 3643
+    respOK, 1
+    take snapshot, 334, 2
+
+-------------------------
+Snapshot ID: 335	Process ID: 1	 Logic Clock: 3691	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 335, 1
+    respOK, 1
+    reqEntry, 1, 3693
+    take snapshot, 335, 2
+  From Process 0:
+    take snapshot, 335, 1
+    respOK, 1
+    reqEntry, 1, 3693
+
+-------------------------
+Snapshot ID: 336	Process ID: 1	 Logic Clock: 3698	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 336, 1
+  From Process 2:
+    take snapshot, 336, 1
+    take snapshot, 336, 2
+
+-------------------------
+Snapshot ID: 337	Process ID: 1	 Logic Clock: 3715	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 337, 1
+  From Process 2:
+    take snapshot, 337, 1
+    take snapshot, 337, 2
+
+-------------------------
+Snapshot ID: 338	Process ID: 1	 Logic Clock: 3724	Waiting: [true false false]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 338, 1
+    respOK, 1
+    reqEntry, 1, 3726
+  From Process 2:
+    take snapshot, 338, 1
+    respOK, 1
+    reqEntry, 1, 3726
+    take snapshot, 338, 2
+
+-------------------------
+Snapshot ID: 339	Process ID: 1	 Logic Clock: 3737	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 339, 1
+  From Process 2:
+    take snapshot, 339, 1
+    take snapshot, 339, 2
+
+-------------------------
+Snapshot ID: 340	Process ID: 1	 Logic Clock: 3741	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 340, 1
+  From Process 2:
+    take snapshot, 340, 1
+    take snapshot, 340, 2
+
+-------------------------
+Snapshot ID: 341	Process ID: 1	 Logic Clock: 3761	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 341, 1
+  From Process 2:
+    take snapshot, 341, 1
+    take snapshot, 341, 2
+
+-------------------------
+Snapshot ID: 342	Process ID: 1	 Logic Clock: 3769	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 342, 1
+  From Process 2:
+    take snapshot, 342, 1
+    take snapshot, 342, 2
+
+-------------------------
+Snapshot ID: 343	Process ID: 1	 Logic Clock: 3776	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 343, 1
+    respOK, 1
+    reqEntry, 1, 3778
+    take snapshot, 343, 2
+  From Process 0:
+    take snapshot, 343, 1
+    respOK, 1
+    reqEntry, 1, 3778
+
+-------------------------
+Snapshot ID: 344	Process ID: 1	 Logic Clock: 3789	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 344, 1
+    respOK, 1
+    reqEntry, 1, 3791
+    take snapshot, 344, 2
+  From Process 0:
+    take snapshot, 344, 1
+    respOK, 1
+    reqEntry, 1, 3791
+
+-------------------------
+Snapshot ID: 345	Process ID: 1	 Logic Clock: 3793	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 345, 1
+    respOK, 1
+    reqEntry, 1, 3794
+  From Process 2:
+    take snapshot, 345, 1
+    respOK, 1
+    reqEntry, 1, 3794
+    take snapshot, 345, 2
+
+-------------------------
+Snapshot ID: 346	Process ID: 1	 Logic Clock: 3813	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 346, 1
+  From Process 2:
+    take snapshot, 346, 1
+    take snapshot, 346, 2
+
+-------------------------
+Snapshot ID: 347	Process ID: 1	 Logic Clock: 3827	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 347, 1
+    respOK, 1
+    reqEntry, 1, 3828
+  From Process 2:
+    take snapshot, 347, 1
+    respOK, 1
+    reqEntry, 1, 3828
+    take snapshot, 347, 2
+
+-------------------------
+Snapshot ID: 348	Process ID: 1	 Logic Clock: 3850	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 348, 1
+    reqEntry, 1, 3851
+  From Process 2:
+    take snapshot, 348, 1
+    respOK, 1
+    reqEntry, 1, 3851
+    take snapshot, 348, 2
+
+-------------------------
+Snapshot ID: 349	Process ID: 1	 Logic Clock: 3856	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 349, 1
+    take snapshot, 349, 0
+  From Process 2:
+    take snapshot, 349, 1
+
+-------------------------
+Snapshot ID: 350	Process ID: 1	 Logic Clock: 3867	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 350, 1
+  From Process 2:
+    take snapshot, 350, 1
+    take snapshot, 350, 2
+
+-------------------------
+Snapshot ID: 351	Process ID: 1	 Logic Clock: 3875	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 351, 1
+  From Process 2:
+    take snapshot, 351, 1
+    take snapshot, 351, 2
+
+-------------------------
+Snapshot ID: 352	Process ID: 1	 Logic Clock: 3879	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 352, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 352, 1
+    take snapshot, 352, 2
+
+-------------------------
+Snapshot ID: 353	Process ID: 1	 Logic Clock: 3882	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 353, 1
+  From Process 2:
+    take snapshot, 353, 1
+    take snapshot, 353, 2
+
+-------------------------
+Snapshot ID: 354	Process ID: 1	 Logic Clock: 3887	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 354, 1
+    respOK, 1
+    reqEntry, 1, 3889
+  From Process 2:
+    take snapshot, 354, 1
+    respOK, 1
+    reqEntry, 1, 3889
+    take snapshot, 354, 2
+
+-------------------------
+Snapshot ID: 355	Process ID: 1	 Logic Clock: 3911	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 355, 1
+  From Process 2:
+    take snapshot, 355, 1
+    take snapshot, 355, 2
+
+-------------------------
+Snapshot ID: 356	Process ID: 1	 Logic Clock: 3942	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 356, 1
+  From Process 2:
+    take snapshot, 356, 1
+    take snapshot, 356, 2
+
+-------------------------
+Snapshot ID: 357	Process ID: 1	 Logic Clock: 3954	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 357, 1
+    respOK, 1
+    reqEntry, 1, 3956
+  From Process 2:
+    take snapshot, 357, 1
+    reqEntry, 1, 3956
+    take snapshot, 357, 2
+
+-------------------------
+Snapshot ID: 358	Process ID: 1	 Logic Clock: 4002	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 358, 1
+  From Process 2:
+    take snapshot, 358, 1
+    take snapshot, 358, 2
+
+-------------------------
+Snapshot ID: 359	Process ID: 1	 Logic Clock: 4009	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 359, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 359, 1
+    respOK, 1
+    take snapshot, 359, 2
+
+-------------------------
+Snapshot ID: 360	Process ID: 1	 Logic Clock: 4021	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 360, 1
+    respOK, 1
+    reqEntry, 1, 4023
+  From Process 2:
+    take snapshot, 360, 1
+    respOK, 1
+    reqEntry, 1, 4023
+    take snapshot, 360, 2
+
+-------------------------
+Snapshot ID: 361	Process ID: 1	 Logic Clock: 4061	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 361, 1
+    respOK, 1
+    take snapshot, 361, 2
+  From Process 0:
+    take snapshot, 361, 1
+
+-------------------------
+Snapshot ID: 362	Process ID: 1	 Logic Clock: 4077	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 362, 1
+  From Process 2:
+    take snapshot, 362, 1
+    take snapshot, 362, 2
+
+-------------------------
+Snapshot ID: 363	Process ID: 1	 Logic Clock: 4086	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 363, 1
+    respOK, 1
+    take snapshot, 363, 0
+  From Process 2:
+    take snapshot, 363, 1
+    respOK, 1
+
+-------------------------
+Snapshot ID: 364	Process ID: 1	 Logic Clock: 4100	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 364, 1
+    respOK, 1
+    take snapshot, 364, 2
+  From Process 0:
+    take snapshot, 364, 1
+    respOK, 1
+
+-------------------------
+Snapshot ID: 365	Process ID: 1	 Logic Clock: 4104	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 365, 1
+  From Process 2:
+    take snapshot, 365, 1
+    take snapshot, 365, 2
+
+-------------------------
+Snapshot ID: 366	Process ID: 1	 Logic Clock: 4116	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 366, 1
+    respOK, 1
+    reqEntry, 1, 4117
+  From Process 2:
+    take snapshot, 366, 1
+    respOK, 1
+    reqEntry, 1, 4117
+    take snapshot, 366, 2
+
+-------------------------
+Snapshot ID: 367	Process ID: 1	 Logic Clock: 4118	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 367, 1
+    take snapshot, 367, 2
+  From Process 0:
+    take snapshot, 367, 1
+
+-------------------------
+Snapshot ID: 368	Process ID: 1	 Logic Clock: 4129	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 368, 1
+    take snapshot, 368, 0
+  From Process 2:
+    take snapshot, 368, 1
+
+-------------------------
+Snapshot ID: 369	Process ID: 1	 Logic Clock: 4132	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 369, 1
+    take snapshot, 369, 2
+  From Process 0:
+    take snapshot, 369, 1
+
+-------------------------
+Snapshot ID: 370	Process ID: 1	 Logic Clock: 4162	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 370, 1
+    respOK, 1
+    reqEntry, 1, 4163
+  From Process 2:
+    take snapshot, 370, 1
+    respOK, 1
+    reqEntry, 1, 4163
+    take snapshot, 370, 2
+
+-------------------------
+Snapshot ID: 371	Process ID: 1	 Logic Clock: 4165	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 371, 1
+    respOK, 1
+    reqEntry, 1, 4166
+    take snapshot, 371, 0
+  From Process 2:
+    take snapshot, 371, 1
+    respOK, 1
+    reqEntry, 1, 4166
+
+-------------------------
+Snapshot ID: 372	Process ID: 1	 Logic Clock: 4234	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 372, 1
+    take snapshot, 372, 2
+  From Process 0:
+    take snapshot, 372, 1
+
+-------------------------
+Snapshot ID: 373	Process ID: 1	 Logic Clock: 4244	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 373, 1
+  From Process 2:
+    take snapshot, 373, 1
+    take snapshot, 373, 2
+
+-------------------------
+Snapshot ID: 374	Process ID: 1	 Logic Clock: 4246	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 374, 1
+    respOK, 1
+    reqEntry, 1, 4249
+  From Process 2:
+    take snapshot, 374, 1
+    respOK, 1
+    reqEntry, 1, 4249
+    take snapshot, 374, 2
+
+-------------------------
+Snapshot ID: 375	Process ID: 1	 Logic Clock: 4260	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 375, 1
+    respOK, 1
+    reqEntry, 1, 4262
+  From Process 2:
+    take snapshot, 375, 1
+    reqEntry, 1, 4262
+    respOK, 1
+    take snapshot, 375, 2
+
+-------------------------
+Snapshot ID: 376	Process ID: 1	 Logic Clock: 4263	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 376, 1
+    reqEntry, 1, 4264
+    take snapshot, 376, 2
+  From Process 0:
+    take snapshot, 376, 1
+    respOK, 1
+    reqEntry, 1, 4264
+
+-------------------------
+Snapshot ID: 377	Process ID: 1	 Logic Clock: 4272	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 377, 1
+    take snapshot, 377, 2
+  From Process 0:
+    take snapshot, 377, 1
+
+-------------------------
+Snapshot ID: 378	Process ID: 1	 Logic Clock: 4301	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 378, 1
+    respOK, 1
+    reqEntry, 1, 4303
+  From Process 2:
+    take snapshot, 378, 1
+    respOK, 1
+    reqEntry, 1, 4303
+    take snapshot, 378, 2
+
+-------------------------
+Snapshot ID: 379	Process ID: 1	 Logic Clock: 4304	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 379, 1
+  From Process 2:
+    take snapshot, 379, 1
+    take snapshot, 379, 2
+
+-------------------------
+Snapshot ID: 380	Process ID: 1	 Logic Clock: 4309	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 380, 1
+    respOK, 1
+    reqEntry, 1, 4311
+    take snapshot, 380, 2
+  From Process 0:
+    take snapshot, 380, 1
+    respOK, 1
+    reqEntry, 1, 4311
+
+-------------------------
+Snapshot ID: 381	Process ID: 1	 Logic Clock: 4313	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 381, 1
+  From Process 2:
+    take snapshot, 381, 1
+    take snapshot, 381, 2
+
+-------------------------
+Snapshot ID: 382	Process ID: 1	 Logic Clock: 4326	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 382, 1
+    respOK, 1
+    reqEntry, 1, 4328
+  From Process 2:
+    take snapshot, 382, 1
+    respOK, 1
+    reqEntry, 1, 4328
+    take snapshot, 382, 2
+
+-------------------------
+Snapshot ID: 383	Process ID: 1	 Logic Clock: 4347	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 383, 1
+  From Process 2:
+    take snapshot, 383, 1
+    take snapshot, 383, 2
+
+-------------------------
+Snapshot ID: 384	Process ID: 1	 Logic Clock: 4352	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 384, 1
+  From Process 2:
+    take snapshot, 384, 1
+    take snapshot, 384, 2
+
+-------------------------
+Snapshot ID: 385	Process ID: 1	 Logic Clock: 4367	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 385, 1
+  From Process 2:
+    take snapshot, 385, 1
+    take snapshot, 385, 2
+
+-------------------------
+Snapshot ID: 386	Process ID: 1	 Logic Clock: 4371	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 386, 1
+    respOK, 1
+    reqEntry, 1, 4373
+  From Process 2:
+    take snapshot, 386, 1
+    respOK, 1
+    reqEntry, 1, 4373
+    take snapshot, 386, 2
+
+-------------------------
+Snapshot ID: 387	Process ID: 1	 Logic Clock: 4393	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 387, 1
+    respOK, 1
+    reqEntry, 1, 4394
+  From Process 2:
+    take snapshot, 387, 1
+    reqEntry, 1, 4394
+    take snapshot, 387, 2
+
+-------------------------
+Snapshot ID: 388	Process ID: 1	 Logic Clock: 4410	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 388, 1
+    reqEntry, 1, 4411
+  From Process 2:
+    take snapshot, 388, 1
+    respOK, 1
+    reqEntry, 1, 4411
+    take snapshot, 388, 2
+
+-------------------------
+Snapshot ID: 389	Process ID: 1	 Logic Clock: 4414	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 389, 1
+  From Process 2:
+    take snapshot, 389, 1
+    take snapshot, 389, 2
+
+-------------------------
+Snapshot ID: 390	Process ID: 1	 Logic Clock: 4419	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 390, 1
+  From Process 2:
+    take snapshot, 390, 1
+    take snapshot, 390, 2
+
+-------------------------
+Snapshot ID: 391	Process ID: 1	 Logic Clock: 4420	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 391, 1
+    reqEntry, 1, 4421
+    respOK, 1
+  From Process 2:
+    take snapshot, 391, 1
+    reqEntry, 1, 4421
+    take snapshot, 391, 2
+
+-------------------------
+Snapshot ID: 392	Process ID: 1	 Logic Clock: 4462	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 392, 1
+  From Process 2:
+    take snapshot, 392, 1
+    take snapshot, 392, 2
+
+-------------------------
+Snapshot ID: 393	Process ID: 1	 Logic Clock: 4471	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 393, 1
+  From Process 2:
+    take snapshot, 393, 1
+    take snapshot, 393, 2
+
+-------------------------
+Snapshot ID: 394	Process ID: 1	 Logic Clock: 4476	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 394, 1
+  From Process 2:
+    take snapshot, 394, 1
+    take snapshot, 394, 2
+
+-------------------------
+Snapshot ID: 395	Process ID: 1	 Logic Clock: 4487	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 395, 1
+  From Process 2:
+    take snapshot, 395, 1
+    take snapshot, 395, 2
+
+-------------------------
+Snapshot ID: 396	Process ID: 1	 Logic Clock: 4499	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 396, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 396, 1
+    take snapshot, 396, 2
+
+-------------------------
+Snapshot ID: 397	Process ID: 1	 Logic Clock: 4504	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 397, 1
+    respOK, 1
+    reqEntry, 1, 4506
+  From Process 2:
+    take snapshot, 397, 1
+    respOK, 1
+    reqEntry, 1, 4506
+    take snapshot, 397, 2
+
+-------------------------
+Snapshot ID: 398	Process ID: 1	 Logic Clock: 4509	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 398, 1
+  From Process 2:
+    take snapshot, 398, 1
+    take snapshot, 398, 2
+
+-------------------------
+Snapshot ID: 399	Process ID: 1	 Logic Clock: 4527	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 399, 1
+    reqEntry, 1, 4528
+    respOK, 1
+  From Process 2:
+    take snapshot, 399, 1
+    reqEntry, 1, 4528
+    take snapshot, 399, 2
+
+-------------------------
+Snapshot ID: 400	Process ID: 1	 Logic Clock: 4540	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 400, 1
+    respOK, 1
+    reqEntry, 1, 4541
+  From Process 2:
+    take snapshot, 400, 1
+    respOK, 1
+    reqEntry, 1, 4541
+    take snapshot, 400, 2
+
+-------------------------
+Snapshot ID: 401	Process ID: 1	 Logic Clock: 4541	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 401, 1
+  From Process 2:
+    take snapshot, 401, 1
+    take snapshot, 401, 2
+
+-------------------------
+Snapshot ID: 402	Process ID: 1	 Logic Clock: 4545	Waiting: [true false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 402, 1
+  From Process 2:
+    take snapshot, 402, 1
+    take snapshot, 402, 2
+
+-------------------------
+Snapshot ID: 403	Process ID: 1	 Logic Clock: 4572	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 403, 1
+  From Process 2:
+    take snapshot, 403, 1
+    take snapshot, 403, 2
+
+-------------------------
+Snapshot ID: 404	Process ID: 1	 Logic Clock: 4577	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 404, 1
+    take snapshot, 404, 2
+  From Process 0:
+    take snapshot, 404, 1
+
+-------------------------
+Snapshot ID: 405	Process ID: 1	 Logic Clock: 4589	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 405, 1
+  From Process 2:
+    take snapshot, 405, 1
+    take snapshot, 405, 2
+
+-------------------------
+Snapshot ID: 406	Process ID: 1	 Logic Clock: 4615	Waiting: [true false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 406, 1
+    respOK, 1
+    reqEntry, 1, 4616
+  From Process 2:
+    take snapshot, 406, 1
+    respOK, 1
+    reqEntry, 1, 4616
+    take snapshot, 406, 2
+
+-------------------------
+Snapshot ID: 407	Process ID: 1	 Logic Clock: 4631	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 407, 1
+    respOK, 1
+    reqEntry, 1, 4634
+  From Process 2:
+    take snapshot, 407, 1
+    respOK, 1
+    reqEntry, 1, 4634
+    take snapshot, 407, 2
+
+-------------------------
+Snapshot ID: 408	Process ID: 1	 Logic Clock: 4651	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 408, 1
+  From Process 2:
+    take snapshot, 408, 1
+    take snapshot, 408, 2
+
+-------------------------
+Snapshot ID: 409	Process ID: 1	 Logic Clock: 4661	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 409, 1
+  From Process 2:
+    take snapshot, 409, 1
+    take snapshot, 409, 2
+
+-------------------------
+Snapshot ID: 410	Process ID: 1	 Logic Clock: 4683	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 410, 1
+  From Process 2:
+    take snapshot, 410, 1
+    take snapshot, 410, 2
+
+-------------------------
+Snapshot ID: 411	Process ID: 1	 Logic Clock: 4688	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 411, 1
+  From Process 2:
+    take snapshot, 411, 1
+    take snapshot, 411, 2
+
+-------------------------
+Snapshot ID: 412	Process ID: 1	 Logic Clock: 4692	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 412, 1
+  From Process 2:
+    take snapshot, 412, 1
+    take snapshot, 412, 2
+
+-------------------------
+Snapshot ID: 413	Process ID: 1	 Logic Clock: 4717	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 413, 1
+    respOK, 1
+    reqEntry, 1, 4720
+  From Process 2:
+    take snapshot, 413, 1
+    respOK, 1
+    reqEntry, 1, 4720
+    take snapshot, 413, 2
+
+-------------------------
+Snapshot ID: 414	Process ID: 1	 Logic Clock: 4726	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 414, 1
+  From Process 2:
+    take snapshot, 414, 1
+    take snapshot, 414, 2
+
+-------------------------
+Snapshot ID: 415	Process ID: 1	 Logic Clock: 4731	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 415, 1
+  From Process 2:
+    take snapshot, 415, 1
+    respOK, 1
+    take snapshot, 415, 2
+
+-------------------------
+Snapshot ID: 416	Process ID: 1	 Logic Clock: 4744	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 416, 1
+    take snapshot, 416, 2
+  From Process 0:
+    take snapshot, 416, 1
+
+-------------------------
+Snapshot ID: 417	Process ID: 1	 Logic Clock: 4758	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 417, 1
+  From Process 2:
+    take snapshot, 417, 1
+    take snapshot, 417, 2
+
+-------------------------
+Snapshot ID: 418	Process ID: 1	 Logic Clock: 4762	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 418, 1
+  From Process 2:
+    take snapshot, 418, 1
+    take snapshot, 418, 2
+
+-------------------------
+Snapshot ID: 419	Process ID: 1	 Logic Clock: 4776	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 419, 1
+  From Process 2:
+    take snapshot, 419, 1
+    take snapshot, 419, 2
+
+-------------------------
+Snapshot ID: 420	Process ID: 1	 Logic Clock: 4783	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 420, 1
+  From Process 2:
+    take snapshot, 420, 1
+    take snapshot, 420, 2
+
+-------------------------
+Snapshot ID: 421	Process ID: 1	 Logic Clock: 4789	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 421, 1
+    respOK, 1
+    reqEntry, 1, 4791
+  From Process 2:
+    take snapshot, 421, 1
+    respOK, 1
+    reqEntry, 1, 4791
+    take snapshot, 421, 2
+
+-------------------------
+Snapshot ID: 422	Process ID: 1	 Logic Clock: 4793	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 422, 1
+  From Process 2:
+    take snapshot, 422, 1
+    take snapshot, 422, 2
+
+-------------------------
+Snapshot ID: 423	Process ID: 1	 Logic Clock: 4811	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 423, 1
+  From Process 2:
+    take snapshot, 423, 1
+    take snapshot, 423, 2
+
+-------------------------
+Snapshot ID: 424	Process ID: 1	 Logic Clock: 4817	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 424, 1
+  From Process 2:
+    take snapshot, 424, 1
+    take snapshot, 424, 2
+
+-------------------------
+Snapshot ID: 425	Process ID: 1	 Logic Clock: 4827	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 425, 1
+  From Process 2:
+    take snapshot, 425, 1
+    take snapshot, 425, 2
+
+-------------------------
+Snapshot ID: 426	Process ID: 1	 Logic Clock: 4831	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 426, 1
+  From Process 2:
+    take snapshot, 426, 1
+    take snapshot, 426, 2
+
+-------------------------
+Snapshot ID: 427	Process ID: 1	 Logic Clock: 4844	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 427, 1
+    respOK, 1
+    take snapshot, 427, 2
+  From Process 0:
+    take snapshot, 427, 1
+
+-------------------------
+Snapshot ID: 428	Process ID: 1	 Logic Clock: 4856	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 428, 1
+  From Process 2:
+    take snapshot, 428, 1
+    take snapshot, 428, 2
+
+-------------------------
+Snapshot ID: 429	Process ID: 1	 Logic Clock: 4872	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 429, 1
+    take snapshot, 429, 2
+  From Process 0:
+    take snapshot, 429, 1
+    respOK, 1
+
+-------------------------
+Snapshot ID: 430	Process ID: 1	 Logic Clock: 4876	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 430, 1
+  From Process 2:
+    take snapshot, 430, 1
+    respOK, 1
+    take snapshot, 430, 2
+
+-------------------------
+Snapshot ID: 431	Process ID: 1	 Logic Clock: 4882	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 431, 1
+  From Process 2:
+    take snapshot, 431, 1
+    take snapshot, 431, 2
+
+-------------------------
+Snapshot ID: 432	Process ID: 1	 Logic Clock: 4906	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 432, 1
+    take snapshot, 432, 2
+  From Process 0:
+    take snapshot, 432, 1
+
+-------------------------
+Snapshot ID: 433	Process ID: 1	 Logic Clock: 4922	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 433, 1
+  From Process 2:
+    take snapshot, 433, 1
+    respOK, 1
+    take snapshot, 433, 2
+
+-------------------------
+Snapshot ID: 434	Process ID: 1	 Logic Clock: 4929	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 434, 1
+    respOK, 1
+    reqEntry, 1, 4931
+  From Process 2:
+    take snapshot, 434, 1
+    respOK, 1
+    reqEntry, 1, 4931
+    take snapshot, 434, 2
+
+-------------------------
+Snapshot ID: 435	Process ID: 1	 Logic Clock: 4939	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 435, 1
+    take snapshot, 435, 2
+  From Process 0:
+    take snapshot, 435, 1
+
+-------------------------
+Snapshot ID: 436	Process ID: 1	 Logic Clock: 4973	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 436, 1
+    respOK, 1
+    reqEntry, 1, 4974
+    take snapshot, 436, 2
+  From Process 0:
+    take snapshot, 436, 1
+    respOK, 1
+    reqEntry, 1, 4974
+
+-------------------------
+Snapshot ID: 437	Process ID: 1	 Logic Clock: 4978	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 437, 1
+    respOK, 1
+    reqEntry, 1, 4980
+    take snapshot, 437, 2
+  From Process 0:
+    take snapshot, 437, 1
+    respOK, 1
+    reqEntry, 1, 4980
+
+-------------------------
+Snapshot ID: 438	Process ID: 1	 Logic Clock: 4990	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 438, 1
+    take snapshot, 438, 2
+  From Process 0:
+    take snapshot, 438, 1
+
+-------------------------
+Snapshot ID: 439	Process ID: 1	 Logic Clock: 5017	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 439, 1
+  From Process 2:
+    take snapshot, 439, 1
+    take snapshot, 439, 2
+
+-------------------------
+Snapshot ID: 440	Process ID: 1	 Logic Clock: 5033	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 440, 1
+  From Process 2:
+    take snapshot, 440, 1
+    take snapshot, 440, 2
+
+-------------------------
+Snapshot ID: 441	Process ID: 1	 Logic Clock: 5038	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 441, 1
+  From Process 2:
+    take snapshot, 441, 1
+    take snapshot, 441, 2
+
+-------------------------
+Snapshot ID: 442	Process ID: 1	 Logic Clock: 5048	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 442, 1
+  From Process 2:
+    take snapshot, 442, 1
+    take snapshot, 442, 2
+
+-------------------------
+Snapshot ID: 443	Process ID: 1	 Logic Clock: 5053	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 443, 1
+    respOK, 1
+    reqEntry, 1, 5054
+  From Process 2:
+    take snapshot, 443, 1
+    respOK, 1
+    reqEntry, 1, 5054
+    take snapshot, 443, 2
+
+-------------------------
+Snapshot ID: 444	Process ID: 1	 Logic Clock: 5062	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 444, 1
+    respOK, 1
+    reqEntry, 1, 5065
+  From Process 2:
+    take snapshot, 444, 1
+    respOK, 1
+    reqEntry, 1, 5065
+    take snapshot, 444, 2
+
+-------------------------
+Snapshot ID: 445	Process ID: 1	 Logic Clock: 5081	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 445, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 445, 1
+    respOK, 1
+    take snapshot, 445, 2
+
+-------------------------
+Snapshot ID: 446	Process ID: 1	 Logic Clock: 5094	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 446, 1
+  From Process 2:
+    take snapshot, 446, 1
+    take snapshot, 446, 2
+
+-------------------------
+Snapshot ID: 447	Process ID: 1	 Logic Clock: 5105	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 447, 1
+  From Process 2:
+    take snapshot, 447, 1
+    take snapshot, 447, 2
+
+-------------------------
+Snapshot ID: 448	Process ID: 1	 Logic Clock: 5108	Waiting: [true false false]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 448, 1
+  From Process 2:
+    take snapshot, 448, 1
+    take snapshot, 448, 2
+
+-------------------------
+Snapshot ID: 449	Process ID: 1	 Logic Clock: 5113	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 449, 1
+  From Process 2:
+    take snapshot, 449, 1
+    take snapshot, 449, 2
+
+-------------------------
+Snapshot ID: 450	Process ID: 1	 Logic Clock: 5133	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 450, 1
+    respOK, 1
+    reqEntry, 1, 5135
+  From Process 2:
+    take snapshot, 450, 1
+    respOK, 1
+    reqEntry, 1, 5135
+    take snapshot, 450, 2
+
+-------------------------
+Snapshot ID: 451	Process ID: 1	 Logic Clock: 5137	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 451, 1
+  From Process 2:
+    take snapshot, 451, 1
+    take snapshot, 451, 2
+
+-------------------------
+Snapshot ID: 452	Process ID: 1	 Logic Clock: 5147	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 452, 1
+    respOK, 1
+    reqEntry, 1, 5149
+  From Process 2:
+    take snapshot, 452, 1
+    respOK, 1
+    reqEntry, 1, 5149
+    take snapshot, 452, 2
+
+-------------------------
+Snapshot ID: 453	Process ID: 1	 Logic Clock: 5156	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 453, 1
+    take snapshot, 453, 2
+  From Process 0:
+    take snapshot, 453, 1
+
+-------------------------
+Snapshot ID: 454	Process ID: 1	 Logic Clock: 5166	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 454, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 454, 1
+    respOK, 1
+    take snapshot, 454, 2
+
+-------------------------
+Snapshot ID: 455	Process ID: 1	 Logic Clock: 5183	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 455, 1
+  From Process 2:
+    take snapshot, 455, 1
+    take snapshot, 455, 2
+
+-------------------------
+Snapshot ID: 456	Process ID: 1	 Logic Clock: 5207	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 456, 1
+  From Process 0:
+    take snapshot, 456, 1
+    take snapshot, 456, 0
+
+-------------------------
+Snapshot ID: 457	Process ID: 1	 Logic Clock: 5233	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 457, 1
+  From Process 2:
+    take snapshot, 457, 1
+    take snapshot, 457, 2
+
+-------------------------
+Snapshot ID: 458	Process ID: 1	 Logic Clock: 5247	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 458, 1
+  From Process 2:
+    take snapshot, 458, 1
+    take snapshot, 458, 2
+
+-------------------------
+Snapshot ID: 459	Process ID: 1	 Logic Clock: 5257	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 459, 1
+  From Process 2:
+    take snapshot, 459, 1
+    take snapshot, 459, 2
+
+-------------------------
+Snapshot ID: 460	Process ID: 1	 Logic Clock: 5275	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 460, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 460, 1
+    take snapshot, 460, 2
+
+-------------------------
+Snapshot ID: 461	Process ID: 1	 Logic Clock: 5307	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 461, 1
+  From Process 2:
+    take snapshot, 461, 1
+    take snapshot, 461, 2
+
+-------------------------
+Snapshot ID: 462	Process ID: 1	 Logic Clock: 5311	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 462, 1
+    respOK, 1
+    reqEntry, 1, 5312
+  From Process 2:
+    take snapshot, 462, 1
+    respOK, 1
+    reqEntry, 1, 5312
+    take snapshot, 462, 2
+
+-------------------------
+Snapshot ID: 463	Process ID: 1	 Logic Clock: 5326	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 463, 1
+  From Process 2:
+    take snapshot, 463, 1
+    take snapshot, 463, 2
+
+-------------------------
+Snapshot ID: 464	Process ID: 1	 Logic Clock: 5336	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 464, 1
+    respOK, 1
+    reqEntry, 1, 5337
+  From Process 2:
+    take snapshot, 464, 1
+    respOK, 1
+    reqEntry, 1, 5337
+    take snapshot, 464, 2
+
+-------------------------
+Snapshot ID: 465	Process ID: 1	 Logic Clock: 5344	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 465, 1
+  From Process 2:
+    take snapshot, 465, 1
+    take snapshot, 465, 2
+
+-------------------------
+Snapshot ID: 466	Process ID: 1	 Logic Clock: 5352	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 466, 1
+    take snapshot, 466, 2
+  From Process 0:
+    take snapshot, 466, 1
+
+-------------------------
+Snapshot ID: 467	Process ID: 1	 Logic Clock: 5396	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 467, 1
+    reqEntry, 1, 5397
+    respOK, 1
+    take snapshot, 467, 2
+  From Process 0:
+    take snapshot, 467, 1
+    respOK, 1
+    reqEntry, 1, 5397
+
+-------------------------
+Snapshot ID: 468	Process ID: 1	 Logic Clock: 5401	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 468, 1
+  From Process 2:
+    take snapshot, 468, 1
+    take snapshot, 468, 2
+
+-------------------------
+Snapshot ID: 469	Process ID: 1	 Logic Clock: 5406	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 469, 1
+  From Process 2:
+    take snapshot, 469, 1
+    take snapshot, 469, 2
+
+-------------------------
+Snapshot ID: 470	Process ID: 1	 Logic Clock: 5414	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 470, 1
+    respOK, 1
+    reqEntry, 1, 5416
+  From Process 2:
+    take snapshot, 470, 1
+    respOK, 1
+    reqEntry, 1, 5416
+    take snapshot, 470, 2
+
+-------------------------
+Snapshot ID: 471	Process ID: 1	 Logic Clock: 5436	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 471, 1
+    respOK, 1
+    reqEntry, 1, 5438
+  From Process 2:
+    take snapshot, 471, 1
+    respOK, 1
+    reqEntry, 1, 5438
+    take snapshot, 471, 2
+
+-------------------------
+Snapshot ID: 472	Process ID: 1	 Logic Clock: 5443	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 472, 1
+  From Process 2:
+    take snapshot, 472, 1
+    take snapshot, 472, 2
+
+-------------------------
+Snapshot ID: 473	Process ID: 1	 Logic Clock: 5459	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 473, 1
+    reqEntry, 1, 5461
+    respOK, 1
+  From Process 2:
+    take snapshot, 473, 1
+    respOK, 1
+    reqEntry, 1, 5461
+    take snapshot, 473, 2
+
+-------------------------
+Snapshot ID: 474	Process ID: 1	 Logic Clock: 5466	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 474, 1
+    respOK, 1
+    reqEntry, 1, 5468
+  From Process 2:
+    take snapshot, 474, 1
+    respOK, 1
+    reqEntry, 1, 5468
+    take snapshot, 474, 2
+
+-------------------------
+Snapshot ID: 475	Process ID: 1	 Logic Clock: 5472	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 475, 1
+  From Process 2:
+    take snapshot, 475, 1
+    take snapshot, 475, 2
+
+-------------------------
+Snapshot ID: 476	Process ID: 1	 Logic Clock: 5505	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 476, 1
+    reqEntry, 1, 5506
+    respOK, 1
+  From Process 2:
+    take snapshot, 476, 1
+    respOK, 1
+    reqEntry, 1, 5506
+    take snapshot, 476, 2
+
+-------------------------
+Snapshot ID: 477	Process ID: 1	 Logic Clock: 5521	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 477, 1
+    respOK, 1
+    reqEntry, 1, 5524
+  From Process 2:
+    take snapshot, 477, 1
+    respOK, 1
+    reqEntry, 1, 5524
+    take snapshot, 477, 2
+
+-------------------------
+Snapshot ID: 478	Process ID: 1	 Logic Clock: 5528	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 478, 1
+    respOK, 1
+    reqEntry, 1, 5530
+  From Process 2:
+    take snapshot, 478, 1
+    respOK, 1
+    reqEntry, 1, 5530
+    take snapshot, 478, 2
+
+-------------------------
+Snapshot ID: 479	Process ID: 1	 Logic Clock: 5553	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 479, 1
+  From Process 2:
+    take snapshot, 479, 1
+    take snapshot, 479, 2
+
+-------------------------
+Snapshot ID: 480	Process ID: 1	 Logic Clock: 5558	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 480, 1
+  From Process 2:
+    take snapshot, 480, 1
+    take snapshot, 480, 2
+
+-------------------------
+Snapshot ID: 481	Process ID: 1	 Logic Clock: 5563	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 481, 1
+    reqEntry, 1, 5564
+  From Process 2:
+    take snapshot, 481, 1
+    respOK, 1
+    reqEntry, 1, 5564
+    take snapshot, 481, 2
+
+-------------------------
+Snapshot ID: 482	Process ID: 1	 Logic Clock: 5565	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 482, 1
+    reqEntry, 1, 5566
+  From Process 2:
+    take snapshot, 482, 1
+    respOK, 1
+    reqEntry, 1, 5566
+    take snapshot, 482, 2
+
+-------------------------
+Snapshot ID: 483	Process ID: 1	 Logic Clock: 5572	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 483, 1
+  From Process 2:
+    take snapshot, 483, 1
+    take snapshot, 483, 2
+
+-------------------------
+Snapshot ID: 484	Process ID: 1	 Logic Clock: 5577	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 484, 1
+  From Process 2:
+    take snapshot, 484, 1
+    take snapshot, 484, 2
+
+-------------------------
+Snapshot ID: 485	Process ID: 1	 Logic Clock: 5583	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 485, 1
+    take snapshot, 485, 2
+  From Process 0:
+    take snapshot, 485, 1
+
+-------------------------
+Snapshot ID: 486	Process ID: 1	 Logic Clock: 5594	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 486, 1
+    reqEntry, 1, 5595
+  From Process 2:
+    take snapshot, 486, 1
+    reqEntry, 1, 5595
+    take snapshot, 486, 2
+
+-------------------------
+Snapshot ID: 487	Process ID: 1	 Logic Clock: 5608	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 487, 1
+  From Process 2:
+    take snapshot, 487, 1
+    take snapshot, 487, 2
+
+-------------------------
+Snapshot ID: 488	Process ID: 1	 Logic Clock: 5610	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 488, 1
+    respOK, 1
+    reqEntry, 1, 5611
+  From Process 2:
+    take snapshot, 488, 1
+    respOK, 1
+    reqEntry, 1, 5611
+    take snapshot, 488, 2
+
+-------------------------
+Snapshot ID: 489	Process ID: 1	 Logic Clock: 5614	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 489, 1
+    respOK, 1
+    reqEntry, 1, 5615
+    take snapshot, 489, 2
+  From Process 0:
+    take snapshot, 489, 1
+    respOK, 1
+    reqEntry, 1, 5615
+    respOK, 1
+
+-------------------------
+Snapshot ID: 490	Process ID: 1	 Logic Clock: 5626	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 490, 1
+    take snapshot, 490, 2
+  From Process 0:
+    take snapshot, 490, 1
+
+-------------------------
+Snapshot ID: 491	Process ID: 1	 Logic Clock: 5630	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 491, 1
+  From Process 2:
+    take snapshot, 491, 1
+    take snapshot, 491, 2
+
+-------------------------
+Snapshot ID: 492	Process ID: 1	 Logic Clock: 5637	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 492, 1
+  From Process 2:
+    take snapshot, 492, 1
+    take snapshot, 492, 2
+
+-------------------------
+Snapshot ID: 493	Process ID: 1	 Logic Clock: 5664	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 493, 1
+  From Process 2:
+    take snapshot, 493, 1
+    take snapshot, 493, 2
+
+-------------------------
+Snapshot ID: 494	Process ID: 1	 Logic Clock: 5674	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 494, 1
+  From Process 2:
+    take snapshot, 494, 1
+    take snapshot, 494, 2
+
+-------------------------
+Snapshot ID: 495	Process ID: 1	 Logic Clock: 5681	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 495, 1
+  From Process 2:
+    take snapshot, 495, 1
+    take snapshot, 495, 2
+
+-------------------------
+Snapshot ID: 496	Process ID: 1	 Logic Clock: 5691	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 496, 1
+    respOK, 1
+    reqEntry, 1, 5692
+  From Process 2:
+    take snapshot, 496, 1
+    respOK, 1
+    reqEntry, 1, 5692
+    take snapshot, 496, 2
+
+-------------------------
+Snapshot ID: 497	Process ID: 1	 Logic Clock: 5707	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 497, 1
+    respOK, 1
+    reqEntry, 1, 5708
+    take snapshot, 497, 2
+  From Process 0:
+    take snapshot, 497, 1
+    reqEntry, 1, 5708
+
+-------------------------
+Snapshot ID: 498	Process ID: 1	 Logic Clock: 5717	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 498, 1
+    take snapshot, 498, 2
+  From Process 0:
+    take snapshot, 498, 1
+
+-------------------------
+Snapshot ID: 499	Process ID: 1	 Logic Clock: 5726	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 499, 1
+  From Process 2:
+    take snapshot, 499, 1
+    take snapshot, 499, 2
+
+-------------------------
+Snapshot ID: 500	Process ID: 1	 Logic Clock: 5758	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 500, 1
+  From Process 2:
+    take snapshot, 500, 1
+    take snapshot, 500, 2
+
+-------------------------
+Snapshot ID: 501	Process ID: 1	 Logic Clock: 5771	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 501, 1
+  From Process 2:
+    take snapshot, 501, 1
+    take snapshot, 501, 2
+
+-------------------------
+Snapshot ID: 502	Process ID: 1	 Logic Clock: 5776	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 502, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 502, 1
+    take snapshot, 502, 2
+
+-------------------------
+Snapshot ID: 503	Process ID: 1	 Logic Clock: 5797	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 503, 1
+  From Process 2:
+    take snapshot, 503, 1
+    take snapshot, 503, 2
+
+-------------------------
+Snapshot ID: 504	Process ID: 1	 Logic Clock: 5808	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 504, 1
+    take snapshot, 504, 0
+  From Process 2:
+    take snapshot, 504, 1
+
+-------------------------
+Snapshot ID: 505	Process ID: 1	 Logic Clock: 5837	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 505, 1
+  From Process 2:
+    take snapshot, 505, 1
+    take snapshot, 505, 2
+
+-------------------------
+Snapshot ID: 506	Process ID: 1	 Logic Clock: 5847	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 506, 1
+  From Process 2:
+    take snapshot, 506, 1
+    take snapshot, 506, 2
+
+-------------------------
+Snapshot ID: 507	Process ID: 1	 Logic Clock: 5851	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 507, 1
+    take snapshot, 507, 2
+  From Process 0:
+    take snapshot, 507, 1
+
+-------------------------
+Snapshot ID: 508	Process ID: 1	 Logic Clock: 5854	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 508, 1
+  From Process 2:
+    take snapshot, 508, 1
+    take snapshot, 508, 2
+
+-------------------------
+Snapshot ID: 509	Process ID: 1	 Logic Clock: 5857	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 509, 1
+    reqEntry, 1, 5858
+    respOK, 1
+  From Process 2:
+    take snapshot, 509, 1
+    respOK, 1
+    reqEntry, 1, 5858
+    take snapshot, 509, 2
+
+-------------------------
+Snapshot ID: 510	Process ID: 1	 Logic Clock: 5858	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 510, 1
+  From Process 2:
+    take snapshot, 510, 1
+    take snapshot, 510, 2
+
+-------------------------
+Snapshot ID: 511	Process ID: 1	 Logic Clock: 5862	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 511, 1
+  From Process 2:
+    take snapshot, 511, 1
+    take snapshot, 511, 2
+
+-------------------------
+Snapshot ID: 512	Process ID: 1	 Logic Clock: 5872	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 512, 1
+  From Process 2:
+    take snapshot, 512, 1
+    take snapshot, 512, 2
+
+-------------------------
+Snapshot ID: 513	Process ID: 1	 Logic Clock: 5875	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 513, 1
+    reqEntry, 1, 5876
+  From Process 2:
+    take snapshot, 513, 1
+    reqEntry, 1, 5876
+    take snapshot, 513, 2
+
+-------------------------
+Snapshot ID: 514	Process ID: 1	 Logic Clock: 5892	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 514, 1
+    respOK, 1
+    reqEntry, 1, 5895
+  From Process 2:
+    take snapshot, 514, 1
+    respOK, 1
+    reqEntry, 1, 5895
+    take snapshot, 514, 2
+
+-------------------------
+Snapshot ID: 515	Process ID: 1	 Logic Clock: 5921	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 515, 1
+  From Process 2:
+    take snapshot, 515, 1
+    take snapshot, 515, 2
+
+-------------------------
+Snapshot ID: 516	Process ID: 1	 Logic Clock: 5929	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 516, 1
+    respOK, 1
+    reqEntry, 1, 5930
+    respOK, 1
+  From Process 2:
+    take snapshot, 516, 1
+    respOK, 1
+    reqEntry, 1, 5930
+    take snapshot, 516, 2
+
+-------------------------
+Snapshot ID: 517	Process ID: 1	 Logic Clock: 5936	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 517, 1
+  From Process 2:
+    take snapshot, 517, 1
+    take snapshot, 517, 2
+
+-------------------------
+Snapshot ID: 518	Process ID: 1	 Logic Clock: 5949	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 518, 1
+    respOK, 1
+    reqEntry, 1, 5950
+  From Process 2:
+    take snapshot, 518, 1
+    respOK, 1
+    reqEntry, 1, 5950
+    take snapshot, 518, 2
+
+-------------------------
+Snapshot ID: 519	Process ID: 1	 Logic Clock: 5952	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 519, 1
+  From Process 2:
+    take snapshot, 519, 1
+    take snapshot, 519, 2
+
+-------------------------
+Snapshot ID: 520	Process ID: 1	 Logic Clock: 5973	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 520, 1
+  From Process 2:
+    take snapshot, 520, 1
+    take snapshot, 520, 2
+
+-------------------------
+Snapshot ID: 521	Process ID: 1	 Logic Clock: 5978	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 521, 1
+    respOK, 1
+    reqEntry, 1, 5981
+  From Process 2:
+    take snapshot, 521, 1
+    respOK, 1
+    reqEntry, 1, 5981
+    take snapshot, 521, 2
+
+-------------------------
+Snapshot ID: 522	Process ID: 1	 Logic Clock: 5993	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 522, 1
+  From Process 2:
+    take snapshot, 522, 1
+    take snapshot, 522, 2
+
+-------------------------
+Snapshot ID: 523	Process ID: 1	 Logic Clock: 5996	Waiting: [true false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 523, 1
+    respOK, 1
+    reqEntry, 1, 5997
+  From Process 2:
+    take snapshot, 523, 1
+    respOK, 1
+    reqEntry, 1, 5997
+    take snapshot, 523, 2
+
+-------------------------
+Snapshot ID: 524	Process ID: 1	 Logic Clock: 6002	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 524, 1
+  From Process 2:
+    take snapshot, 524, 1
+    take snapshot, 524, 2
+
+-------------------------
+Snapshot ID: 525	Process ID: 1	 Logic Clock: 6032	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 525, 1
+  From Process 2:
+    take snapshot, 525, 1
+    take snapshot, 525, 2
+
+-------------------------
+Snapshot ID: 526	Process ID: 1	 Logic Clock: 6040	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 526, 1
+  From Process 2:
+    take snapshot, 526, 1
+    respOK, 1
+    take snapshot, 526, 2
+
+-------------------------
+Snapshot ID: 527	Process ID: 1	 Logic Clock: 6045	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 527, 1
+  From Process 2:
+    take snapshot, 527, 1
+    take snapshot, 527, 2
+
+-------------------------
+Snapshot ID: 528	Process ID: 1	 Logic Clock: 6065	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 528, 1
+    reqEntry, 1, 6067
+    respOK, 1
+  From Process 2:
+    take snapshot, 528, 1
+    respOK, 1
+    reqEntry, 1, 6067
+    take snapshot, 528, 2
+
+-------------------------
+Snapshot ID: 529	Process ID: 1	 Logic Clock: 6081	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 529, 1
+    respOK, 1
+    reqEntry, 1, 6083
+  From Process 2:
+    take snapshot, 529, 1
+    respOK, 1
+    reqEntry, 1, 6083
+    take snapshot, 529, 2
+
+-------------------------
+Snapshot ID: 530	Process ID: 1	 Logic Clock: 6096	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 530, 1
+  From Process 2:
+    take snapshot, 530, 1
+    take snapshot, 530, 2
+
+-------------------------
+Snapshot ID: 531	Process ID: 1	 Logic Clock: 6101	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 531, 1
+  From Process 2:
+    take snapshot, 531, 1
+    take snapshot, 531, 2
+
+-------------------------
+Snapshot ID: 532	Process ID: 1	 Logic Clock: 6106	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 532, 1
+    respOK, 1
+    reqEntry, 1, 6107
+  From Process 2:
+    take snapshot, 532, 1
+    respOK, 1
+    reqEntry, 1, 6107
+    take snapshot, 532, 2
+
+-------------------------
+Snapshot ID: 533	Process ID: 1	 Logic Clock: 6159	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 533, 1
+    reqEntry, 1, 6160
+    respOK, 1
+  From Process 2:
+    take snapshot, 533, 1
+    respOK, 1
+    reqEntry, 1, 6160
+    take snapshot, 533, 2
+
+-------------------------
+Snapshot ID: 534	Process ID: 1	 Logic Clock: 6164	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 534, 1
+  From Process 2:
+    take snapshot, 534, 1
+    take snapshot, 534, 2
+
+-------------------------
+Snapshot ID: 535	Process ID: 1	 Logic Clock: 6168	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 535, 1
+    take snapshot, 535, 2
+  From Process 0:
+    take snapshot, 535, 1
+
+-------------------------
+Snapshot ID: 536	Process ID: 1	 Logic Clock: 6186	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 536, 1
+    respOK, 1
+    reqEntry, 1, 6187
+  From Process 2:
+    take snapshot, 536, 1
+    respOK, 1
+    reqEntry, 1, 6187
+    take snapshot, 536, 2
+
+-------------------------
+Snapshot ID: 537	Process ID: 1	 Logic Clock: 6194	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 537, 1
+    respOK, 1
+    reqEntry, 1, 6195
+  From Process 2:
+    take snapshot, 537, 1
+    respOK, 1
+    reqEntry, 1, 6195
+    take snapshot, 537, 2
+
+-------------------------
+Snapshot ID: 538	Process ID: 1	 Logic Clock: 6197	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 538, 1
+  From Process 2:
+    take snapshot, 538, 1
+    take snapshot, 538, 2
+
+-------------------------
+Snapshot ID: 539	Process ID: 1	 Logic Clock: 6199	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 539, 1
+    respOK, 1
+    reqEntry, 1, 6201
+  From Process 2:
+    take snapshot, 539, 1
+    respOK, 1
+    reqEntry, 1, 6201
+    take snapshot, 539, 2
+
+-------------------------
+Snapshot ID: 540	Process ID: 1	 Logic Clock: 6204	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 540, 1
+  From Process 2:
+    take snapshot, 540, 1
+    take snapshot, 540, 2
+
+-------------------------
+Snapshot ID: 541	Process ID: 1	 Logic Clock: 6209	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 541, 1
+  From Process 2:
+    take snapshot, 541, 1
+    take snapshot, 541, 2
+
+-------------------------
+Snapshot ID: 542	Process ID: 1	 Logic Clock: 6215	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 542, 1
+    respOK, 1
+    reqEntry, 1, 6217
+  From Process 2:
+    take snapshot, 542, 1
+    reqEntry, 1, 6217
+    take snapshot, 542, 2
+
+-------------------------
+Snapshot ID: 543	Process ID: 1	 Logic Clock: 6222	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 543, 1
+    take snapshot, 543, 0
+  From Process 2:
+    take snapshot, 543, 1
+
+-------------------------
+Snapshot ID: 544	Process ID: 1	 Logic Clock: 6243	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 544, 1
+    respOK, 1
+    reqEntry, 1, 6245
+  From Process 2:
+    take snapshot, 544, 1
+    respOK, 1
+    reqEntry, 1, 6245
+    take snapshot, 544, 2
+
+-------------------------
+Snapshot ID: 545	Process ID: 1	 Logic Clock: 6245	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 545, 1
+    respOK, 1
+    reqEntry, 1, 6248
+  From Process 2:
+    take snapshot, 545, 1
+    respOK, 1
+    reqEntry, 1, 6248
+    take snapshot, 545, 2
+
+-------------------------
+Snapshot ID: 546	Process ID: 1	 Logic Clock: 6257	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 546, 1
+    reqEntry, 1, 6259
+    respOK, 1
+  From Process 2:
+    take snapshot, 546, 1
+    respOK, 1
+    reqEntry, 1, 6259
+    take snapshot, 546, 2
+
+-------------------------
+Snapshot ID: 547	Process ID: 1	 Logic Clock: 6262	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 547, 1
+    reqEntry, 1, 6264
+    respOK, 1
+  From Process 2:
+    take snapshot, 547, 1
+    respOK, 1
+    reqEntry, 1, 6264
+    take snapshot, 547, 2
+
+-------------------------
+Snapshot ID: 548	Process ID: 1	 Logic Clock: 6278	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 548, 1
+    respOK, 1
+    reqEntry, 1, 6279
+    take snapshot, 548, 2
+  From Process 0:
+    take snapshot, 548, 1
+    respOK, 1
+    reqEntry, 1, 6279
+
+-------------------------
+Snapshot ID: 549	Process ID: 1	 Logic Clock: 6282	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 549, 1
+  From Process 2:
+    take snapshot, 549, 1
+    respOK, 1
+    take snapshot, 549, 2
+
+-------------------------
+Snapshot ID: 550	Process ID: 1	 Logic Clock: 6290	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 550, 1
+    respOK, 1
+    reqEntry, 1, 6291
+  From Process 2:
+    take snapshot, 550, 1
+    respOK, 1
+    reqEntry, 1, 6291
+    take snapshot, 550, 2
+
+-------------------------
+Snapshot ID: 551	Process ID: 1	 Logic Clock: 6292	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 551, 1
+    respOK, 1
+    reqEntry, 1, 6293
+  From Process 2:
+    take snapshot, 551, 1
+    respOK, 1
+    reqEntry, 1, 6293
+    take snapshot, 551, 2
+
+-------------------------
+Snapshot ID: 552	Process ID: 1	 Logic Clock: 6294	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 552, 1
+  From Process 2:
+    take snapshot, 552, 1
+    take snapshot, 552, 2
+
+-------------------------
+Snapshot ID: 553	Process ID: 1	 Logic Clock: 6309	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 553, 1
+    respOK, 1
+    reqEntry, 1, 6311
+  From Process 2:
+    take snapshot, 553, 1
+    respOK, 1
+    reqEntry, 1, 6311
+    take snapshot, 553, 2
+
+-------------------------
+Snapshot ID: 554	Process ID: 1	 Logic Clock: 6314	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 554, 1
+  From Process 2:
+    take snapshot, 554, 1
+    take snapshot, 554, 2
+
+-------------------------
+Snapshot ID: 555	Process ID: 1	 Logic Clock: 6331	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 555, 1
+    respOK, 1
+    reqEntry, 1, 6333
+  From Process 2:
+    take snapshot, 555, 1
+    respOK, 1
+    reqEntry, 1, 6333
+    take snapshot, 555, 2
+
+-------------------------
+Snapshot ID: 556	Process ID: 1	 Logic Clock: 6340	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 556, 1
+    respOK, 1
+    take snapshot, 556, 2
+  From Process 0:
+    take snapshot, 556, 1
+
+-------------------------
+Snapshot ID: 557	Process ID: 1	 Logic Clock: 6381	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 557, 1
+  From Process 2:
+    take snapshot, 557, 1
+    take snapshot, 557, 2
+
+-------------------------
+Snapshot ID: 558	Process ID: 1	 Logic Clock: 6384	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 558, 1
+    respOK, 1
+    reqEntry, 1, 6386
+  From Process 2:
+    take snapshot, 558, 1
+    respOK, 1
+    reqEntry, 1, 6386
+    take snapshot, 558, 2
+
+-------------------------
+Snapshot ID: 559	Process ID: 1	 Logic Clock: 6402	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 559, 1
+    take snapshot, 559, 2
+  From Process 0:
+    take snapshot, 559, 1
+
+-------------------------
+Snapshot ID: 560	Process ID: 1	 Logic Clock: 6430	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 560, 1
+  From Process 2:
+    take snapshot, 560, 1
+    take snapshot, 560, 2
+
+-------------------------
+Snapshot ID: 561	Process ID: 1	 Logic Clock: 6435	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 561, 1
+    respOK, 1
+    reqEntry, 1, 6437
+    take snapshot, 561, 2
+  From Process 0:
+    take snapshot, 561, 1
+    respOK, 1
+    reqEntry, 1, 6437
+
+-------------------------
+Snapshot ID: 562	Process ID: 1	 Logic Clock: 6488	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 562, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 562, 1
+    respOK, 1
+    take snapshot, 562, 2
+
+-------------------------
+Snapshot ID: 563	Process ID: 1	 Logic Clock: 6507	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 563, 1
+    respOK, 1
+    reqEntry, 1, 6509
+  From Process 2:
+    take snapshot, 563, 1
+    respOK, 1
+    reqEntry, 1, 6509
+    take snapshot, 563, 2
+
+-------------------------
+Snapshot ID: 564	Process ID: 1	 Logic Clock: 6512	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 564, 1
+    respOK, 1
+    reqEntry, 1, 6514
+  From Process 2:
+    take snapshot, 564, 1
+    respOK, 1
+    reqEntry, 1, 6514
+    take snapshot, 564, 2
+
+-------------------------
+Snapshot ID: 565	Process ID: 1	 Logic Clock: 6532	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 565, 1
+  From Process 2:
+    take snapshot, 565, 1
+    take snapshot, 565, 2
+
+-------------------------
+Snapshot ID: 566	Process ID: 1	 Logic Clock: 6537	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 566, 1
+  From Process 2:
+    take snapshot, 566, 1
+    take snapshot, 566, 2
+
+-------------------------
+Snapshot ID: 567	Process ID: 1	 Logic Clock: 6583	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 567, 1
+  From Process 2:
+    take snapshot, 567, 1
+    take snapshot, 567, 2
+
+-------------------------
+Snapshot ID: 568	Process ID: 1	 Logic Clock: 6619	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 568, 1
+  From Process 2:
+    take snapshot, 568, 1
+    take snapshot, 568, 2
+
+-------------------------
+Snapshot ID: 569	Process ID: 1	 Logic Clock: 6633	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 569, 1
+  From Process 2:
+    take snapshot, 569, 1
+    take snapshot, 569, 2
+
+-------------------------
+Snapshot ID: 570	Process ID: 1	 Logic Clock: 6657	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 570, 1
+  From Process 2:
+    take snapshot, 570, 1
+    take snapshot, 570, 2
+
+-------------------------
+Snapshot ID: 571	Process ID: 1	 Logic Clock: 6669	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 571, 1
+    take snapshot, 571, 2
+  From Process 0:
+    take snapshot, 571, 1
+
+-------------------------
+Snapshot ID: 572	Process ID: 1	 Logic Clock: 6686	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 572, 1
+    respOK, 1
+  From Process 2:
+    take snapshot, 572, 1
+    take snapshot, 572, 2
+
+-------------------------
+Snapshot ID: 573	Process ID: 1	 Logic Clock: 6710	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 573, 1
+    respOK, 1
+    reqEntry, 1, 6711
+  From Process 2:
+    take snapshot, 573, 1
+    respOK, 1
+    reqEntry, 1, 6711
+    take snapshot, 573, 2
+
+-------------------------
+Snapshot ID: 574	Process ID: 1	 Logic Clock: 6719	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 574, 1
+  From Process 2:
+    take snapshot, 574, 1
+    take snapshot, 574, 2
+
+-------------------------
+Snapshot ID: 575	Process ID: 1	 Logic Clock: 6722	Waiting: [true false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 575, 1
+  From Process 2:
+    take snapshot, 575, 1
+    take snapshot, 575, 2
+
+-------------------------
+Snapshot ID: 576	Process ID: 1	 Logic Clock: 6724	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 576, 1
+    respOK, 1
+    reqEntry, 1, 6726
+  From Process 2:
+    take snapshot, 576, 1
+    respOK, 1
+    reqEntry, 1, 6726
+    take snapshot, 576, 2
+
+-------------------------
+Snapshot ID: 577	Process ID: 1	 Logic Clock: 6730	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 577, 1
+  From Process 2:
+    take snapshot, 577, 1
+    take snapshot, 577, 2
+
+-------------------------
+Snapshot ID: 578	Process ID: 1	 Logic Clock: 6739	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 578, 1
+    respOK, 1
+    reqEntry, 1, 6741
+  From Process 2:
+    take snapshot, 578, 1
+    respOK, 1
+    reqEntry, 1, 6741
+    take snapshot, 578, 2
+
+-------------------------
+Snapshot ID: 579	Process ID: 1	 Logic Clock: 6767	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 579, 1
+  From Process 2:
+    take snapshot, 579, 1
+    respOK, 1
+    take snapshot, 579, 2
+
+-------------------------
+Snapshot ID: 580	Process ID: 1	 Logic Clock: 6771	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 580, 1
+    respOK, 1
+    reqEntry, 1, 6773
+  From Process 2:
+    take snapshot, 580, 1
+    respOK, 1
+    reqEntry, 1, 6773
+    take snapshot, 580, 2
+
+-------------------------
+Snapshot ID: 581	Process ID: 1	 Logic Clock: 6792	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 581, 1
+  From Process 2:
+    take snapshot, 581, 1
+    take snapshot, 581, 2
+
+-------------------------
+Snapshot ID: 582	Process ID: 1	 Logic Clock: 6796	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 582, 1
+    respOK, 1
+    reqEntry, 1, 6798
+  From Process 2:
+    take snapshot, 582, 1
+    respOK, 1
+    reqEntry, 1, 6798
+    take snapshot, 582, 2
+
+-------------------------
+Snapshot ID: 583	Process ID: 1	 Logic Clock: 6826	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 583, 1
+    take snapshot, 583, 2
+  From Process 0:
+    take snapshot, 583, 1
+
+-------------------------
+Snapshot ID: 584	Process ID: 1	 Logic Clock: 6829	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 584, 1
+    respOK, 1
+    reqEntry, 1, 6831
+  From Process 2:
+    take snapshot, 584, 1
+    respOK, 1
+    reqEntry, 1, 6831
+    take snapshot, 584, 2
+
+-------------------------
+Snapshot ID: 585	Process ID: 1	 Logic Clock: 6843	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 585, 1
+  From Process 2:
+    take snapshot, 585, 1
+    take snapshot, 585, 2
+
+-------------------------
+Snapshot ID: 586	Process ID: 1	 Logic Clock: 6850	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 586, 1
+    respOK, 1
+    reqEntry, 1, 6852
+    take snapshot, 586, 2
+  From Process 0:
+    take snapshot, 586, 1
+    respOK, 1
+    reqEntry, 1, 6852
+
+-------------------------
+Snapshot ID: 587	Process ID: 1	 Logic Clock: 6865	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 587, 1
+    respOK, 1
+    reqEntry, 1, 6866
+  From Process 2:
+    take snapshot, 587, 1
+    respOK, 1
+    reqEntry, 1, 6866
+    take snapshot, 587, 2
+
+-------------------------
+Snapshot ID: 588	Process ID: 1	 Logic Clock: 6869	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 588, 1
+    respOK, 1
+    reqEntry, 1, 6872
+  From Process 2:
+    take snapshot, 588, 1
+    respOK, 1
+    reqEntry, 1, 6872
+    take snapshot, 588, 2
+
+-------------------------
+Snapshot ID: 589	Process ID: 1	 Logic Clock: 6880	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 589, 1
+    respOK, 1
+    reqEntry, 1, 6882
+  From Process 2:
+    take snapshot, 589, 1
+    respOK, 1
+    reqEntry, 1, 6882
+    take snapshot, 589, 2
+
+-------------------------
+Snapshot ID: 590	Process ID: 1	 Logic Clock: 6892	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 590, 1
+  From Process 2:
+    take snapshot, 590, 1
+    take snapshot, 590, 2
+
+-------------------------
+Snapshot ID: 591	Process ID: 1	 Logic Clock: 6897	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 591, 1
+    respOK, 1
+    reqEntry, 1, 6900
+  From Process 2:
+    take snapshot, 591, 1
+    reqEntry, 1, 6900
+    respOK, 1
+    take snapshot, 591, 2
+
+-------------------------
+Snapshot ID: 592	Process ID: 1	 Logic Clock: 6908	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 592, 1
+  From Process 2:
+    take snapshot, 592, 1
+    take snapshot, 592, 2
+
+-------------------------
+Snapshot ID: 593	Process ID: 1	 Logic Clock: 6916	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 593, 1
+  From Process 2:
+    take snapshot, 593, 1
+    take snapshot, 593, 2
+
+-------------------------
+Snapshot ID: 594	Process ID: 1	 Logic Clock: 6926	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 594, 1
+    respOK, 1
+    reqEntry, 1, 6928
+  From Process 2:
+    take snapshot, 594, 1
+    respOK, 1
+    reqEntry, 1, 6928
+    take snapshot, 594, 2
+
+-------------------------
+Snapshot ID: 595	Process ID: 1	 Logic Clock: 6946	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 595, 1
+  From Process 2:
+    take snapshot, 595, 1
+    take snapshot, 595, 2
+
+-------------------------
+Snapshot ID: 596	Process ID: 1	 Logic Clock: 6966	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 596, 1
+  From Process 2:
+    take snapshot, 596, 1
+    take snapshot, 596, 2
+
+-------------------------
+Snapshot ID: 597	Process ID: 1	 Logic Clock: 6982	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 597, 1
+    respOK, 1
+    reqEntry, 1, 6983
+  From Process 2:
+    take snapshot, 597, 1
+    respOK, 1
+    reqEntry, 1, 6983
+    take snapshot, 597, 2
+
+-------------------------
+Snapshot ID: 598	Process ID: 1	 Logic Clock: 6985	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 598, 1
+  From Process 2:
+    take snapshot, 598, 1
+    take snapshot, 598, 2
+
+-------------------------
+Snapshot ID: 599	Process ID: 1	 Logic Clock: 6987	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 599, 1
+  From Process 2:
+    take snapshot, 599, 1
+    take snapshot, 599, 2
+
+-------------------------
+Snapshot ID: 600	Process ID: 1	 Logic Clock: 6994	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 600, 1
+    reqEntry, 1, 6996
+    respOK, 1
+  From Process 2:
+    take snapshot, 600, 1
+    respOK, 1
+    reqEntry, 1, 6996
+    take snapshot, 600, 2
+
+-------------------------
+Snapshot ID: 601	Process ID: 1	 Logic Clock: 7010	Waiting: [true false true]	Process State: 2
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 601, 1
+    respOK, 1
+    reqEntry, 1, 7011
+  From Process 2:
+    take snapshot, 601, 1
+    respOK, 1
+    reqEntry, 1, 7011
+    take snapshot, 601, 2
+
+-------------------------
+Snapshot ID: 602	Process ID: 1	 Logic Clock: 7023	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 602, 1
+  From Process 2:
+    take snapshot, 602, 1
+    take snapshot, 602, 2
+
+-------------------------
+Snapshot ID: 603	Process ID: 1	 Logic Clock: 7040	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 603, 1
+  From Process 2:
+    take snapshot, 603, 1
+    take snapshot, 603, 2
+
+-------------------------
+Snapshot ID: 604	Process ID: 1	 Logic Clock: 7048	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 604, 1
+  From Process 2:
+    take snapshot, 604, 1
+    take snapshot, 604, 2
+
+-------------------------
+Snapshot ID: 605	Process ID: 1	 Logic Clock: 7083	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 605, 1
+  From Process 2:
+    take snapshot, 605, 1
+    take snapshot, 605, 2
+
+-------------------------
+Snapshot ID: 606	Process ID: 1	 Logic Clock: 7111	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 606, 1
+  From Process 2:
+    take snapshot, 606, 1
+    take snapshot, 606, 2
+
+-------------------------
+Snapshot ID: 607	Process ID: 1	 Logic Clock: 7135	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 607, 1
+    take snapshot, 607, 0
+  From Process 2:
+    take snapshot, 607, 1
+
+-------------------------
+Snapshot ID: 608	Process ID: 1	 Logic Clock: 7140	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 608, 1
+    take snapshot, 608, 0
+  From Process 2:
+    take snapshot, 608, 1
+
+-------------------------
+Snapshot ID: 609	Process ID: 1	 Logic Clock: 7145	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 609, 1
+    respOK, 1
+    reqEntry, 1, 7147
+  From Process 2:
+    take snapshot, 609, 1
+    respOK, 1
+    reqEntry, 1, 7147
+    take snapshot, 609, 2
+
+-------------------------
+Snapshot ID: 610	Process ID: 1	 Logic Clock: 7158	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 610, 1
+    respOK, 1
+    reqEntry, 1, 7159
+  From Process 2:
+    take snapshot, 610, 1
+    reqEntry, 1, 7159
+    respOK, 1
+    take snapshot, 610, 2
+
+-------------------------
+Snapshot ID: 611	Process ID: 1	 Logic Clock: 7170	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 611, 1
+  From Process 2:
+    take snapshot, 611, 1
+    take snapshot, 611, 2
+
+-------------------------
+Snapshot ID: 612	Process ID: 1	 Logic Clock: 7186	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 612, 1
+  From Process 2:
+    take snapshot, 612, 1
+    take snapshot, 612, 2
+
+-------------------------
+Snapshot ID: 613	Process ID: 1	 Logic Clock: 7189	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 613, 1
+  From Process 2:
+    take snapshot, 613, 1
+    take snapshot, 613, 2
+
+-------------------------
+Snapshot ID: 614	Process ID: 1	 Logic Clock: 7197	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 614, 1
+    take snapshot, 614, 2
+  From Process 0:
+    take snapshot, 614, 1
+
+-------------------------
+Snapshot ID: 615	Process ID: 1	 Logic Clock: 7201	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 615, 1
+  From Process 2:
+    take snapshot, 615, 1
+    take snapshot, 615, 2
+
+-------------------------
+Snapshot ID: 616	Process ID: 1	 Logic Clock: 7220	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 616, 1
+  From Process 2:
+    take snapshot, 616, 1
+    take snapshot, 616, 2
+
+-------------------------
+Snapshot ID: 617	Process ID: 1	 Logic Clock: 7225	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 617, 1
+  From Process 2:
+    take snapshot, 617, 1
+    take snapshot, 617, 2
+
+-------------------------
+Snapshot ID: 618	Process ID: 1	 Logic Clock: 7231	Waiting: [true false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 618, 1
+    respOK, 1
+    reqEntry, 1, 7232
+  From Process 2:
+    take snapshot, 618, 1
+    respOK, 1
+    reqEntry, 1, 7232
+    take snapshot, 618, 2
+
+-------------------------
+Snapshot ID: 619	Process ID: 1	 Logic Clock: 7249	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 619, 1
+    respOK, 1
+    reqEntry, 1, 7250
+  From Process 2:
+    take snapshot, 619, 1
+    reqEntry, 1, 7250
+    take snapshot, 619, 2
+
+-------------------------
+Snapshot ID: 620	Process ID: 1	 Logic Clock: 7263	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 620, 1
+  From Process 2:
+    take snapshot, 620, 1
+    take snapshot, 620, 2
+
+-------------------------
+Snapshot ID: 621	Process ID: 1	 Logic Clock: 7265	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 621, 1
+  From Process 2:
+    take snapshot, 621, 1
+    take snapshot, 621, 2
+
+-------------------------
+Snapshot ID: 622	Process ID: 1	 Logic Clock: 7281	Waiting: [false false false]	Process State: 0
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 622, 1
+    take snapshot, 622, 2
+  From Process 0:
+    take snapshot, 622, 1
+
+-------------------------
+Snapshot ID: 623	Process ID: 1	 Logic Clock: 7285	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 623, 1
+    respOK, 1
+    reqEntry, 1, 7287
+  From Process 2:
+    take snapshot, 623, 1
+    respOK, 1
+    reqEntry, 1, 7287
+    take snapshot, 623, 2
+
+-------------------------
+Snapshot ID: 624	Process ID: 1	 Logic Clock: 7313	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 624, 1
+    take snapshot, 624, 2
+  From Process 0:
+    take snapshot, 624, 1
+
+-------------------------
+Snapshot ID: 625	Process ID: 1	 Logic Clock: 7319	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 625, 1
+  From Process 2:
+    take snapshot, 625, 1
+    take snapshot, 625, 2
+
+-------------------------
+Snapshot ID: 626	Process ID: 1	 Logic Clock: 7324	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 626, 1
+  From Process 2:
+    take snapshot, 626, 1
+    take snapshot, 626, 2
+
+-------------------------
+Snapshot ID: 627	Process ID: 1	 Logic Clock: 7334	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 627, 1
+    respOK, 1
+    reqEntry, 1, 7336
+  From Process 2:
+    take snapshot, 627, 1
+    respOK, 1
+    reqEntry, 1, 7336
+    take snapshot, 627, 2
+
+-------------------------
+Snapshot ID: 628	Process ID: 1	 Logic Clock: 7344	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 628, 1
+    take snapshot, 628, 0
+  From Process 2:
+    take snapshot, 628, 1
+
+-------------------------
+Snapshot ID: 629	Process ID: 1	 Logic Clock: 7349	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 629, 1
+  From Process 2:
+    take snapshot, 629, 1
+    take snapshot, 629, 2
+
+-------------------------
+Snapshot ID: 630	Process ID: 1	 Logic Clock: 7366	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 630, 1
+    reqEntry, 1, 7367
+  From Process 2:
+    take snapshot, 630, 1
+    respOK, 1
+    reqEntry, 1, 7367
+    take snapshot, 630, 2
+
+-------------------------
+Snapshot ID: 631	Process ID: 1	 Logic Clock: 7372	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 631, 1
+  From Process 2:
+    take snapshot, 631, 1
+    take snapshot, 631, 2
+
+-------------------------
+Snapshot ID: 632	Process ID: 1	 Logic Clock: 7384	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 632, 1
+  From Process 2:
+    take snapshot, 632, 1
+    take snapshot, 632, 2
+
+-------------------------
+Snapshot ID: 633	Process ID: 1	 Logic Clock: 7413	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 633, 1
+  From Process 2:
+    take snapshot, 633, 1
+    take snapshot, 633, 2
+
+-------------------------
+Snapshot ID: 634	Process ID: 1	 Logic Clock: 7441	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 2:
+    take snapshot, 634, 1
+    respOK, 1
+    reqEntry, 1, 7442
+    take snapshot, 634, 2
+  From Process 0:
+    take snapshot, 634, 1
+    respOK, 1
+    reqEntry, 1, 7442
+
+-------------------------
+Snapshot ID: 635	Process ID: 1	 Logic Clock: 7453	Waiting: [false false true]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 635, 1
+    reqEntry, 1, 7454
+  From Process 2:
+    take snapshot, 635, 1
+    respOK, 1
+    reqEntry, 1, 7454
+    take snapshot, 635, 2
+
+-------------------------
+Snapshot ID: 636	Process ID: 1	 Logic Clock: 7491	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 636, 1
+  From Process 2:
+    take snapshot, 636, 1
+    take snapshot, 636, 2
+
+-------------------------
+Snapshot ID: 637	Process ID: 1	 Logic Clock: 7502	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 637, 1
+    take snapshot, 637, 0
+  From Process 2:
+    take snapshot, 637, 1
+
+-------------------------
+Snapshot ID: 638	Process ID: 1	 Logic Clock: 7509	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 638, 1
+  From Process 2:
+    take snapshot, 638, 1
+    take snapshot, 638, 2
+
+-------------------------
+Snapshot ID: 639	Process ID: 1	 Logic Clock: 7512	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 639, 1
+  From Process 2:
+    take snapshot, 639, 1
+    take snapshot, 639, 2
+
+-------------------------
+Snapshot ID: 640	Process ID: 1	 Logic Clock: 7519	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 640, 1
+  From Process 2:
+    take snapshot, 640, 1
+    take snapshot, 640, 2
+
+-------------------------
+Snapshot ID: 641	Process ID: 1	 Logic Clock: 7529	Waiting: [true false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 641, 1
+    respOK, 1
+    reqEntry, 1, 7530
+  From Process 2:
+    take snapshot, 641, 1
+    respOK, 1
+    reqEntry, 1, 7530
+    take snapshot, 641, 2
+
+-------------------------
+Snapshot ID: 642	Process ID: 1	 Logic Clock: 7540	Waiting: [false false false]	Process State: 1
+
+Channel Messages:
+  From Process 0:
+    take snapshot, 642, 1
+    respOK, 1
+    reqEntry, 1, 7543
+  From Process 2:
+    take snapshot, 642, 1
+    respOK, 1
+    reqEntry, 1, 7543
+    take snapshot, 642, 2
+
+-------------------------

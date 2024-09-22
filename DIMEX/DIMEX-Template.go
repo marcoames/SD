@@ -318,7 +318,7 @@ func (module *DIMEX_Module) handleSnapshotProcesso(msgOutro PP2PLink.PP2PLink_In
 	var snapshotID, senderID int
 	fmt.Sscanf(msgOutro.Message, "take snapshot, %d, %d", &snapshotID, &senderID)
 
-	// Se em snapshot grava a mensagem
+	// Grava o segundo take snapshot recebido
 	if module.stSNAP.emSnapshot {
 		module.stSNAP.Canais[senderID] = append(module.stSNAP.Canais[senderID], msgOutro.Message)
 	}
@@ -379,10 +379,11 @@ func (module *DIMEX_Module) checkSnapshotCompletion() bool {
 func (module *DIMEX_Module) saveLocalState() {
 	// Formata o estado local
 	stateData := fmt.Sprintf(
-		"Snapshot ID: %d\tProcess ID: %d\t Logic Clock: %d\tProcess State: %v\n",
+		"Snapshot ID: %d\tProcess ID: %d\t Logic Clock: %d\tWaiting: %v\tProcess State: %v\n",
 		module.stSNAP.idSnap, // SNAPSHOT ID
 		module.id,            // Process ID
 		module.lcl,           // process lcl
+		module.waiting,       // waiting array
 		module.st,            // process state
 	)
 
@@ -395,8 +396,6 @@ func (module *DIMEX_Module) saveLocalState() {
 		return
 	}
 	defer file.Close()
-
-	stateData = "\n" + stateData
 
 	// Escreve estado local no arquivo
 	_, err = file.WriteString(stateData)
