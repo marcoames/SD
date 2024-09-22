@@ -1,3146 +1,2348 @@
-Snapshot ID: 0	Process ID: 0	 Logic Clock: 23	Waiting: [false false false]	Process State: 1
+Snapshot ID: 0	Process ID: 0	 Logic Clock: 2	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 24]
-Canal[0, 2] = [reqEntry, 0, 24]
+Canal[0, 1] = [reqEntry, 0, 3]
+Canal[0, 2] = [reqEntry, 0, 3]
 
 -------------------------
-Snapshot ID: 1	Process ID: 0	 Logic Clock: 25	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 26]
-Canal[0, 2] = [reqEntry, 0, 26]
-
--------------------------
-Snapshot ID: 2	Process ID: 0	 Logic Clock: 40	Waiting: [false false false]	Process State: 1
+Snapshot ID: 1	Process ID: 0	 Logic Clock: 21	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 3	Process ID: 0	 Logic Clock: 42	Waiting: [false false false]	Process State: 1
+Snapshot ID: 2	Process ID: 0	 Logic Clock: 43	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 44]
+Canal[0, 2] = [reqEntry, 0, 44]
+
+-------------------------
+Snapshot ID: 3	Process ID: 0	 Logic Clock: 48	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 49]
+Canal[0, 2] = [reqEntry, 0, 49]
+
+-------------------------
+Snapshot ID: 4	Process ID: 0	 Logic Clock: 53	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 54]
+Canal[0, 2] = [reqEntry, 0, 54]
+
+-------------------------
+Snapshot ID: 5	Process ID: 0	 Logic Clock: 59	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 4	Process ID: 0	 Logic Clock: 45	Waiting: [false false false]	Process State: 1
+Snapshot ID: 6	Process ID: 0	 Logic Clock: 68	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 69]
+Canal[0, 2] = [reqEntry, 0, 69]
 
 -------------------------
-Snapshot ID: 5	Process ID: 0	 Logic Clock: 46	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 6	Process ID: 0	 Logic Clock: 52	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [reqEntry, 0, 53]
-Canal[0, 1] = [reqEntry, 0, 53]
-
--------------------------
-Snapshot ID: 7	Process ID: 0	 Logic Clock: 57	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 58]
-Canal[0, 2] = [reqEntry, 0, 58]
-
--------------------------
-Snapshot ID: 8	Process ID: 0	 Logic Clock: 65	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 66]
-Canal[0, 2] = [reqEntry, 0, 66]
-
--------------------------
-Snapshot ID: 9	Process ID: 0	 Logic Clock: 69	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 70]
-Canal[0, 2] = [reqEntry, 0, 70]
-
--------------------------
-Snapshot ID: 10	Process ID: 0	 Logic Clock: 73	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 11	Process ID: 0	 Logic Clock: 74	Waiting: [false false false]	Process State: 2
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 75]
-Canal[0, 2] = [reqEntry, 0, 75]
-
--------------------------
-Snapshot ID: 12	Process ID: 0	 Logic Clock: 88	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [reqEntry, 0, 89]
-Canal[0, 1] = [reqEntry, 0, 89]
-
--------------------------
-Snapshot ID: 13	Process ID: 0	 Logic Clock: 93	Waiting: [false false false]	Process State: 1
+Snapshot ID: 7	Process ID: 0	 Logic Clock: 93	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [reqEntry, 0, 94]
 Canal[0, 2] = [reqEntry, 0, 94]
 
 -------------------------
-Snapshot ID: 14	Process ID: 0	 Logic Clock: 97	Waiting: [false false false]	Process State: 1
+Snapshot ID: 8	Process ID: 0	 Logic Clock: 105	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 98]
-Canal[0, 2] = [reqEntry, 0, 98]
+Canal[0, 1] = [reqEntry, 0, 106]
+Canal[0, 2] = [reqEntry, 0, 106]
 
 -------------------------
-Snapshot ID: 15	Process ID: 0	 Logic Clock: 100	Waiting: [false false false]	Process State: 1
+Snapshot ID: 9	Process ID: 0	 Logic Clock: 114	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 101]
-Canal[0, 2] = [reqEntry, 0, 101]
+Canal[0, 1] = [reqEntry, 0, 115]
+Canal[0, 2] = [reqEntry, 0, 115]
 
 -------------------------
-Snapshot ID: 16	Process ID: 0	 Logic Clock: 103	Waiting: [false false false]	Process State: 1
+Snapshot ID: 10	Process ID: 0	 Logic Clock: 117	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 104]
-Canal[0, 2] = [reqEntry, 0, 104]
-
--------------------------
-Snapshot ID: 17	Process ID: 0	 Logic Clock: 117	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 118]
 Canal[0, 2] = [reqEntry, 0, 118]
+Canal[0, 1] = [reqEntry, 0, 118]
 
 -------------------------
-Snapshot ID: 18	Process ID: 0	 Logic Clock: 124	Waiting: [false false false]	Process State: 1
+Snapshot ID: 11	Process ID: 0	 Logic Clock: 121	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 2] = [reqEntry, 0, 122]
+Canal[0, 1] = [reqEntry, 0, 122]
 
 -------------------------
-Snapshot ID: 19	Process ID: 0	 Logic Clock: 132	Waiting: [false false false]	Process State: 1
+Snapshot ID: 12	Process ID: 0	 Logic Clock: 126	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 133]
-Canal[0, 2] = [reqEntry, 0, 133]
+Canal[0, 1] = [reqEntry, 0, 127]
+Canal[0, 2] = [reqEntry, 0, 127]
 
 -------------------------
-Snapshot ID: 20	Process ID: 0	 Logic Clock: 138	Waiting: [false false false]	Process State: 1
+Snapshot ID: 13	Process ID: 0	 Logic Clock: 139	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 139]
-Canal[0, 2] = [reqEntry, 0, 139]
+Canal[0, 1] = [reqEntry, 0, 140]
+Canal[0, 2] = [reqEntry, 0, 140]
 
 -------------------------
-Snapshot ID: 21	Process ID: 0	 Logic Clock: 141	Waiting: [false false false]	Process State: 1
+Snapshot ID: 14	Process ID: 0	 Logic Clock: 148	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 142]
-Canal[0, 2] = [reqEntry, 0, 142]
+Canal[0, 1] = [reqEntry, 0, 149]
+Canal[0, 2] = [reqEntry, 0, 149]
 
 -------------------------
-Snapshot ID: 22	Process ID: 0	 Logic Clock: 145	Waiting: [false false false]	Process State: 1
+Snapshot ID: 15	Process ID: 0	 Logic Clock: 156	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 146]
-Canal[0, 2] = [reqEntry, 0, 146]
+Canal[0, 1] = [reqEntry, 0, 157]
+Canal[0, 2] = [reqEntry, 0, 157]
 
 -------------------------
-Snapshot ID: 23	Process ID: 0	 Logic Clock: 150	Waiting: [false false false]	Process State: 1
+Snapshot ID: 16	Process ID: 0	 Logic Clock: 158	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 2] = [reqEntry, 0, 151]
-Canal[0, 1] = [reqEntry, 0, 151]
+Canal[0, 1] = [reqEntry, 0, 159]
+Canal[0, 2] = [reqEntry, 0, 159]
 
 -------------------------
-Snapshot ID: 24	Process ID: 0	 Logic Clock: 161	Waiting: [false false false]	Process State: 1
+Snapshot ID: 17	Process ID: 0	 Logic Clock: 163	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 162]
-Canal[0, 2] = [reqEntry, 0, 162]
+Canal[0, 1] = [reqEntry, 0, 164]
+Canal[0, 2] = [reqEntry, 0, 164]
 
 -------------------------
-Snapshot ID: 25	Process ID: 0	 Logic Clock: 178	Waiting: [false false false]	Process State: 1
+Snapshot ID: 18	Process ID: 0	 Logic Clock: 165	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 179]
-Canal[0, 2] = [reqEntry, 0, 179]
+Canal[0, 2] = [reqEntry, 0, 166]
+Canal[0, 1] = [reqEntry, 0, 166]
 
 -------------------------
-Snapshot ID: 26	Process ID: 0	 Logic Clock: 181	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 182]
-Canal[0, 2] = [reqEntry, 0, 182]
-
--------------------------
-Snapshot ID: 27	Process ID: 0	 Logic Clock: 184	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [reqEntry, 0, 185]
-Canal[0, 1] = [reqEntry, 0, 185]
-
--------------------------
-Snapshot ID: 28	Process ID: 0	 Logic Clock: 186	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 187]
-Canal[0, 2] = [reqEntry, 0, 187]
-
--------------------------
-Snapshot ID: 29	Process ID: 0	 Logic Clock: 189	Waiting: [false false false]	Process State: 1
+Snapshot ID: 19	Process ID: 0	 Logic Clock: 189	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [reqEntry, 0, 190]
 Canal[0, 2] = [reqEntry, 0, 190]
 
 -------------------------
-Snapshot ID: 30	Process ID: 0	 Logic Clock: 197	Waiting: [false false false]	Process State: 1
+Snapshot ID: 20	Process ID: 0	 Logic Clock: 194	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 198]
-Canal[0, 2] = [reqEntry, 0, 198]
+Canal[0, 1] = [reqEntry, 0, 195]
+Canal[0, 2] = [reqEntry, 0, 195]
 
 -------------------------
-Snapshot ID: 31	Process ID: 0	 Logic Clock: 209	Waiting: [false false false]	Process State: 1
+Snapshot ID: 21	Process ID: 0	 Logic Clock: 201	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 210]
-Canal[0, 2] = [reqEntry, 0, 210]
+Canal[0, 1] = [reqEntry, 0, 202]
+Canal[0, 2] = [reqEntry, 0, 202]
 
 -------------------------
-Snapshot ID: 32	Process ID: 0	 Logic Clock: 216	Waiting: [false false false]	Process State: 1
+Snapshot ID: 22	Process ID: 0	 Logic Clock: 208	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 217]
-Canal[0, 2] = [reqEntry, 0, 217]
+Canal[0, 1] = [reqEntry, 0, 209]
+Canal[0, 2] = [reqEntry, 0, 209]
 
 -------------------------
-Snapshot ID: 33	Process ID: 0	 Logic Clock: 225	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 226]
-Canal[0, 2] = [reqEntry, 0, 226]
-
--------------------------
-Snapshot ID: 34	Process ID: 0	 Logic Clock: 230	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 231]
-Canal[0, 2] = [reqEntry, 0, 231]
-
--------------------------
-Snapshot ID: 35	Process ID: 0	 Logic Clock: 234	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 235]
-Canal[0, 2] = [reqEntry, 0, 235]
-
--------------------------
-Snapshot ID: 36	Process ID: 0	 Logic Clock: 242	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [reqEntry, 0, 243]
-Canal[0, 1] = [reqEntry, 0, 243]
-
--------------------------
-Snapshot ID: 37	Process ID: 0	 Logic Clock: 250	Waiting: [false false false]	Process State: 1
+Snapshot ID: 23	Process ID: 0	 Logic Clock: 220	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 38	Process ID: 0	 Logic Clock: 259	Waiting: [false false false]	Process State: 1
+Snapshot ID: 24	Process ID: 0	 Logic Clock: 224	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 260]
-Canal[0, 2] = [reqEntry, 0, 260]
+Canal[0, 1] = [reqEntry, 0, 225]
+Canal[0, 2] = [reqEntry, 0, 225]
 
 -------------------------
-Snapshot ID: 39	Process ID: 0	 Logic Clock: 261	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 40	Process ID: 0	 Logic Clock: 264	Waiting: [false false false]	Process State: 1
+Snapshot ID: 25	Process ID: 0	 Logic Clock: 227	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 41	Process ID: 0	 Logic Clock: 275	Waiting: [false false false]	Process State: 1
+Snapshot ID: 26	Process ID: 0	 Logic Clock: 240	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 276]
-Canal[0, 2] = [reqEntry, 0, 276]
+Canal[0, 1] = [reqEntry, 0, 241]
+Canal[0, 2] = [reqEntry, 0, 241]
 
 -------------------------
-Snapshot ID: 42	Process ID: 0	 Logic Clock: 281	Waiting: [false false false]	Process State: 1
+Snapshot ID: 27	Process ID: 0	 Logic Clock: 248	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 249]
+Canal[0, 2] = [reqEntry, 0, 249]
+
+-------------------------
+Snapshot ID: 28	Process ID: 0	 Logic Clock: 251	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [reqEntry, 0, 252]
+Canal[0, 1] = [reqEntry, 0, 252]
+
+-------------------------
+Snapshot ID: 29	Process ID: 0	 Logic Clock: 256	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 257]
+Canal[0, 2] = [reqEntry, 0, 257]
+
+-------------------------
+Snapshot ID: 30	Process ID: 0	 Logic Clock: 258	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 259]
+Canal[0, 2] = [reqEntry, 0, 259]
+
+-------------------------
+Snapshot ID: 31	Process ID: 0	 Logic Clock: 261	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 32	Process ID: 0	 Logic Clock: 265	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 266]
+Canal[0, 2] = [reqEntry, 0, 266]
+
+-------------------------
+Snapshot ID: 33	Process ID: 0	 Logic Clock: 276	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 277]
+Canal[0, 2] = [reqEntry, 0, 277]
+
+-------------------------
+Snapshot ID: 34	Process ID: 0	 Logic Clock: 281	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [reqEntry, 0, 282]
 Canal[0, 2] = [reqEntry, 0, 282]
 
 -------------------------
-Snapshot ID: 43	Process ID: 0	 Logic Clock: 297	Waiting: [false false false]	Process State: 1
+Snapshot ID: 35	Process ID: 0	 Logic Clock: 296	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 2] = [reqEntry, 0, 298]
-Canal[0, 1] = [reqEntry, 0, 298]
+Canal[0, 1] = [reqEntry, 0, 297]
+Canal[0, 2] = [reqEntry, 0, 297]
 
 -------------------------
-Snapshot ID: 44	Process ID: 0	 Logic Clock: 302	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 303]
-Canal[0, 2] = [reqEntry, 0, 303]
-
--------------------------
-Snapshot ID: 45	Process ID: 0	 Logic Clock: 311	Waiting: [false false false]	Process State: 1
+Snapshot ID: 36	Process ID: 0	 Logic Clock: 314	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 46	Process ID: 0	 Logic Clock: 321	Waiting: [false false false]	Process State: 1
+Snapshot ID: 37	Process ID: 0	 Logic Clock: 326	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 327]
+Canal[0, 2] = [reqEntry, 0, 327]
 
 -------------------------
-Snapshot ID: 47	Process ID: 0	 Logic Clock: 322	Waiting: [false false false]	Process State: 1
+Snapshot ID: 38	Process ID: 0	 Logic Clock: 335	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 2] = [reqEntry, 0, 323]
-Canal[0, 1] = [reqEntry, 0, 323]
+Canal[0, 1] = [reqEntry, 0, 336]
+Canal[0, 2] = [reqEntry, 0, 336]
 
 -------------------------
-Snapshot ID: 48	Process ID: 0	 Logic Clock: 324	Waiting: [false true false]	Process State: 2
+Snapshot ID: 39	Process ID: 0	 Logic Clock: 339	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 325]
-Canal[0, 2] = [reqEntry, 0, 325]
+Canal[0, 1] = [reqEntry, 0, 340]
+Canal[0, 2] = [reqEntry, 0, 340]
 
 -------------------------
-Snapshot ID: 49	Process ID: 0	 Logic Clock: 329	Waiting: [false false false]	Process State: 1
+Snapshot ID: 40	Process ID: 0	 Logic Clock: 342	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 2] = [reqEntry, 0, 343]
+Canal[0, 1] = [reqEntry, 0, 343]
 
 -------------------------
-Snapshot ID: 50	Process ID: 0	 Logic Clock: 334	Waiting: [false true false]	Process State: 2
+Snapshot ID: 41	Process ID: 0	 Logic Clock: 348	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 335]
-Canal[0, 2] = [reqEntry, 0, 335]
-
--------------------------
-Snapshot ID: 51	Process ID: 0	 Logic Clock: 341	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 52	Process ID: 0	 Logic Clock: 348	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 349]
+Canal[0, 1] = [reqEntry, 0, 349]
 Canal[0, 2] = [reqEntry, 0, 349]
 
 -------------------------
-Snapshot ID: 53	Process ID: 0	 Logic Clock: 354	Waiting: [false true false]	Process State: 1
+Snapshot ID: 42	Process ID: 0	 Logic Clock: 350	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 355]
-Canal[0, 2] = [reqEntry, 0, 355]
+Canal[0, 2] = [reqEntry, 0, 351]
+Canal[0, 1] = [reqEntry, 0, 351]
 
 -------------------------
-Snapshot ID: 54	Process ID: 0	 Logic Clock: 357	Waiting: [false true false]	Process State: 1
+Snapshot ID: 43	Process ID: 0	 Logic Clock: 355	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 358]
+Canal[0, 1] = [reqEntry, 0, 356]
+Canal[0, 2] = [reqEntry, 0, 356]
+
+-------------------------
+Snapshot ID: 44	Process ID: 0	 Logic Clock: 357	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 358]
 Canal[0, 2] = [reqEntry, 0, 358]
 
 -------------------------
-Snapshot ID: 55	Process ID: 0	 Logic Clock: 368	Waiting: [false false false]	Process State: 1
+Snapshot ID: 45	Process ID: 0	 Logic Clock: 360	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 361]
+Canal[0, 2] = [reqEntry, 0, 361]
+
+-------------------------
+Snapshot ID: 46	Process ID: 0	 Logic Clock: 363	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 364]
+Canal[0, 2] = [reqEntry, 0, 364]
+
+-------------------------
+Snapshot ID: 47	Process ID: 0	 Logic Clock: 369	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [reqEntry, 0, 370]
+Canal[0, 1] = [reqEntry, 0, 370]
+
+-------------------------
+Snapshot ID: 48	Process ID: 0	 Logic Clock: 372	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 373]
+Canal[0, 2] = [reqEntry, 0, 373]
+
+-------------------------
+Snapshot ID: 49	Process ID: 0	 Logic Clock: 383	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 50	Process ID: 0	 Logic Clock: 385	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 387]
+Canal[0, 2] = [reqEntry, 0, 387]
+
+-------------------------
+Snapshot ID: 51	Process ID: 0	 Logic Clock: 388	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 390]
+Canal[0, 2] = [reqEntry, 0, 390]
+
+-------------------------
+Snapshot ID: 52	Process ID: 0	 Logic Clock: 397	Waiting: [false true false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 398]
+Canal[0, 2] = [reqEntry, 0, 398]
+
+-------------------------
+Snapshot ID: 53	Process ID: 0	 Logic Clock: 408	Waiting: [false true false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 409]
+Canal[0, 2] = [reqEntry, 0, 409]
+
+-------------------------
+Snapshot ID: 54	Process ID: 0	 Logic Clock: 411	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [reqEntry, 0, 412]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 412]
+
+-------------------------
+Snapshot ID: 55	Process ID: 0	 Logic Clock: 417	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 419]
+Canal[0, 2] = [reqEntry, 0, 419]
+
+-------------------------
+Snapshot ID: 56	Process ID: 0	 Logic Clock: 433	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 434]
+Canal[0, 2] = [reqEntry, 0, 434]
+
+-------------------------
+Snapshot ID: 57	Process ID: 0	 Logic Clock: 439	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 441]
+Canal[0, 2] = [reqEntry, 0, 441]
+
+-------------------------
+Snapshot ID: 58	Process ID: 0	 Logic Clock: 448	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 450]
+Canal[0, 2] = [reqEntry, 0, 450]
+
+-------------------------
+Snapshot ID: 59	Process ID: 0	 Logic Clock: 451	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 60	Process ID: 0	 Logic Clock: 469	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 471]
+Canal[0, 2] = [reqEntry, 0, 471]
+
+-------------------------
+Snapshot ID: 61	Process ID: 0	 Logic Clock: 480	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 481]
+Canal[0, 2] = [reqEntry, 0, 481]
+
+-------------------------
+Snapshot ID: 62	Process ID: 0	 Logic Clock: 484	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 486]
+Canal[0, 2] = [reqEntry, 0, 486]
+
+-------------------------
+Snapshot ID: 63	Process ID: 0	 Logic Clock: 498	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 499]
+Canal[0, 2] = [reqEntry, 0, 499]
+
+-------------------------
+Snapshot ID: 64	Process ID: 0	 Logic Clock: 516	Waiting: [false true false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 517]
+Canal[0, 2] = [reqEntry, 0, 517]
+
+-------------------------
+Snapshot ID: 65	Process ID: 0	 Logic Clock: 520	Waiting: [false true false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 66	Process ID: 0	 Logic Clock: 537	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [reqEntry, 0, 539]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 539]
+
+-------------------------
+Snapshot ID: 67	Process ID: 0	 Logic Clock: 553	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 554]
+Canal[0, 2] = [reqEntry, 0, 554]
+
+-------------------------
+Snapshot ID: 68	Process ID: 0	 Logic Clock: 562	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 564]
+Canal[0, 2] = [reqEntry, 0, 564]
+
+-------------------------
+Snapshot ID: 69	Process ID: 0	 Logic Clock: 572	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 574]
+Canal[0, 2] = [reqEntry, 0, 574]
+
+-------------------------
+Snapshot ID: 70	Process ID: 0	 Logic Clock: 589	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 591]
+Canal[0, 2] = [reqEntry, 0, 591]
+
+-------------------------
+Snapshot ID: 71	Process ID: 0	 Logic Clock: 594	Waiting: [false true false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 595]
+Canal[0, 2] = [reqEntry, 0, 595]
+
+-------------------------
+Snapshot ID: 72	Process ID: 0	 Logic Clock: 600	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 602]
+Canal[0, 2] = [reqEntry, 0, 602]
+
+-------------------------
+Snapshot ID: 73	Process ID: 0	 Logic Clock: 604	Waiting: [false true false]	Process State: 2
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 605]
+Canal[0, 2] = [reqEntry, 0, 605]
+
+-------------------------
+Snapshot ID: 74	Process ID: 0	 Logic Clock: 617	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 618]
+Canal[0, 2] = [reqEntry, 0, 618]
+
+-------------------------
+Snapshot ID: 75	Process ID: 0	 Logic Clock: 628	Waiting: [false true false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 629]
+Canal[0, 2] = [reqEntry, 0, 629]
+
+-------------------------
+Snapshot ID: 76	Process ID: 0	 Logic Clock: 653	Waiting: [false true false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 77	Process ID: 0	 Logic Clock: 656	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 657]
+Canal[0, 2] = [reqEntry, 0, 657]
+
+-------------------------
+Snapshot ID: 78	Process ID: 0	 Logic Clock: 665	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 79	Process ID: 0	 Logic Clock: 669	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 670]
+Canal[0, 2] = [reqEntry, 0, 670]
+
+-------------------------
+Snapshot ID: 80	Process ID: 0	 Logic Clock: 673	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 674]
+Canal[0, 2] = [reqEntry, 0, 674]
+
+-------------------------
+Snapshot ID: 81	Process ID: 0	 Logic Clock: 679	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [respOK, 0]
 
 -------------------------
-Snapshot ID: 56	Process ID: 0	 Logic Clock: 377	Waiting: [false false false]	Process State: 1
+Snapshot ID: 82	Process ID: 0	 Logic Clock: 701	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 83	Process ID: 0	 Logic Clock: 715	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [respOK, 0]
 
 -------------------------
-Snapshot ID: 57	Process ID: 0	 Logic Clock: 387	Waiting: [false false false]	Process State: 1
+Snapshot ID: 84	Process ID: 0	 Logic Clock: 736	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 388]
-Canal[0, 2] = [reqEntry, 0, 388]
 
 -------------------------
-Snapshot ID: 58	Process ID: 0	 Logic Clock: 396	Waiting: [false false false]	Process State: 1
+Snapshot ID: 85	Process ID: 0	 Logic Clock: 746	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 748]
+Canal[0, 2] = [reqEntry, 0, 748]
+
+-------------------------
+Snapshot ID: 86	Process ID: 0	 Logic Clock: 752	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [reqEntry, 0, 754]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 754]
+
+-------------------------
+Snapshot ID: 87	Process ID: 0	 Logic Clock: 767	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [respOK, 0]
 
 -------------------------
-Snapshot ID: 59	Process ID: 0	 Logic Clock: 398	Waiting: [false false false]	Process State: 1
+Snapshot ID: 88	Process ID: 0	 Logic Clock: 776	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 400]
-Canal[0, 2] = [reqEntry, 0, 400]
+Canal[0, 2] = [reqEntry, 0, 777]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 777]
 
 -------------------------
-Snapshot ID: 60	Process ID: 0	 Logic Clock: 402	Waiting: [false true false]	Process State: 1
+Snapshot ID: 89	Process ID: 0	 Logic Clock: 788	Waiting: [false true false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 403]
-Canal[0, 2] = [reqEntry, 0, 403]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 789]
+Canal[0, 2] = [reqEntry, 0, 789]
 
 -------------------------
-Snapshot ID: 61	Process ID: 0	 Logic Clock: 405	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 406]
-Canal[0, 2] = [reqEntry, 0, 406]
-
--------------------------
-Snapshot ID: 62	Process ID: 0	 Logic Clock: 420	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 422]
-Canal[0, 2] = [reqEntry, 0, 422]
-
--------------------------
-Snapshot ID: 63	Process ID: 0	 Logic Clock: 441	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 442]
-Canal[0, 2] = [reqEntry, 0, 442]
-
--------------------------
-Snapshot ID: 64	Process ID: 0	 Logic Clock: 445	Waiting: [false false false]	Process State: 1
+Snapshot ID: 90	Process ID: 0	 Logic Clock: 793	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 65	Process ID: 0	 Logic Clock: 459	Waiting: [false false false]	Process State: 1
+Snapshot ID: 91	Process ID: 0	 Logic Clock: 814	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 816]
+Canal[0, 2] = [reqEntry, 0, 816]
+
+-------------------------
+Snapshot ID: 92	Process ID: 0	 Logic Clock: 820	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 66	Process ID: 0	 Logic Clock: 460	Waiting: [false false false]	Process State: 1
+Snapshot ID: 93	Process ID: 0	 Logic Clock: 828	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 830]
+Canal[0, 2] = [reqEntry, 0, 830]
 
 -------------------------
-Snapshot ID: 67	Process ID: 0	 Logic Clock: 466	Waiting: [false false false]	Process State: 1
+Snapshot ID: 94	Process ID: 0	 Logic Clock: 842	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 468]
-Canal[0, 2] = [reqEntry, 0, 468]
+Canal[0, 2] = [reqEntry, 0, 843]
+Canal[0, 1] = [reqEntry, 0, 843]
 
 -------------------------
-Snapshot ID: 68	Process ID: 0	 Logic Clock: 482	Waiting: [false false false]	Process State: 1
+Snapshot ID: 95	Process ID: 0	 Logic Clock: 847	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 483]
-Canal[0, 2] = [reqEntry, 0, 483]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 849]
+Canal[0, 2] = [reqEntry, 0, 849]
 
 -------------------------
-Snapshot ID: 69	Process ID: 0	 Logic Clock: 505	Waiting: [false false false]	Process State: 1
+Snapshot ID: 96	Process ID: 0	 Logic Clock: 864	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 2] = [reqEntry, 0, 865]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 865]
 
 -------------------------
-Snapshot ID: 70	Process ID: 0	 Logic Clock: 506	Waiting: [false false false]	Process State: 1
+Snapshot ID: 97	Process ID: 0	 Logic Clock: 870	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 507]
-Canal[0, 2] = [reqEntry, 0, 507]
-
--------------------------
-Snapshot ID: 71	Process ID: 0	 Logic Clock: 517	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 519]
-Canal[0, 2] = [reqEntry, 0, 519]
-
--------------------------
-Snapshot ID: 72	Process ID: 0	 Logic Clock: 529	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 530]
-Canal[0, 2] = [reqEntry, 0, 530]
-
--------------------------
-Snapshot ID: 73	Process ID: 0	 Logic Clock: 532	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 533]
-Canal[0, 2] = [reqEntry, 0, 533]
-
--------------------------
-Snapshot ID: 74	Process ID: 0	 Logic Clock: 537	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 538]
-Canal[0, 2] = [reqEntry, 0, 538]
-
--------------------------
-Snapshot ID: 75	Process ID: 0	 Logic Clock: 554	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0]
-
--------------------------
-Snapshot ID: 76	Process ID: 0	 Logic Clock: 558	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 559]
-Canal[0, 2] = [reqEntry, 0, 559]
-
--------------------------
-Snapshot ID: 77	Process ID: 0	 Logic Clock: 561	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 78	Process ID: 0	 Logic Clock: 579	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 79	Process ID: 0	 Logic Clock: 581	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 80	Process ID: 0	 Logic Clock: 599	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 601]
-Canal[0, 2] = [reqEntry, 0, 601]
-
--------------------------
-Snapshot ID: 81	Process ID: 0	 Logic Clock: 615	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 616]
-Canal[0, 2] = [reqEntry, 0, 616]
-
--------------------------
-Snapshot ID: 82	Process ID: 0	 Logic Clock: 627	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 83	Process ID: 0	 Logic Clock: 636	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 84	Process ID: 0	 Logic Clock: 638	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 85	Process ID: 0	 Logic Clock: 653	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 86	Process ID: 0	 Logic Clock: 667	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 669]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 669]
-
--------------------------
-Snapshot ID: 87	Process ID: 0	 Logic Clock: 678	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 680]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 680]
-
--------------------------
-Snapshot ID: 88	Process ID: 0	 Logic Clock: 709	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 710]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 710]
-
--------------------------
-Snapshot ID: 89	Process ID: 0	 Logic Clock: 722	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0]
 Canal[0, 2] = [respOK, 0]
-
--------------------------
-Snapshot ID: 90	Process ID: 0	 Logic Clock: 745	Waiting: [false false false]	Process State: 1
-Channel Messages:
 Canal[0, 1] = [respOK, 0]
-Canal[0, 2] = [respOK, 0]
 
 -------------------------
-Snapshot ID: 91	Process ID: 0	 Logic Clock: 747	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0]
-
--------------------------
-Snapshot ID: 92	Process ID: 0	 Logic Clock: 749	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 751]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 751]
-
--------------------------
-Snapshot ID: 93	Process ID: 0	 Logic Clock: 753	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0]
-Canal[0, 2] = [respOK, 0]
-
--------------------------
-Snapshot ID: 94	Process ID: 0	 Logic Clock: 754	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 757]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 757]
-
--------------------------
-Snapshot ID: 95	Process ID: 0	 Logic Clock: 760	Waiting: [false false false]	Process State: 1
+Snapshot ID: 98	Process ID: 0	 Logic Clock: 880	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 96	Process ID: 0	 Logic Clock: 768	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 771]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 771]
-
--------------------------
-Snapshot ID: 97	Process ID: 0	 Logic Clock: 788	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 790]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 790]
-
--------------------------
-Snapshot ID: 98	Process ID: 0	 Logic Clock: 807	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 99	Process ID: 0	 Logic Clock: 809	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 811]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 811]
-
--------------------------
-Snapshot ID: 100	Process ID: 0	 Logic Clock: 817	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 819]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 819]
-
--------------------------
-Snapshot ID: 101	Process ID: 0	 Logic Clock: 851	Waiting: [false true true]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 852]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 852]
-
--------------------------
-Snapshot ID: 102	Process ID: 0	 Logic Clock: 868	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 871]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 871]
-
--------------------------
-Snapshot ID: 103	Process ID: 0	 Logic Clock: 881	Waiting: [false false false]	Process State: 1
+Snapshot ID: 99	Process ID: 0	 Logic Clock: 882	Waiting: [false true false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [respOK, 0 reqEntry, 0, 883]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 883]
+Canal[0, 2] = [reqEntry, 0, 883]
 
 -------------------------
-Snapshot ID: 104	Process ID: 0	 Logic Clock: 885	Waiting: [false false false]	Process State: 1
+Snapshot ID: 100	Process ID: 0	 Logic Clock: 905	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 887]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 887]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 907]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 907]
 
 -------------------------
-Snapshot ID: 105	Process ID: 0	 Logic Clock: 892	Waiting: [false true false]	Process State: 1
+Snapshot ID: 101	Process ID: 0	 Logic Clock: 912	Waiting: [false true false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 894]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 894]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 914]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 914]
 
 -------------------------
-Snapshot ID: 106	Process ID: 0	 Logic Clock: 905	Waiting: [false false false]	Process State: 1
+Snapshot ID: 102	Process ID: 0	 Logic Clock: 922	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 906]
-Canal[0, 1] = [reqEntry, 0, 906]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 925]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 925]
 
 -------------------------
-Snapshot ID: 107	Process ID: 0	 Logic Clock: 908	Waiting: [false false false]	Process State: 1
+Snapshot ID: 103	Process ID: 0	 Logic Clock: 943	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 945]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 945]
 
 -------------------------
-Snapshot ID: 108	Process ID: 0	 Logic Clock: 921	Waiting: [false false false]	Process State: 1
+Snapshot ID: 104	Process ID: 0	 Logic Clock: 949	Waiting: [false true false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0]
+Canal[0, 2] = [reqEntry, 0, 950]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 950]
 
 -------------------------
-Snapshot ID: 109	Process ID: 0	 Logic Clock: 928	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 110	Process ID: 0	 Logic Clock: 940	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 111	Process ID: 0	 Logic Clock: 971	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 973]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 973]
-
--------------------------
-Snapshot ID: 112	Process ID: 0	 Logic Clock: 1000	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1002]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1002]
-
--------------------------
-Snapshot ID: 113	Process ID: 0	 Logic Clock: 1012	Waiting: [false false false]	Process State: 1
+Snapshot ID: 105	Process ID: 0	 Logic Clock: 955	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 114	Process ID: 0	 Logic Clock: 1016	Waiting: [false true false]	Process State: 1
+Snapshot ID: 106	Process ID: 0	 Logic Clock: 965	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1017]
-Canal[0, 2] = [reqEntry, 0, 1017]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 967]
+Canal[0, 2] = [reqEntry, 0, 967]
 
 -------------------------
-Snapshot ID: 115	Process ID: 0	 Logic Clock: 1028	Waiting: [false false false]	Process State: 1
+Snapshot ID: 107	Process ID: 0	 Logic Clock: 969	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 972]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 972]
+
+-------------------------
+Snapshot ID: 108	Process ID: 0	 Logic Clock: 975	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 109	Process ID: 0	 Logic Clock: 977	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 979]
+Canal[0, 1] = [reqEntry, 0, 979]
+
+-------------------------
+Snapshot ID: 110	Process ID: 0	 Logic Clock: 999	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1001]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1001]
+
+-------------------------
+Snapshot ID: 111	Process ID: 0	 Logic Clock: 1010	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1012]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1012]
+
+-------------------------
+Snapshot ID: 112	Process ID: 0	 Logic Clock: 1018	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 113	Process ID: 0	 Logic Clock: 1028	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [respOK, 0 reqEntry, 0, 1029]
 Canal[0, 2] = [respOK, 0 reqEntry, 0, 1029]
 
 -------------------------
-Snapshot ID: 116	Process ID: 0	 Logic Clock: 1036	Waiting: [false false false]	Process State: 1
+Snapshot ID: 114	Process ID: 0	 Logic Clock: 1034	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 2] = [respOK, 0]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1037]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1037]
 
 -------------------------
-Snapshot ID: 117	Process ID: 0	 Logic Clock: 1038	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1040 respOK, 0]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1040]
-
--------------------------
-Snapshot ID: 118	Process ID: 0	 Logic Clock: 1044	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0]
-
--------------------------
-Snapshot ID: 119	Process ID: 0	 Logic Clock: 1062	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1064]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1064]
-
--------------------------
-Snapshot ID: 120	Process ID: 0	 Logic Clock: 1065	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1067]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1067]
-
--------------------------
-Snapshot ID: 121	Process ID: 0	 Logic Clock: 1073	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1074]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1074]
-
--------------------------
-Snapshot ID: 122	Process ID: 0	 Logic Clock: 1082	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1084]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1084]
-
--------------------------
-Snapshot ID: 123	Process ID: 0	 Logic Clock: 1099	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1102]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1102]
-
--------------------------
-Snapshot ID: 124	Process ID: 0	 Logic Clock: 1105	Waiting: [false false false]	Process State: 1
+Snapshot ID: 115	Process ID: 0	 Logic Clock: 1041	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 125	Process ID: 0	 Logic Clock: 1122	Waiting: [false false false]	Process State: 1
+Snapshot ID: 116	Process ID: 0	 Logic Clock: 1050	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 126	Process ID: 0	 Logic Clock: 1123	Waiting: [false false false]	Process State: 1
+Snapshot ID: 117	Process ID: 0	 Logic Clock: 1052	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0]
-Canal[0, 2] = [respOK, 0]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1054]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1054]
 
 -------------------------
-Snapshot ID: 127	Process ID: 0	 Logic Clock: 1130	Waiting: [false false true]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 1131]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1131]
-
--------------------------
-Snapshot ID: 128	Process ID: 0	 Logic Clock: 1152	Waiting: [false false false]	Process State: 1
+Snapshot ID: 118	Process ID: 0	 Logic Clock: 1057	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 129	Process ID: 0	 Logic Clock: 1163	Waiting: [false false false]	Process State: 1
+Snapshot ID: 119	Process ID: 0	 Logic Clock: 1075	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 2] = [reqEntry, 0, 1164]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1164]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1078]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1078]
 
 -------------------------
-Snapshot ID: 130	Process ID: 0	 Logic Clock: 1166	Waiting: [false false false]	Process State: 1
+Snapshot ID: 120	Process ID: 0	 Logic Clock: 1091	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1169]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1169]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1093]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1093]
 
 -------------------------
-Snapshot ID: 131	Process ID: 0	 Logic Clock: 1178	Waiting: [false false false]	Process State: 1
+Snapshot ID: 121	Process ID: 0	 Logic Clock: 1113	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1180]
-Canal[0, 2] = [reqEntry, 0, 1180]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1116]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1116]
 
 -------------------------
-Snapshot ID: 132	Process ID: 0	 Logic Clock: 1184	Waiting: [false false false]	Process State: 1
+Snapshot ID: 122	Process ID: 0	 Logic Clock: 1127	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1185]
-Canal[0, 1] = [reqEntry, 0, 1185]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1129]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1129]
 
 -------------------------
-Snapshot ID: 133	Process ID: 0	 Logic Clock: 1187	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1188]
-Canal[0, 2] = [reqEntry, 0, 1188]
-
--------------------------
-Snapshot ID: 134	Process ID: 0	 Logic Clock: 1196	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1197]
-Canal[0, 1] = [reqEntry, 0, 1197]
-
--------------------------
-Snapshot ID: 135	Process ID: 0	 Logic Clock: 1215	Waiting: [false false false]	Process State: 1
+Snapshot ID: 123	Process ID: 0	 Logic Clock: 1177	Waiting: [false true true]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 136	Process ID: 0	 Logic Clock: 1217	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1219]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1219]
-
--------------------------
-Snapshot ID: 137	Process ID: 0	 Logic Clock: 1243	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1246]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1246]
-
--------------------------
-Snapshot ID: 138	Process ID: 0	 Logic Clock: 1250	Waiting: [false true true]	Process State: 1
+Snapshot ID: 124	Process ID: 0	 Logic Clock: 1188	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 139	Process ID: 0	 Logic Clock: 1262	Waiting: [false false false]	Process State: 1
+Snapshot ID: 125	Process ID: 0	 Logic Clock: 1191	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1263]
-Canal[0, 2] = [reqEntry, 0, 1263]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1192]
+Canal[0, 2] = [reqEntry, 0, 1192]
 
 -------------------------
-Snapshot ID: 140	Process ID: 0	 Logic Clock: 1265	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 141	Process ID: 0	 Logic Clock: 1282	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1283]
-Canal[0, 2] = [reqEntry, 0, 1283]
-
--------------------------
-Snapshot ID: 142	Process ID: 0	 Logic Clock: 1290	Waiting: [false false true]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1291]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1291]
-
--------------------------
-Snapshot ID: 143	Process ID: 0	 Logic Clock: 1293	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1295]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1295]
-
--------------------------
-Snapshot ID: 144	Process ID: 0	 Logic Clock: 1321	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1323]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1323]
-
--------------------------
-Snapshot ID: 145	Process ID: 0	 Logic Clock: 1333	Waiting: [false true true]	Process State: 2
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1334]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1334]
-
--------------------------
-Snapshot ID: 146	Process ID: 0	 Logic Clock: 1339	Waiting: [false false false]	Process State: 1
+Snapshot ID: 126	Process ID: 0	 Logic Clock: 1197	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 147	Process ID: 0	 Logic Clock: 1342	Waiting: [false false false]	Process State: 1
+Snapshot ID: 127	Process ID: 0	 Logic Clock: 1199	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 148	Process ID: 0	 Logic Clock: 1356	Waiting: [false false true]	Process State: 1
+Snapshot ID: 128	Process ID: 0	 Logic Clock: 1212	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1357]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1357]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1214]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1214]
 
 -------------------------
-Snapshot ID: 149	Process ID: 0	 Logic Clock: 1368	Waiting: [false false false]	Process State: 1
+Snapshot ID: 129	Process ID: 0	 Logic Clock: 1257	Waiting: [false true false]	Process State: 1
 Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1371]
+
+-------------------------
+Snapshot ID: 130	Process ID: 0	 Logic Clock: 1265	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1266]
+Canal[0, 1] = [reqEntry, 0, 1266]
+
+-------------------------
+Snapshot ID: 131	Process ID: 0	 Logic Clock: 1269	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 132	Process ID: 0	 Logic Clock: 1280	Waiting: [false false true]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1281]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1281]
+
+-------------------------
+Snapshot ID: 133	Process ID: 0	 Logic Clock: 1288	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1290]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1290]
+
+-------------------------
+Snapshot ID: 134	Process ID: 0	 Logic Clock: 1295	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 135	Process ID: 0	 Logic Clock: 1302	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 136	Process ID: 0	 Logic Clock: 1304	Waiting: [false true false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 137	Process ID: 0	 Logic Clock: 1306	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 138	Process ID: 0	 Logic Clock: 1312	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1314]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1314]
+
+-------------------------
+Snapshot ID: 139	Process ID: 0	 Logic Clock: 1323	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 140	Process ID: 0	 Logic Clock: 1338	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1340]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1340]
+
+-------------------------
+Snapshot ID: 141	Process ID: 0	 Logic Clock: 1348	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1349]
+Canal[0, 2] = [reqEntry, 0, 1349]
+
+-------------------------
+Snapshot ID: 142	Process ID: 0	 Logic Clock: 1370	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [reqEntry, 0, 1371]
 Canal[0, 1] = [respOK, 0 reqEntry, 0, 1371]
 
 -------------------------
-Snapshot ID: 150	Process ID: 0	 Logic Clock: 1380	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1382]
-Canal[0, 1] = [reqEntry, 0, 1382]
-
--------------------------
-Snapshot ID: 151	Process ID: 0	 Logic Clock: 1384	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1386]
-Canal[0, 2] = [reqEntry, 0, 1386]
-
--------------------------
-Snapshot ID: 152	Process ID: 0	 Logic Clock: 1388	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1391]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1391]
-
--------------------------
-Snapshot ID: 153	Process ID: 0	 Logic Clock: 1404	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 1405]
-Canal[0, 2] = [reqEntry, 0, 1405]
-
--------------------------
-Snapshot ID: 154	Process ID: 0	 Logic Clock: 1409	Waiting: [false false true]	Process State: 1
+Snapshot ID: 143	Process ID: 0	 Logic Clock: 1395	Waiting: [false false true]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 155	Process ID: 0	 Logic Clock: 1415	Waiting: [false false false]	Process State: 1
+Snapshot ID: 144	Process ID: 0	 Logic Clock: 1401	Waiting: [false false true]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1417]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1417]
+Canal[0, 1] = [reqEntry, 0, 1402]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1402]
 
 -------------------------
-Snapshot ID: 156	Process ID: 0	 Logic Clock: 1430	Waiting: [false false false]	Process State: 1
+Snapshot ID: 145	Process ID: 0	 Logic Clock: 1405	Waiting: [false false true]	Process State: 1
 Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1432]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1432]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1407]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1407]
 
 -------------------------
-Snapshot ID: 157	Process ID: 0	 Logic Clock: 1436	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1438]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1438]
-
--------------------------
-Snapshot ID: 158	Process ID: 0	 Logic Clock: 1451	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1453]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1453]
-
--------------------------
-Snapshot ID: 159	Process ID: 0	 Logic Clock: 1461	Waiting: [false false false]	Process State: 1
+Snapshot ID: 146	Process ID: 0	 Logic Clock: 1433	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 160	Process ID: 0	 Logic Clock: 1463	Waiting: [false false false]	Process State: 1
+Snapshot ID: 147	Process ID: 0	 Logic Clock: 1456	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1458]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1458]
 
 -------------------------
-Snapshot ID: 161	Process ID: 0	 Logic Clock: 1466	Waiting: [false false false]	Process State: 1
+Snapshot ID: 148	Process ID: 0	 Logic Clock: 1462	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1463]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1463]
 
 -------------------------
-Snapshot ID: 162	Process ID: 0	 Logic Clock: 1476	Waiting: [false false false]	Process State: 1
+Snapshot ID: 149	Process ID: 0	 Logic Clock: 1469	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1471]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1471]
 
 -------------------------
-Snapshot ID: 163	Process ID: 0	 Logic Clock: 1478	Waiting: [false false false]	Process State: 1
+Snapshot ID: 150	Process ID: 0	 Logic Clock: 1476	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [respOK, 0 reqEntry, 0, 1479]
-Canal[0, 2] = [reqEntry, 0, 1479]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1479]
 
 -------------------------
-Snapshot ID: 164	Process ID: 0	 Logic Clock: 1495	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1497]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1497]
-
--------------------------
-Snapshot ID: 165	Process ID: 0	 Logic Clock: 1519	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1521]
-Canal[0, 1] = [reqEntry, 0, 1521]
-
--------------------------
-Snapshot ID: 166	Process ID: 0	 Logic Clock: 1535	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 1538 respOK, 0]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1538]
-
--------------------------
-Snapshot ID: 167	Process ID: 0	 Logic Clock: 1572	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1573]
-Canal[0, 1] = [reqEntry, 0, 1573]
-
--------------------------
-Snapshot ID: 168	Process ID: 0	 Logic Clock: 1575	Waiting: [false true true]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1576]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1576]
-
--------------------------
-Snapshot ID: 169	Process ID: 0	 Logic Clock: 1578	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1580]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1580]
-
--------------------------
-Snapshot ID: 170	Process ID: 0	 Logic Clock: 1604	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1606]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1606]
-
--------------------------
-Snapshot ID: 171	Process ID: 0	 Logic Clock: 1609	Waiting: [false false false]	Process State: 1
+Snapshot ID: 151	Process ID: 0	 Logic Clock: 1485	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 172	Process ID: 0	 Logic Clock: 1614	Waiting: [false false false]	Process State: 1
+Snapshot ID: 152	Process ID: 0	 Logic Clock: 1488	Waiting: [false false false]	Process State: 0
+Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 1489]
+Canal[0, 2] = [reqEntry, 0, 1489]
+
+-------------------------
+Snapshot ID: 153	Process ID: 0	 Logic Clock: 1494	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 173	Process ID: 0	 Logic Clock: 1617	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1620]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1620]
-
--------------------------
-Snapshot ID: 174	Process ID: 0	 Logic Clock: 1630	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1632]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1632]
-
--------------------------
-Snapshot ID: 175	Process ID: 0	 Logic Clock: 1634	Waiting: [false false false]	Process State: 1
+Snapshot ID: 154	Process ID: 0	 Logic Clock: 1505	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 176	Process ID: 0	 Logic Clock: 1643	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1645]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1645]
-
--------------------------
-Snapshot ID: 177	Process ID: 0	 Logic Clock: 1649	Waiting: [false false true]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1651]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1651]
-
--------------------------
-Snapshot ID: 178	Process ID: 0	 Logic Clock: 1655	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1658]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1658]
-
--------------------------
-Snapshot ID: 179	Process ID: 0	 Logic Clock: 1677	Waiting: [false false false]	Process State: 1
+Snapshot ID: 155	Process ID: 0	 Logic Clock: 1520	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 180	Process ID: 0	 Logic Clock: 1686	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1689]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1689]
-
--------------------------
-Snapshot ID: 181	Process ID: 0	 Logic Clock: 1713	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1715]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1715]
-
--------------------------
-Snapshot ID: 182	Process ID: 0	 Logic Clock: 1724	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1727]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1727]
-
--------------------------
-Snapshot ID: 183	Process ID: 0	 Logic Clock: 1748	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1751]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1751]
-
--------------------------
-Snapshot ID: 184	Process ID: 0	 Logic Clock: 1764	Waiting: [false false true]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1766]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1766]
-
--------------------------
-Snapshot ID: 185	Process ID: 0	 Logic Clock: 1813	Waiting: [false false false]	Process State: 1
+Snapshot ID: 156	Process ID: 0	 Logic Clock: 1527	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 186	Process ID: 0	 Logic Clock: 1821	Waiting: [false false false]	Process State: 1
+Snapshot ID: 157	Process ID: 0	 Logic Clock: 1541	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1542]
+Canal[0, 2] = [reqEntry, 0, 1542]
+
+-------------------------
+Snapshot ID: 158	Process ID: 0	 Logic Clock: 1550	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 187	Process ID: 0	 Logic Clock: 1836	Waiting: [false false false]	Process State: 0
+Snapshot ID: 159	Process ID: 0	 Logic Clock: 1570	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 1837]
-Canal[0, 2] = [reqEntry, 0, 1837]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1572]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1572]
 
 -------------------------
-Snapshot ID: 188	Process ID: 0	 Logic Clock: 1843	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 189	Process ID: 0	 Logic Clock: 1852	Waiting: [false false false]	Process State: 1
+Snapshot ID: 160	Process ID: 0	 Logic Clock: 1576	Waiting: [false false true]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 190	Process ID: 0	 Logic Clock: 1860	Waiting: [false false false]	Process State: 1
+Snapshot ID: 161	Process ID: 0	 Logic Clock: 1586	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1588]
+Canal[0, 2] = [reqEntry, 0, 1588 respOK, 0]
+
+-------------------------
+Snapshot ID: 162	Process ID: 0	 Logic Clock: 1591	Waiting: [false true false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1593]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1593]
+
+-------------------------
+Snapshot ID: 163	Process ID: 0	 Logic Clock: 1600	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1601]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1601]
+
+-------------------------
+Snapshot ID: 164	Process ID: 0	 Logic Clock: 1620	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1621]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1621]
+
+-------------------------
+Snapshot ID: 165	Process ID: 0	 Logic Clock: 1632	Waiting: [false true false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1633]
+Canal[0, 2] = [reqEntry, 0, 1633]
+
+-------------------------
+Snapshot ID: 166	Process ID: 0	 Logic Clock: 1645	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 191	Process ID: 0	 Logic Clock: 1890	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1893]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1893]
-
--------------------------
-Snapshot ID: 192	Process ID: 0	 Logic Clock: 1914	Waiting: [false false false]	Process State: 1
+Snapshot ID: 167	Process ID: 0	 Logic Clock: 1647	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 193	Process ID: 0	 Logic Clock: 1918	Waiting: [false false false]	Process State: 1
+Snapshot ID: 168	Process ID: 0	 Logic Clock: 1664	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1667]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1667]
+
+-------------------------
+Snapshot ID: 169	Process ID: 0	 Logic Clock: 1719	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1721]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1721]
+
+-------------------------
+Snapshot ID: 170	Process ID: 0	 Logic Clock: 1730	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1732]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1732]
+
+-------------------------
+Snapshot ID: 171	Process ID: 0	 Logic Clock: 1754	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 194	Process ID: 0	 Logic Clock: 1925	Waiting: [false false false]	Process State: 1
+Snapshot ID: 172	Process ID: 0	 Logic Clock: 1771	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 195	Process ID: 0	 Logic Clock: 1942	Waiting: [false false false]	Process State: 1
+Snapshot ID: 173	Process ID: 0	 Logic Clock: 1789	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1791]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1791]
+
+-------------------------
+Snapshot ID: 174	Process ID: 0	 Logic Clock: 1813	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1815]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1815]
+
+-------------------------
+Snapshot ID: 175	Process ID: 0	 Logic Clock: 1846	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 196	Process ID: 0	 Logic Clock: 1945	Waiting: [false false false]	Process State: 1
+Snapshot ID: 176	Process ID: 0	 Logic Clock: 1848	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 197	Process ID: 0	 Logic Clock: 1972	Waiting: [false false false]	Process State: 1
+Snapshot ID: 177	Process ID: 0	 Logic Clock: 1850	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1974]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1974]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1852]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1852]
 
 -------------------------
-Snapshot ID: 198	Process ID: 0	 Logic Clock: 1981	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 199	Process ID: 0	 Logic Clock: 1996	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 1998]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 1998]
-
--------------------------
-Snapshot ID: 200	Process ID: 0	 Logic Clock: 2009	Waiting: [false false false]	Process State: 1
+Snapshot ID: 178	Process ID: 0	 Logic Clock: 1864	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 201	Process ID: 0	 Logic Clock: 2039	Waiting: [false false false]	Process State: 1
+Snapshot ID: 179	Process ID: 0	 Logic Clock: 1876	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2040]
-Canal[0, 2] = [reqEntry, 0, 2040]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1877]
+Canal[0, 2] = [reqEntry, 0, 1877]
 
 -------------------------
-Snapshot ID: 202	Process ID: 0	 Logic Clock: 2045	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2047]
-Canal[0, 1] = [reqEntry, 0, 2047]
-
--------------------------
-Snapshot ID: 203	Process ID: 0	 Logic Clock: 2052	Waiting: [false false false]	Process State: 1
+Snapshot ID: 180	Process ID: 0	 Logic Clock: 1881	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 204	Process ID: 0	 Logic Clock: 2067	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2069]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2069]
-
--------------------------
-Snapshot ID: 205	Process ID: 0	 Logic Clock: 2080	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2082]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2082]
-
--------------------------
-Snapshot ID: 206	Process ID: 0	 Logic Clock: 2086	Waiting: [false false false]	Process State: 1
+Snapshot ID: 181	Process ID: 0	 Logic Clock: 1892	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 207	Process ID: 0	 Logic Clock: 2089	Waiting: [false true true]	Process State: 1
+Snapshot ID: 182	Process ID: 0	 Logic Clock: 1926	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2090]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2090]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1928]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1928]
 
 -------------------------
-Snapshot ID: 208	Process ID: 0	 Logic Clock: 2093	Waiting: [false true true]	Process State: 2
+Snapshot ID: 183	Process ID: 0	 Logic Clock: 1939	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1941]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1941]
+
+-------------------------
+Snapshot ID: 184	Process ID: 0	 Logic Clock: 1963	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1965]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1965]
+
+-------------------------
+Snapshot ID: 185	Process ID: 0	 Logic Clock: 1970	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1972]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 1972]
+
+-------------------------
+Snapshot ID: 186	Process ID: 0	 Logic Clock: 1983	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 1984]
+Canal[0, 2] = [reqEntry, 0, 1984]
+
+-------------------------
+Snapshot ID: 187	Process ID: 0	 Logic Clock: 1997	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2000]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2000]
+
+-------------------------
+Snapshot ID: 188	Process ID: 0	 Logic Clock: 2002	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2004]
+Canal[0, 2] = [reqEntry, 0, 2004]
+
+-------------------------
+Snapshot ID: 189	Process ID: 0	 Logic Clock: 2006	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2009]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2009]
+
+-------------------------
+Snapshot ID: 190	Process ID: 0	 Logic Clock: 2017	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 191	Process ID: 0	 Logic Clock: 2019	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2022]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2022]
+
+-------------------------
+Snapshot ID: 192	Process ID: 0	 Logic Clock: 2063	Waiting: [false true false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [reqEntry, 0, 2064]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2064]
+
+-------------------------
+Snapshot ID: 193	Process ID: 0	 Logic Clock: 2069	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2072]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2072]
+
+-------------------------
+Snapshot ID: 194	Process ID: 0	 Logic Clock: 2082	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 195	Process ID: 0	 Logic Clock: 2087	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [respOK, 0]
-Canal[0, 2] = [respOK, 0]
 
 -------------------------
-Snapshot ID: 209	Process ID: 0	 Logic Clock: 2112	Waiting: [false false false]	Process State: 1
+Snapshot ID: 196	Process ID: 0	 Logic Clock: 2089	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2092]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2092]
+
+-------------------------
+Snapshot ID: 197	Process ID: 0	 Logic Clock: 2107	Waiting: [false false true]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2109]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2109]
+
+-------------------------
+Snapshot ID: 198	Process ID: 0	 Logic Clock: 2124	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 210	Process ID: 0	 Logic Clock: 2118	Waiting: [false false false]	Process State: 1
+Snapshot ID: 199	Process ID: 0	 Logic Clock: 2151	Waiting: [false true false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2121]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2121]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2153]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2153]
 
 -------------------------
-Snapshot ID: 211	Process ID: 0	 Logic Clock: 2126	Waiting: [false false false]	Process State: 1
+Snapshot ID: 200	Process ID: 0	 Logic Clock: 2155	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2128]
-Canal[0, 2] = [reqEntry, 0, 2128]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2157]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2157]
 
 -------------------------
-Snapshot ID: 212	Process ID: 0	 Logic Clock: 2152	Waiting: [false false false]	Process State: 1
+Snapshot ID: 201	Process ID: 0	 Logic Clock: 2161	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2155]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2155]
+Canal[0, 1] = [reqEntry, 0, 2162]
+Canal[0, 2] = [reqEntry, 0, 2162]
 
 -------------------------
-Snapshot ID: 213	Process ID: 0	 Logic Clock: 2160	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2162]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2162]
-
--------------------------
-Snapshot ID: 214	Process ID: 0	 Logic Clock: 2171	Waiting: [false false false]	Process State: 1
+Snapshot ID: 202	Process ID: 0	 Logic Clock: 2181	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 215	Process ID: 0	 Logic Clock: 2180	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2182]
-Canal[0, 2] = [reqEntry, 0, 2182]
-
--------------------------
-Snapshot ID: 216	Process ID: 0	 Logic Clock: 2189	Waiting: [false false false]	Process State: 1
+Snapshot ID: 203	Process ID: 0	 Logic Clock: 2189	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [respOK, 0 reqEntry, 0, 2191]
 Canal[0, 2] = [respOK, 0 reqEntry, 0, 2191]
 
 -------------------------
-Snapshot ID: 217	Process ID: 0	 Logic Clock: 2196	Waiting: [false false false]	Process State: 1
+Snapshot ID: 204	Process ID: 0	 Logic Clock: 2216	Waiting: [false true true]	Process State: 1
 Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2217]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2217]
 
 -------------------------
-Snapshot ID: 218	Process ID: 0	 Logic Clock: 2222	Waiting: [false false false]	Process State: 1
+Snapshot ID: 205	Process ID: 0	 Logic Clock: 2219	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2224]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2224]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2221]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2221]
 
 -------------------------
-Snapshot ID: 219	Process ID: 0	 Logic Clock: 2231	Waiting: [false false false]	Process State: 1
+Snapshot ID: 206	Process ID: 0	 Logic Clock: 2240	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2241]
+Canal[0, 2] = [reqEntry, 0, 2241]
 
 -------------------------
-Snapshot ID: 220	Process ID: 0	 Logic Clock: 2234	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 221	Process ID: 0	 Logic Clock: 2240	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 222	Process ID: 0	 Logic Clock: 2244	Waiting: [false false true]	Process State: 1
+Snapshot ID: 207	Process ID: 0	 Logic Clock: 2244	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [respOK, 0 reqEntry, 0, 2246]
 Canal[0, 2] = [respOK, 0 reqEntry, 0, 2246]
 
 -------------------------
-Snapshot ID: 223	Process ID: 0	 Logic Clock: 2249	Waiting: [false false false]	Process State: 1
+Snapshot ID: 208	Process ID: 0	 Logic Clock: 2248	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2251]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2251]
+
+-------------------------
+Snapshot ID: 209	Process ID: 0	 Logic Clock: 2264	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 224	Process ID: 0	 Logic Clock: 2265	Waiting: [false false false]	Process State: 1
+Snapshot ID: 210	Process ID: 0	 Logic Clock: 2267	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2268]
+Canal[0, 2] = [reqEntry, 0, 2268]
+
+-------------------------
+Snapshot ID: 211	Process ID: 0	 Logic Clock: 2276	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 225	Process ID: 0	 Logic Clock: 2279	Waiting: [false false false]	Process State: 1
+Snapshot ID: 212	Process ID: 0	 Logic Clock: 2281	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 226	Process ID: 0	 Logic Clock: 2282	Waiting: [false false false]	Process State: 1
+Snapshot ID: 213	Process ID: 0	 Logic Clock: 2287	Waiting: [false false true]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2289]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2289]
+
+-------------------------
+Snapshot ID: 214	Process ID: 0	 Logic Clock: 2295	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2297]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2297]
+
+-------------------------
+Snapshot ID: 215	Process ID: 0	 Logic Clock: 2311	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 227	Process ID: 0	 Logic Clock: 2322	Waiting: [false false false]	Process State: 1
+Snapshot ID: 216	Process ID: 0	 Logic Clock: 2314	Waiting: [false false true]	Process State: 1
 Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2324]
-Canal[0, 1] = [reqEntry, 0, 2324]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2316]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2316]
 
 -------------------------
-Snapshot ID: 228	Process ID: 0	 Logic Clock: 2353	Waiting: [false false false]	Process State: 1
+Snapshot ID: 217	Process ID: 0	 Logic Clock: 2324	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2356]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2356]
 
 -------------------------
-Snapshot ID: 229	Process ID: 0	 Logic Clock: 2359	Waiting: [false false false]	Process State: 1
+Snapshot ID: 218	Process ID: 0	 Logic Clock: 2331	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2361]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2361]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2333]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2333]
 
 -------------------------
-Snapshot ID: 230	Process ID: 0	 Logic Clock: 2379	Waiting: [false false false]	Process State: 1
+Snapshot ID: 219	Process ID: 0	 Logic Clock: 2338	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2381]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2381]
 
 -------------------------
-Snapshot ID: 231	Process ID: 0	 Logic Clock: 2391	Waiting: [false false false]	Process State: 1
+Snapshot ID: 220	Process ID: 0	 Logic Clock: 2348	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2392]
-Canal[0, 2] = [reqEntry, 0, 2392]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2350]
+Canal[0, 2] = [reqEntry, 0, 2350]
 
 -------------------------
-Snapshot ID: 232	Process ID: 0	 Logic Clock: 2398	Waiting: [false false false]	Process State: 1
+Snapshot ID: 221	Process ID: 0	 Logic Clock: 2355	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2357]
+Canal[0, 1] = [reqEntry, 0, 2357]
+
+-------------------------
+Snapshot ID: 222	Process ID: 0	 Logic Clock: 2390	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 223	Process ID: 0	 Logic Clock: 2393	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2395]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2395]
+
+-------------------------
+Snapshot ID: 224	Process ID: 0	 Logic Clock: 2397	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 225	Process ID: 0	 Logic Clock: 2400	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 226	Process ID: 0	 Logic Clock: 2417	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2419]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2419]
+
+-------------------------
+Snapshot ID: 227	Process ID: 0	 Logic Clock: 2439	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 228	Process ID: 0	 Logic Clock: 2442	Waiting: [false true false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2444]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2444]
+
+-------------------------
+Snapshot ID: 229	Process ID: 0	 Logic Clock: 2449	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 230	Process ID: 0	 Logic Clock: 2463	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 2] = [respOK, 0]
 
 -------------------------
-Snapshot ID: 233	Process ID: 0	 Logic Clock: 2403	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2405]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2405]
-
--------------------------
-Snapshot ID: 234	Process ID: 0	 Logic Clock: 2421	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2423]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2423]
-
--------------------------
-Snapshot ID: 235	Process ID: 0	 Logic Clock: 2433	Waiting: [false false false]	Process State: 1
+Snapshot ID: 231	Process ID: 0	 Logic Clock: 2476	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 236	Process ID: 0	 Logic Clock: 2450	Waiting: [false false false]	Process State: 1
+Snapshot ID: 232	Process ID: 0	 Logic Clock: 2479	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 237	Process ID: 0	 Logic Clock: 2459	Waiting: [false false false]	Process State: 1
+Snapshot ID: 233	Process ID: 0	 Logic Clock: 2486	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2488]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2488]
+
+-------------------------
+Snapshot ID: 234	Process ID: 0	 Logic Clock: 2496	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2498]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2498]
+
+-------------------------
+Snapshot ID: 235	Process ID: 0	 Logic Clock: 2500	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 238	Process ID: 0	 Logic Clock: 2500	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2502]
-Canal[0, 2] = [reqEntry, 0, 2502 respOK, 0]
-
--------------------------
-Snapshot ID: 239	Process ID: 0	 Logic Clock: 2532	Waiting: [false false false]	Process State: 1
+Snapshot ID: 236	Process ID: 0	 Logic Clock: 2507	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 240	Process ID: 0	 Logic Clock: 2543	Waiting: [false false false]	Process State: 1
+Snapshot ID: 237	Process ID: 0	 Logic Clock: 2508	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2510]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2510]
+
+-------------------------
+Snapshot ID: 238	Process ID: 0	 Logic Clock: 2512	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2514]
+Canal[0, 2] = [reqEntry, 0, 2514]
+
+-------------------------
+Snapshot ID: 239	Process ID: 0	 Logic Clock: 2525	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2527]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2527]
+
+-------------------------
+Snapshot ID: 240	Process ID: 0	 Logic Clock: 2532	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 241	Process ID: 0	 Logic Clock: 2566	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2568]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2568]
-
--------------------------
-Snapshot ID: 242	Process ID: 0	 Logic Clock: 2571	Waiting: [false true true]	Process State: 2
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2572]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2572]
-
--------------------------
-Snapshot ID: 243	Process ID: 0	 Logic Clock: 2593	Waiting: [false false false]	Process State: 1
+Snapshot ID: 241	Process ID: 0	 Logic Clock: 2583	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 244	Process ID: 0	 Logic Clock: 2612	Waiting: [false false false]	Process State: 1
+Snapshot ID: 242	Process ID: 0	 Logic Clock: 2589	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 245	Process ID: 0	 Logic Clock: 2642	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2644]
-Canal[0, 1] = [reqEntry, 0, 2644 respOK, 0]
-
--------------------------
-Snapshot ID: 246	Process ID: 0	 Logic Clock: 2655	Waiting: [false false false]	Process State: 1
+Snapshot ID: 243	Process ID: 0	 Logic Clock: 2591	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 247	Process ID: 0	 Logic Clock: 2674	Waiting: [false true true]	Process State: 1
+Snapshot ID: 244	Process ID: 0	 Logic Clock: 2597	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2675]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2675]
 
 -------------------------
-Snapshot ID: 248	Process ID: 0	 Logic Clock: 2681	Waiting: [false true true]	Process State: 1
+Snapshot ID: 245	Process ID: 0	 Logic Clock: 2613	Waiting: [false true false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 246	Process ID: 0	 Logic Clock: 2617	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0]
+
+-------------------------
+Snapshot ID: 247	Process ID: 0	 Logic Clock: 2625	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 248	Process ID: 0	 Logic Clock: 2630	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 249	Process ID: 0	 Logic Clock: 2648	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 250	Process ID: 0	 Logic Clock: 2654	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 251	Process ID: 0	 Logic Clock: 2657	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2660]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2660]
+
+-------------------------
+Snapshot ID: 252	Process ID: 0	 Logic Clock: 2680	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2682]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2682]
+
+-------------------------
+Snapshot ID: 253	Process ID: 0	 Logic Clock: 2686	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 254	Process ID: 0	 Logic Clock: 2691	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2694]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2694]
+
+-------------------------
+Snapshot ID: 255	Process ID: 0	 Logic Clock: 2710	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [reqEntry, 0, 2711]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2711]
+
+-------------------------
+Snapshot ID: 256	Process ID: 0	 Logic Clock: 2723	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 257	Process ID: 0	 Logic Clock: 2735	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2738]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2738]
+
+-------------------------
+Snapshot ID: 258	Process ID: 0	 Logic Clock: 2748	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 259	Process ID: 0	 Logic Clock: 2762	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 260	Process ID: 0	 Logic Clock: 2764	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [respOK, 0]
 Canal[0, 2] = [respOK, 0]
 
 -------------------------
-Snapshot ID: 249	Process ID: 0	 Logic Clock: 2702	Waiting: [false true true]	Process State: 1
+Snapshot ID: 261	Process ID: 0	 Logic Clock: 2774	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2703]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2703]
+Canal[0, 2] = [reqEntry, 0, 2776]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2776]
 
 -------------------------
-Snapshot ID: 250	Process ID: 0	 Logic Clock: 2706	Waiting: [false false false]	Process State: 1
+Snapshot ID: 262	Process ID: 0	 Logic Clock: 2784	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2708]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2708]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2785]
+Canal[0, 1] = [reqEntry, 0, 2785]
 
 -------------------------
-Snapshot ID: 251	Process ID: 0	 Logic Clock: 2713	Waiting: [false false false]	Process State: 1
+Snapshot ID: 263	Process ID: 0	 Logic Clock: 2793	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2715]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2715]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2795]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2795]
 
 -------------------------
-Snapshot ID: 252	Process ID: 0	 Logic Clock: 2721	Waiting: [false false false]	Process State: 1
+Snapshot ID: 264	Process ID: 0	 Logic Clock: 2825	Waiting: [false true false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2827]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2827]
+
+-------------------------
+Snapshot ID: 265	Process ID: 0	 Logic Clock: 2841	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [respOK, 0]
 Canal[0, 2] = [respOK, 0]
 
 -------------------------
-Snapshot ID: 253	Process ID: 0	 Logic Clock: 2739	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0]
-
--------------------------
-Snapshot ID: 254	Process ID: 0	 Logic Clock: 2742	Waiting: [false false false]	Process State: 1
+Snapshot ID: 266	Process ID: 0	 Logic Clock: 2861	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 255	Process ID: 0	 Logic Clock: 2745	Waiting: [false false false]	Process State: 1
+Snapshot ID: 267	Process ID: 0	 Logic Clock: 2888	Waiting: [false true true]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2748]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2748]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2889]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2889]
 
 -------------------------
-Snapshot ID: 256	Process ID: 0	 Logic Clock: 2762	Waiting: [false false false]	Process State: 1
+Snapshot ID: 268	Process ID: 0	 Logic Clock: 2900	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2902]
+Canal[0, 2] = [reqEntry, 0, 2902]
 
 -------------------------
-Snapshot ID: 257	Process ID: 0	 Logic Clock: 2785	Waiting: [false true false]	Process State: 1
+Snapshot ID: 269	Process ID: 0	 Logic Clock: 2914	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2787]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2787]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2915]
+Canal[0, 1] = [reqEntry, 0, 2915]
 
 -------------------------
-Snapshot ID: 258	Process ID: 0	 Logic Clock: 2794	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2796]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2796]
-
--------------------------
-Snapshot ID: 259	Process ID: 0	 Logic Clock: 2813	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2814]
-Canal[0, 2] = [reqEntry, 0, 2814]
-
--------------------------
-Snapshot ID: 260	Process ID: 0	 Logic Clock: 2817	Waiting: [false false false]	Process State: 0
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 2818]
-Canal[0, 2] = [reqEntry, 0, 2818]
-
--------------------------
-Snapshot ID: 261	Process ID: 0	 Logic Clock: 2836	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2839]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2839]
-
--------------------------
-Snapshot ID: 262	Process ID: 0	 Logic Clock: 2850	Waiting: [false true false]	Process State: 1
+Snapshot ID: 270	Process ID: 0	 Logic Clock: 2917	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 263	Process ID: 0	 Logic Clock: 2861	Waiting: [false true true]	Process State: 1
+Snapshot ID: 271	Process ID: 0	 Logic Clock: 2923	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 1] = [reqEntry, 0, 2925 respOK, 0]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2925]
 
 -------------------------
-Snapshot ID: 264	Process ID: 0	 Logic Clock: 2880	Waiting: [false false false]	Process State: 1
+Snapshot ID: 272	Process ID: 0	 Logic Clock: 2930	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 1] = [respOK, 0]
 
 -------------------------
-Snapshot ID: 265	Process ID: 0	 Logic Clock: 2891	Waiting: [false false false]	Process State: 1
+Snapshot ID: 273	Process ID: 0	 Logic Clock: 2932	Waiting: [false false true]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2892]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2892]
-
--------------------------
-Snapshot ID: 266	Process ID: 0	 Logic Clock: 2904	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2905]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2905]
-
--------------------------
-Snapshot ID: 267	Process ID: 0	 Logic Clock: 2907	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2909]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2909]
-
--------------------------
-Snapshot ID: 268	Process ID: 0	 Logic Clock: 2914	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 269	Process ID: 0	 Logic Clock: 2915	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2917]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2917]
-
--------------------------
-Snapshot ID: 270	Process ID: 0	 Logic Clock: 2931	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2934]
 Canal[0, 1] = [respOK, 0 reqEntry, 0, 2934]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2934]
 
 -------------------------
-Snapshot ID: 271	Process ID: 0	 Logic Clock: 2949	Waiting: [false false false]	Process State: 1
+Snapshot ID: 274	Process ID: 0	 Logic Clock: 2964	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2951]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2951]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2966]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2966]
 
 -------------------------
-Snapshot ID: 272	Process ID: 0	 Logic Clock: 2955	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 2956]
-Canal[0, 2] = [reqEntry, 0, 2956]
-
--------------------------
-Snapshot ID: 273	Process ID: 0	 Logic Clock: 2963	Waiting: [false false false]	Process State: 1
+Snapshot ID: 275	Process ID: 0	 Logic Clock: 2976	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 274	Process ID: 0	 Logic Clock: 2965	Waiting: [false false false]	Process State: 0
+Snapshot ID: 276	Process ID: 0	 Logic Clock: 2980	Waiting: [false false true]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 2966]
-Canal[0, 2] = [reqEntry, 0, 2966]
-
--------------------------
-Snapshot ID: 275	Process ID: 0	 Logic Clock: 2968	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 276	Process ID: 0	 Logic Clock: 2979	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 2982]
 Canal[0, 1] = [respOK, 0 reqEntry, 0, 2982]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 2982]
 
 -------------------------
-Snapshot ID: 277	Process ID: 0	 Logic Clock: 3009	Waiting: [false false false]	Process State: 1
+Snapshot ID: 277	Process ID: 0	 Logic Clock: 2994	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3011]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3011]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 2995]
+Canal[0, 2] = [reqEntry, 0, 2995]
 
 -------------------------
-Snapshot ID: 278	Process ID: 0	 Logic Clock: 3037	Waiting: [false false false]	Process State: 1
+Snapshot ID: 278	Process ID: 0	 Logic Clock: 3001	Waiting: [false true false]	Process State: 1
 Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3003]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3003]
 
 -------------------------
-Snapshot ID: 279	Process ID: 0	 Logic Clock: 3046	Waiting: [false false false]	Process State: 1
+Snapshot ID: 279	Process ID: 0	 Logic Clock: 3005	Waiting: [false true false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3048]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3048]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3007]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3007]
 
 -------------------------
-Snapshot ID: 280	Process ID: 0	 Logic Clock: 3054	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 281	Process ID: 0	 Logic Clock: 3062	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3064]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3064]
-
--------------------------
-Snapshot ID: 282	Process ID: 0	 Logic Clock: 3081	Waiting: [false false false]	Process State: 1
+Snapshot ID: 280	Process ID: 0	 Logic Clock: 3009	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 283	Process ID: 0	 Logic Clock: 3083	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3085]
-Canal[0, 1] = [reqEntry, 0, 3085 respOK, 0]
-
--------------------------
-Snapshot ID: 284	Process ID: 0	 Logic Clock: 3088	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3090]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3090]
-
--------------------------
-Snapshot ID: 285	Process ID: 0	 Logic Clock: 3095	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3097]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3097]
-
--------------------------
-Snapshot ID: 286	Process ID: 0	 Logic Clock: 3105	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0]
-Canal[0, 2] = [respOK, 0]
-
--------------------------
-Snapshot ID: 287	Process ID: 0	 Logic Clock: 3116	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3117]
-Canal[0, 1] = [reqEntry, 0, 3117]
-
--------------------------
-Snapshot ID: 288	Process ID: 0	 Logic Clock: 3135	Waiting: [false false false]	Process State: 1
+Snapshot ID: 281	Process ID: 0	 Logic Clock: 3012	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 289	Process ID: 0	 Logic Clock: 3151	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3153]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3153]
-
--------------------------
-Snapshot ID: 290	Process ID: 0	 Logic Clock: 3159	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3162]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3162]
-
--------------------------
-Snapshot ID: 291	Process ID: 0	 Logic Clock: 3164	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3166]
-Canal[0, 2] = [reqEntry, 0, 3166]
-
--------------------------
-Snapshot ID: 292	Process ID: 0	 Logic Clock: 3172	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3174]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3174]
-
--------------------------
-Snapshot ID: 293	Process ID: 0	 Logic Clock: 3180	Waiting: [false false false]	Process State: 1
+Snapshot ID: 282	Process ID: 0	 Logic Clock: 3015	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 294	Process ID: 0	 Logic Clock: 3213	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3215]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3215]
-
--------------------------
-Snapshot ID: 295	Process ID: 0	 Logic Clock: 3222	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3223]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3223]
-
--------------------------
-Snapshot ID: 296	Process ID: 0	 Logic Clock: 3243	Waiting: [false false false]	Process State: 1
+Snapshot ID: 283	Process ID: 0	 Logic Clock: 3027	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 297	Process ID: 0	 Logic Clock: 3246	Waiting: [false false false]	Process State: 1
+Snapshot ID: 284	Process ID: 0	 Logic Clock: 3076	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3248]
-Canal[0, 2] = [reqEntry, 0, 3248 respOK, 0]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3078]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3078]
 
 -------------------------
-Snapshot ID: 298	Process ID: 0	 Logic Clock: 3257	Waiting: [false false false]	Process State: 1
+Snapshot ID: 285	Process ID: 0	 Logic Clock: 3096	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3098]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3098]
+
+-------------------------
+Snapshot ID: 286	Process ID: 0	 Logic Clock: 3100	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3103]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3103]
+
+-------------------------
+Snapshot ID: 287	Process ID: 0	 Logic Clock: 3108	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 288	Process ID: 0	 Logic Clock: 3120	Waiting: [false false true]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3121]
+Canal[0, 1] = [reqEntry, 0, 3121]
+
+-------------------------
+Snapshot ID: 289	Process ID: 0	 Logic Clock: 3123	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3124]
+Canal[0, 2] = [reqEntry, 0, 3124]
+
+-------------------------
+Snapshot ID: 290	Process ID: 0	 Logic Clock: 3136	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3139]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3139]
+
+-------------------------
+Snapshot ID: 291	Process ID: 0	 Logic Clock: 3154	Waiting: [false true false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3156]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3156]
+
+-------------------------
+Snapshot ID: 292	Process ID: 0	 Logic Clock: 3174	Waiting: [false false true]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3176]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3176]
+
+-------------------------
+Snapshot ID: 293	Process ID: 0	 Logic Clock: 3182	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3185]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3185]
+
+-------------------------
+Snapshot ID: 294	Process ID: 0	 Logic Clock: 3188	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 295	Process ID: 0	 Logic Clock: 3194	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 296	Process ID: 0	 Logic Clock: 3222	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3225]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3225]
+
+-------------------------
+Snapshot ID: 297	Process ID: 0	 Logic Clock: 3227	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3228]
+Canal[0, 2] = [reqEntry, 0, 3228]
+
+-------------------------
+Snapshot ID: 298	Process ID: 0	 Logic Clock: 3239	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3240]
+Canal[0, 2] = [reqEntry, 0, 3240]
+
+-------------------------
+Snapshot ID: 299	Process ID: 0	 Logic Clock: 3257	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [respOK, 0 reqEntry, 0, 3259]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3259]
+Canal[0, 2] = [reqEntry, 0, 3259]
 
 -------------------------
-Snapshot ID: 299	Process ID: 0	 Logic Clock: 3272	Waiting: [false false false]	Process State: 1
+Snapshot ID: 300	Process ID: 0	 Logic Clock: 3268	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3274]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3274]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3270]
+Canal[0, 2] = [reqEntry, 0, 3270]
 
 -------------------------
-Snapshot ID: 300	Process ID: 0	 Logic Clock: 3287	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [reqEntry, 0, 3289]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3289]
-
--------------------------
-Snapshot ID: 301	Process ID: 0	 Logic Clock: 3321	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3324]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3324]
-
--------------------------
-Snapshot ID: 302	Process ID: 0	 Logic Clock: 3331	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3333]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3333]
-
--------------------------
-Snapshot ID: 303	Process ID: 0	 Logic Clock: 3339	Waiting: [false true true]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3340]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3340]
-
--------------------------
-Snapshot ID: 304	Process ID: 0	 Logic Clock: 3343	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3345]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3345]
-
--------------------------
-Snapshot ID: 305	Process ID: 0	 Logic Clock: 3363	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3366]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3366]
-
--------------------------
-Snapshot ID: 306	Process ID: 0	 Logic Clock: 3368	Waiting: [false false true]	Process State: 1
+Snapshot ID: 301	Process ID: 0	 Logic Clock: 3279	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 307	Process ID: 0	 Logic Clock: 3376	Waiting: [false true true]	Process State: 1
+Snapshot ID: 302	Process ID: 0	 Logic Clock: 3294	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3377]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3377]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3296]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3296]
 
 -------------------------
-Snapshot ID: 308	Process ID: 0	 Logic Clock: 3409	Waiting: [false false false]	Process State: 1
+Snapshot ID: 303	Process ID: 0	 Logic Clock: 3300	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3301]
+Canal[0, 1] = [reqEntry, 0, 3301]
 
 -------------------------
-Snapshot ID: 309	Process ID: 0	 Logic Clock: 3420	Waiting: [false true true]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3421]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3421]
-
--------------------------
-Snapshot ID: 310	Process ID: 0	 Logic Clock: 3423	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3425]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3425]
-
--------------------------
-Snapshot ID: 311	Process ID: 0	 Logic Clock: 3434	Waiting: [false false false]	Process State: 1
+Snapshot ID: 304	Process ID: 0	 Logic Clock: 3330	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 312	Process ID: 0	 Logic Clock: 3441	Waiting: [false false true]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3442]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3442]
-
--------------------------
-Snapshot ID: 313	Process ID: 0	 Logic Clock: 3446	Waiting: [false false false]	Process State: 1
+Snapshot ID: 305	Process ID: 0	 Logic Clock: 3353	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 314	Process ID: 0	 Logic Clock: 3449	Waiting: [false false false]	Process State: 1
+Snapshot ID: 306	Process ID: 0	 Logic Clock: 3356	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 307	Process ID: 0	 Logic Clock: 3369	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3371]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3371]
+
+-------------------------
+Snapshot ID: 308	Process ID: 0	 Logic Clock: 3373	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0]
+
+-------------------------
+Snapshot ID: 309	Process ID: 0	 Logic Clock: 3378	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 310	Process ID: 0	 Logic Clock: 3385	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 311	Process ID: 0	 Logic Clock: 3388	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3389]
+Canal[0, 1] = [reqEntry, 0, 3389]
+
+-------------------------
+Snapshot ID: 312	Process ID: 0	 Logic Clock: 3391	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0]
+
+-------------------------
+Snapshot ID: 313	Process ID: 0	 Logic Clock: 3411	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 314	Process ID: 0	 Logic Clock: 3422	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0]
+
+-------------------------
+Snapshot ID: 315	Process ID: 0	 Logic Clock: 3431	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 316	Process ID: 0	 Logic Clock: 3441	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3444]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3444]
+
+-------------------------
+Snapshot ID: 317	Process ID: 0	 Logic Clock: 3450	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3453]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3453]
+
+-------------------------
+Snapshot ID: 318	Process ID: 0	 Logic Clock: 3462	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 319	Process ID: 0	 Logic Clock: 3487	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3490]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3490]
+
+-------------------------
+Snapshot ID: 320	Process ID: 0	 Logic Clock: 3499	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 321	Process ID: 0	 Logic Clock: 3505	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 322	Process ID: 0	 Logic Clock: 3515	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3517]
+Canal[0, 1] = [reqEntry, 0, 3517]
+
+-------------------------
+Snapshot ID: 323	Process ID: 0	 Logic Clock: 3532	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3534]
+Canal[0, 1] = [reqEntry, 0, 3534]
+
+-------------------------
+Snapshot ID: 324	Process ID: 0	 Logic Clock: 3535	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 325	Process ID: 0	 Logic Clock: 3540	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 326	Process ID: 0	 Logic Clock: 3547	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3549]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3549]
+
+-------------------------
+Snapshot ID: 327	Process ID: 0	 Logic Clock: 3563	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3564]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3564]
+
+-------------------------
+Snapshot ID: 328	Process ID: 0	 Logic Clock: 3585	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 329	Process ID: 0	 Logic Clock: 3597	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 330	Process ID: 0	 Logic Clock: 3633	Waiting: [false true false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3635]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3635]
+
+-------------------------
+Snapshot ID: 331	Process ID: 0	 Logic Clock: 3641	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 332	Process ID: 0	 Logic Clock: 3644	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3646]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3646]
+
+-------------------------
+Snapshot ID: 333	Process ID: 0	 Logic Clock: 3670	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [respOK, 0]
 Canal[0, 2] = [respOK, 0]
 
 -------------------------
-Snapshot ID: 315	Process ID: 0	 Logic Clock: 3454	Waiting: [false false false]	Process State: 1
+Snapshot ID: 334	Process ID: 0	 Logic Clock: 3673	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3675]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3675]
+
+-------------------------
+Snapshot ID: 335	Process ID: 0	 Logic Clock: 3687	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3689]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3689]
+
+-------------------------
+Snapshot ID: 336	Process ID: 0	 Logic Clock: 3698	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 316	Process ID: 0	 Logic Clock: 3461	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3462]
-Canal[0, 1] = [reqEntry, 0, 3462]
-
--------------------------
-Snapshot ID: 317	Process ID: 0	 Logic Clock: 3477	Waiting: [false false false]	Process State: 1
+Snapshot ID: 337	Process ID: 0	 Logic Clock: 3708	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 318	Process ID: 0	 Logic Clock: 3479	Waiting: [false false false]	Process State: 1
+Snapshot ID: 338	Process ID: 0	 Logic Clock: 3720	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 319	Process ID: 0	 Logic Clock: 3484	Waiting: [false false false]	Process State: 1
+Snapshot ID: 339	Process ID: 0	 Logic Clock: 3723	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3486]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3486]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3726]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3726]
 
 -------------------------
-Snapshot ID: 320	Process ID: 0	 Logic Clock: 3488	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 321	Process ID: 0	 Logic Clock: 3496	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3498]
-Canal[0, 1] = [reqEntry, 0, 3498 respOK, 0]
-
--------------------------
-Snapshot ID: 322	Process ID: 0	 Logic Clock: 3505	Waiting: [false false false]	Process State: 1
+Snapshot ID: 340	Process ID: 0	 Logic Clock: 3731	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 323	Process ID: 0	 Logic Clock: 3512	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3514]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3514]
-
--------------------------
-Snapshot ID: 324	Process ID: 0	 Logic Clock: 3520	Waiting: [false true false]	Process State: 1
+Snapshot ID: 341	Process ID: 0	 Logic Clock: 3745	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [respOK, 0]
-Canal[0, 2] = [respOK, 0]
 
 -------------------------
-Snapshot ID: 325	Process ID: 0	 Logic Clock: 3535	Waiting: [false false false]	Process State: 1
+Snapshot ID: 342	Process ID: 0	 Logic Clock: 3754	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 326	Process ID: 0	 Logic Clock: 3545	Waiting: [false true true]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3546]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3546]
-
--------------------------
-Snapshot ID: 327	Process ID: 0	 Logic Clock: 3554	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0]
-Canal[0, 2] = [respOK, 0]
-
--------------------------
-Snapshot ID: 328	Process ID: 0	 Logic Clock: 3557	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3558]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3558]
-
--------------------------
-Snapshot ID: 329	Process ID: 0	 Logic Clock: 3560	Waiting: [false false false]	Process State: 1
+Snapshot ID: 343	Process ID: 0	 Logic Clock: 3766	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 330	Process ID: 0	 Logic Clock: 3564	Waiting: [false false false]	Process State: 1
+Snapshot ID: 344	Process ID: 0	 Logic Clock: 3768	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3567]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3567]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3770]
+Canal[0, 2] = [reqEntry, 0, 3770]
 
 -------------------------
-Snapshot ID: 331	Process ID: 0	 Logic Clock: 3574	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3576]
-Canal[0, 2] = [reqEntry, 0, 3576]
-
--------------------------
-Snapshot ID: 332	Process ID: 0	 Logic Clock: 3580	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3583]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3583]
-
--------------------------
-Snapshot ID: 333	Process ID: 0	 Logic Clock: 3600	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3603]
-Canal[0, 2] = [reqEntry, 0, 3603 respOK, 0]
-
--------------------------
-Snapshot ID: 334	Process ID: 0	 Logic Clock: 3609	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3611]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3611]
-
--------------------------
-Snapshot ID: 335	Process ID: 0	 Logic Clock: 3623	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3625]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3625]
-
--------------------------
-Snapshot ID: 336	Process ID: 0	 Logic Clock: 3640	Waiting: [false false false]	Process State: 1
+Snapshot ID: 345	Process ID: 0	 Logic Clock: 3779	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 337	Process ID: 0	 Logic Clock: 3674	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3676]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3676]
-
--------------------------
-Snapshot ID: 338	Process ID: 0	 Logic Clock: 3679	Waiting: [false false false]	Process State: 1
+Snapshot ID: 346	Process ID: 0	 Logic Clock: 3781	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 339	Process ID: 0	 Logic Clock: 3682	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 340	Process ID: 0	 Logic Clock: 3688	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3690]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3690]
-
--------------------------
-Snapshot ID: 341	Process ID: 0	 Logic Clock: 3692	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3694]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3694]
-
--------------------------
-Snapshot ID: 342	Process ID: 0	 Logic Clock: 3713	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3715]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3715]
-
--------------------------
-Snapshot ID: 343	Process ID: 0	 Logic Clock: 3725	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 344	Process ID: 0	 Logic Clock: 3737	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3740]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3740]
-
--------------------------
-Snapshot ID: 345	Process ID: 0	 Logic Clock: 3754	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3756]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3756]
-
--------------------------
-Snapshot ID: 346	Process ID: 0	 Logic Clock: 3765	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 347	Process ID: 0	 Logic Clock: 3767	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 348	Process ID: 0	 Logic Clock: 3774	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 349	Process ID: 0	 Logic Clock: 3776	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 350	Process ID: 0	 Logic Clock: 3805	Waiting: [false false false]	Process State: 1
+Snapshot ID: 347	Process ID: 0	 Logic Clock: 3804	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [respOK, 0 reqEntry, 0, 3806]
-Canal[0, 2] = [reqEntry, 0, 3806]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3806]
 
 -------------------------
-Snapshot ID: 351	Process ID: 0	 Logic Clock: 3811	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3814]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3814]
-
--------------------------
-Snapshot ID: 352	Process ID: 0	 Logic Clock: 3816	Waiting: [false false false]	Process State: 1
+Snapshot ID: 348	Process ID: 0	 Logic Clock: 3815	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 353	Process ID: 0	 Logic Clock: 3830	Waiting: [false false false]	Process State: 1
+Snapshot ID: 349	Process ID: 0	 Logic Clock: 3833	Waiting: [false true true]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3834]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3834]
+
+-------------------------
+Snapshot ID: 350	Process ID: 0	 Logic Clock: 3840	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3842]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3842]
+
+-------------------------
+Snapshot ID: 351	Process ID: 0	 Logic Clock: 3855	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 354	Process ID: 0	 Logic Clock: 3842	Waiting: [false false false]	Process State: 1
+Snapshot ID: 352	Process ID: 0	 Logic Clock: 3863	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3843]
-Canal[0, 2] = [reqEntry, 0, 3843]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3865]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3865]
 
 -------------------------
-Snapshot ID: 355	Process ID: 0	 Logic Clock: 3859	Waiting: [false false false]	Process State: 1
+Snapshot ID: 353	Process ID: 0	 Logic Clock: 3888	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 2] = [respOK, 0 respOK, 0]
+Canal[0, 1] = [respOK, 0]
 
 -------------------------
-Snapshot ID: 356	Process ID: 0	 Logic Clock: 3865	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 357	Process ID: 0	 Logic Clock: 3887	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 358	Process ID: 0	 Logic Clock: 3901	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3903]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3903]
-
--------------------------
-Snapshot ID: 359	Process ID: 0	 Logic Clock: 3907	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3909]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3909]
-
--------------------------
-Snapshot ID: 360	Process ID: 0	 Logic Clock: 3931	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3933]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3933]
-
--------------------------
-Snapshot ID: 361	Process ID: 0	 Logic Clock: 3954	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 362	Process ID: 0	 Logic Clock: 3969	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3972]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3972]
-
--------------------------
-Snapshot ID: 363	Process ID: 0	 Logic Clock: 3977	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3979]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3979]
-
--------------------------
-Snapshot ID: 364	Process ID: 0	 Logic Clock: 3981	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 3984]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 3984]
-
--------------------------
-Snapshot ID: 365	Process ID: 0	 Logic Clock: 4000	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 366	Process ID: 0	 Logic Clock: 4003	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 367	Process ID: 0	 Logic Clock: 4033	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 368	Process ID: 0	 Logic Clock: 4041	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 369	Process ID: 0	 Logic Clock: 4055	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4057]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4057]
-
--------------------------
-Snapshot ID: 370	Process ID: 0	 Logic Clock: 4063	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 371	Process ID: 0	 Logic Clock: 4075	Waiting: [false false false]	Process State: 1
+Snapshot ID: 354	Process ID: 0	 Logic Clock: 3901	Waiting: [false false false]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [respOK, 0]
 Canal[0, 2] = [respOK, 0]
 
 -------------------------
-Snapshot ID: 372	Process ID: 0	 Logic Clock: 4124	Waiting: [false false false]	Process State: 1
+Snapshot ID: 355	Process ID: 0	 Logic Clock: 3906	Waiting: [false true true]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4127]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4127]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3907]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3907]
 
 -------------------------
-Snapshot ID: 373	Process ID: 0	 Logic Clock: 4137	Waiting: [false true false]	Process State: 1
+Snapshot ID: 356	Process ID: 0	 Logic Clock: 3911	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4139]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4139]
+Canal[0, 2] = [respOK, 0 respOK, 0 reqEntry, 0, 3914]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3914]
 
 -------------------------
-Snapshot ID: 374	Process ID: 0	 Logic Clock: 4145	Waiting: [false true false]	Process State: 1
+Snapshot ID: 357	Process ID: 0	 Logic Clock: 3921	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4147]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4147]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3923]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3923]
 
 -------------------------
-Snapshot ID: 375	Process ID: 0	 Logic Clock: 4150	Waiting: [false false false]	Process State: 1
+Snapshot ID: 358	Process ID: 0	 Logic Clock: 3927	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3929]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3929]
 
 -------------------------
-Snapshot ID: 376	Process ID: 0	 Logic Clock: 4165	Waiting: [false false false]	Process State: 1
+Snapshot ID: 359	Process ID: 0	 Logic Clock: 3933	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4168]
-Canal[0, 1] = [reqEntry, 0, 4168 respOK, 0]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3936]
+Canal[0, 1] = [reqEntry, 0, 3936 respOK, 0]
 
 -------------------------
-Snapshot ID: 377	Process ID: 0	 Logic Clock: 4171	Waiting: [false false false]	Process State: 1
+Snapshot ID: 360	Process ID: 0	 Logic Clock: 3938	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3940]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3940]
 
 -------------------------
-Snapshot ID: 378	Process ID: 0	 Logic Clock: 4180	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 379	Process ID: 0	 Logic Clock: 4194	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 380	Process ID: 0	 Logic Clock: 4204	Waiting: [false false false]	Process State: 1
+Snapshot ID: 361	Process ID: 0	 Logic Clock: 3947	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 381	Process ID: 0	 Logic Clock: 4225	Waiting: [false false false]	Process State: 1
+Snapshot ID: 362	Process ID: 0	 Logic Clock: 3971	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4228]
-Canal[0, 1] = [reqEntry, 0, 4228 respOK, 0]
+Canal[0, 1] = [respOK, 0]
+Canal[0, 2] = [respOK, 0]
 
 -------------------------
-Snapshot ID: 382	Process ID: 0	 Logic Clock: 4238	Waiting: [false false false]	Process State: 1
+Snapshot ID: 363	Process ID: 0	 Logic Clock: 3984	Waiting: [false false true]	Process State: 1
 Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3986]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3986]
 
 -------------------------
-Snapshot ID: 383	Process ID: 0	 Logic Clock: 4259	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4262]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4262]
-
--------------------------
-Snapshot ID: 384	Process ID: 0	 Logic Clock: 4263	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4265]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4265]
-
--------------------------
-Snapshot ID: 385	Process ID: 0	 Logic Clock: 4274	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4276]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4276]
-
--------------------------
-Snapshot ID: 386	Process ID: 0	 Logic Clock: 4279	Waiting: [false false false]	Process State: 1
+Snapshot ID: 364	Process ID: 0	 Logic Clock: 3987	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 387	Process ID: 0	 Logic Clock: 4288	Waiting: [false false false]	Process State: 1
+Snapshot ID: 365	Process ID: 0	 Logic Clock: 3989	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4290]
-Canal[0, 2] = [reqEntry, 0, 4290]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 3991]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 3991]
 
 -------------------------
-Snapshot ID: 388	Process ID: 0	 Logic Clock: 4294	Waiting: [false false false]	Process State: 1
+Snapshot ID: 366	Process ID: 0	 Logic Clock: 4006	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4296]
-Canal[0, 2] = [reqEntry, 0, 4296]
+Canal[0, 1] = [respOK, 0]
+Canal[0, 2] = [respOK, 0]
 
 -------------------------
-Snapshot ID: 389	Process ID: 0	 Logic Clock: 4298	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4300]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4300]
-
--------------------------
-Snapshot ID: 390	Process ID: 0	 Logic Clock: 4305	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4306]
-Canal[0, 2] = [reqEntry, 0, 4306]
-
--------------------------
-Snapshot ID: 391	Process ID: 0	 Logic Clock: 4311	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4313]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4313]
-
--------------------------
-Snapshot ID: 392	Process ID: 0	 Logic Clock: 4327	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4329]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4329]
-
--------------------------
-Snapshot ID: 393	Process ID: 0	 Logic Clock: 4366	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4367]
-Canal[0, 2] = [reqEntry, 0, 4367]
-
--------------------------
-Snapshot ID: 394	Process ID: 0	 Logic Clock: 4373	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4374]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4374]
-
--------------------------
-Snapshot ID: 395	Process ID: 0	 Logic Clock: 4395	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4397]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4397]
-
--------------------------
-Snapshot ID: 396	Process ID: 0	 Logic Clock: 4407	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4409]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4409]
-
--------------------------
-Snapshot ID: 397	Process ID: 0	 Logic Clock: 4412	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4414]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4414]
-
--------------------------
-Snapshot ID: 398	Process ID: 0	 Logic Clock: 4431	Waiting: [false false false]	Process State: 1
+Snapshot ID: 367	Process ID: 0	 Logic Clock: 4011	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 399	Process ID: 0	 Logic Clock: 4474	Waiting: [false false false]	Process State: 1
+Snapshot ID: 368	Process ID: 0	 Logic Clock: 4017	Waiting: [false false true]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0]
+Canal[0, 1] = [respOK, 0]
+
+-------------------------
+Snapshot ID: 369	Process ID: 0	 Logic Clock: 4019	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4021]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4021]
+
+-------------------------
+Snapshot ID: 370	Process ID: 0	 Logic Clock: 4036	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4037]
+Canal[0, 1] = [reqEntry, 0, 4037]
+
+-------------------------
+Snapshot ID: 371	Process ID: 0	 Logic Clock: 4053	Waiting: [false false true]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4055]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4055]
+
+-------------------------
+Snapshot ID: 372	Process ID: 0	 Logic Clock: 4066	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4068]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4068]
+
+-------------------------
+Snapshot ID: 373	Process ID: 0	 Logic Clock: 4078	Waiting: [false true false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4080]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4080]
+
+-------------------------
+Snapshot ID: 374	Process ID: 0	 Logic Clock: 4089	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 400	Process ID: 0	 Logic Clock: 4492	Waiting: [false false false]	Process State: 1
+Snapshot ID: 375	Process ID: 0	 Logic Clock: 4095	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4097]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4097]
+
+-------------------------
+Snapshot ID: 376	Process ID: 0	 Logic Clock: 4107	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0]
+Canal[0, 1] = [respOK, 0]
+
+-------------------------
+Snapshot ID: 377	Process ID: 0	 Logic Clock: 4112	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 401	Process ID: 0	 Logic Clock: 4501	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4503]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4503]
-
--------------------------
-Snapshot ID: 402	Process ID: 0	 Logic Clock: 4505	Waiting: [false false false]	Process State: 1
+Snapshot ID: 378	Process ID: 0	 Logic Clock: 4116	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 403	Process ID: 0	 Logic Clock: 4514	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4517]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4517]
-
--------------------------
-Snapshot ID: 404	Process ID: 0	 Logic Clock: 4526	Waiting: [false false false]	Process State: 1
+Snapshot ID: 379	Process ID: 0	 Logic Clock: 4121	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 405	Process ID: 0	 Logic Clock: 4549	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4551]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4551]
-
--------------------------
-Snapshot ID: 406	Process ID: 0	 Logic Clock: 4554	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4556]
-Canal[0, 1] = [reqEntry, 0, 4556 respOK, 0]
-
--------------------------
-Snapshot ID: 407	Process ID: 0	 Logic Clock: 4575	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4577]
-Canal[0, 1] = [reqEntry, 0, 4577]
-
--------------------------
-Snapshot ID: 408	Process ID: 0	 Logic Clock: 4579	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4581]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4581]
-
--------------------------
-Snapshot ID: 409	Process ID: 0	 Logic Clock: 4584	Waiting: [false false false]	Process State: 1
+Snapshot ID: 380	Process ID: 0	 Logic Clock: 4130	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 410	Process ID: 0	 Logic Clock: 4589	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4591]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4591]
-
--------------------------
-Snapshot ID: 411	Process ID: 0	 Logic Clock: 4612	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4614]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4614]
-
--------------------------
-Snapshot ID: 412	Process ID: 0	 Logic Clock: 4618	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4620]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4620]
-
--------------------------
-Snapshot ID: 413	Process ID: 0	 Logic Clock: 4632	Waiting: [false false false]	Process State: 1
+Snapshot ID: 381	Process ID: 0	 Logic Clock: 4133	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 414	Process ID: 0	 Logic Clock: 4643	Waiting: [false false false]	Process State: 1
+Snapshot ID: 382	Process ID: 0	 Logic Clock: 4136	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 415	Process ID: 0	 Logic Clock: 4678	Waiting: [false true false]	Process State: 1
+Snapshot ID: 383	Process ID: 0	 Logic Clock: 4144	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 416	Process ID: 0	 Logic Clock: 4680	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4682]
-Canal[0, 2] = [reqEntry, 0, 4682]
-
--------------------------
-Snapshot ID: 417	Process ID: 0	 Logic Clock: 4691	Waiting: [false false false]	Process State: 1
+Snapshot ID: 384	Process ID: 0	 Logic Clock: 4152	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 418	Process ID: 0	 Logic Clock: 4707	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4709]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4709]
-
--------------------------
-Snapshot ID: 419	Process ID: 0	 Logic Clock: 4727	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4729]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4729]
-
--------------------------
-Snapshot ID: 420	Process ID: 0	 Logic Clock: 4732	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [reqEntry, 0, 4733]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4733]
-
--------------------------
-Snapshot ID: 421	Process ID: 0	 Logic Clock: 4735	Waiting: [false false false]	Process State: 1
+Snapshot ID: 385	Process ID: 0	 Logic Clock: 4181	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 422	Process ID: 0	 Logic Clock: 4738	Waiting: [false false false]	Process State: 1
+Snapshot ID: 386	Process ID: 0	 Logic Clock: 4195	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4196]
+Canal[0, 1] = [reqEntry, 0, 4196]
+
+-------------------------
+Snapshot ID: 387	Process ID: 0	 Logic Clock: 4203	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4205]
+Canal[0, 2] = [reqEntry, 0, 4205]
+
+-------------------------
+Snapshot ID: 388	Process ID: 0	 Logic Clock: 4209	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4211]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4211]
+
+-------------------------
+Snapshot ID: 389	Process ID: 0	 Logic Clock: 4220	Waiting: [false false true]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 423	Process ID: 0	 Logic Clock: 4741	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4743]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4743]
-
--------------------------
-Snapshot ID: 424	Process ID: 0	 Logic Clock: 4749	Waiting: [false false false]	Process State: 1
+Snapshot ID: 390	Process ID: 0	 Logic Clock: 4225	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 425	Process ID: 0	 Logic Clock: 4768	Waiting: [false false false]	Process State: 1
+Snapshot ID: 391	Process ID: 0	 Logic Clock: 4232	Waiting: [false false false]	Process State: 1
 Channel Messages:
 
 -------------------------
-Snapshot ID: 426	Process ID: 0	 Logic Clock: 4781	Waiting: [false true false]	Process State: 1
+Snapshot ID: 392	Process ID: 0	 Logic Clock: 4235	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4783]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4783]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4238]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4238]
 
 -------------------------
-Snapshot ID: 427	Process ID: 0	 Logic Clock: 4792	Waiting: [false true false]	Process State: 1
+Snapshot ID: 393	Process ID: 0	 Logic Clock: 4246	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4248]
+Canal[0, 2] = [reqEntry, 0, 4248]
+
+-------------------------
+Snapshot ID: 394	Process ID: 0	 Logic Clock: 4251	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4254]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4254]
+
+-------------------------
+Snapshot ID: 395	Process ID: 0	 Logic Clock: 4282	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4285]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4285]
+
+-------------------------
+Snapshot ID: 396	Process ID: 0	 Logic Clock: 4295	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4297]
+Canal[0, 2] = [reqEntry, 0, 4297 respOK, 0]
+
+-------------------------
+Snapshot ID: 397	Process ID: 0	 Logic Clock: 4318	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 398	Process ID: 0	 Logic Clock: 4321	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4323]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4323]
+
+-------------------------
+Snapshot ID: 399	Process ID: 0	 Logic Clock: 4335	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4337]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4337]
+
+-------------------------
+Snapshot ID: 400	Process ID: 0	 Logic Clock: 4342	Waiting: [false true false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4344]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4344]
+
+-------------------------
+Snapshot ID: 401	Process ID: 0	 Logic Clock: 4362	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 402	Process ID: 0	 Logic Clock: 4365	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 403	Process ID: 0	 Logic Clock: 4372	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4375]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4375]
+
+-------------------------
+Snapshot ID: 404	Process ID: 0	 Logic Clock: 4386	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4389]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4389]
+
+-------------------------
+Snapshot ID: 405	Process ID: 0	 Logic Clock: 4393	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 406	Process ID: 0	 Logic Clock: 4416	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 407	Process ID: 0	 Logic Clock: 4441	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 408	Process ID: 0	 Logic Clock: 4458	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4460]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4460]
+
+-------------------------
+Snapshot ID: 409	Process ID: 0	 Logic Clock: 4462	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4464]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4464]
+
+-------------------------
+Snapshot ID: 410	Process ID: 0	 Logic Clock: 4466	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4468]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4468]
+
+-------------------------
+Snapshot ID: 411	Process ID: 0	 Logic Clock: 4470	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0]
+Canal[0, 2] = [respOK, 0]
+
+-------------------------
+Snapshot ID: 412	Process ID: 0	 Logic Clock: 4474	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0]
+Canal[0, 1] = [respOK, 0]
+
+-------------------------
+Snapshot ID: 413	Process ID: 0	 Logic Clock: 4485	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 414	Process ID: 0	 Logic Clock: 4513	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 415	Process ID: 0	 Logic Clock: 4516	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4519]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4519]
+
+-------------------------
+Snapshot ID: 416	Process ID: 0	 Logic Clock: 4526	Waiting: [false true false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 417	Process ID: 0	 Logic Clock: 4531	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4533]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4533]
+
+-------------------------
+Snapshot ID: 418	Process ID: 0	 Logic Clock: 4543	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4544]
+Canal[0, 1] = [reqEntry, 0, 4544]
+
+-------------------------
+Snapshot ID: 419	Process ID: 0	 Logic Clock: 4562	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4564]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4564]
+
+-------------------------
+Snapshot ID: 420	Process ID: 0	 Logic Clock: 4568	Waiting: [false true false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4569]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4569]
+
+-------------------------
+Snapshot ID: 421	Process ID: 0	 Logic Clock: 4603	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 422	Process ID: 0	 Logic Clock: 4606	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4608]
+Canal[0, 2] = [reqEntry, 0, 4608]
+
+-------------------------
+Snapshot ID: 423	Process ID: 0	 Logic Clock: 4622	Waiting: [false false true]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 424	Process ID: 0	 Logic Clock: 4641	Waiting: [false false true]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 425	Process ID: 0	 Logic Clock: 4650	Waiting: [false false true]	Process State: 1
+Channel Messages:
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4651]
+Canal[0, 1] = [reqEntry, 0, 4651]
+
+-------------------------
+Snapshot ID: 426	Process ID: 0	 Logic Clock: 4653	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 427	Process ID: 0	 Logic Clock: 4669	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 428	Process ID: 0	 Logic Clock: 4675	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4677]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4677]
+
+-------------------------
+Snapshot ID: 429	Process ID: 0	 Logic Clock: 4698	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 430	Process ID: 0	 Logic Clock: 4712	Waiting: [false false true]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4714]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4714]
+
+-------------------------
+Snapshot ID: 431	Process ID: 0	 Logic Clock: 4718	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 432	Process ID: 0	 Logic Clock: 4724	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 433	Process ID: 0	 Logic Clock: 4743	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4746]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4746]
+
+-------------------------
+Snapshot ID: 434	Process ID: 0	 Logic Clock: 4753	Waiting: [false false false]	Process State: 1
+Channel Messages:
+
+-------------------------
+Snapshot ID: 435	Process ID: 0	 Logic Clock: 4788	Waiting: [false false false]	Process State: 1
+Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4790]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4790]
+
+-------------------------
+Snapshot ID: 436	Process ID: 0	 Logic Clock: 4793	Waiting: [false true true]	Process State: 1
 Channel Messages:
 Canal[0, 1] = [respOK, 0 reqEntry, 0, 4794]
 Canal[0, 2] = [respOK, 0 reqEntry, 0, 4794]
 
 -------------------------
-Snapshot ID: 428	Process ID: 0	 Logic Clock: 4810	Waiting: [false false true]	Process State: 1
+Snapshot ID: 437	Process ID: 0	 Logic Clock: 4808	Waiting: [false true true]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4812]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4812]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4809]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4809]
 
 -------------------------
-Snapshot ID: 429	Process ID: 0	 Logic Clock: 4833	Waiting: [false false false]	Process State: 1
+Snapshot ID: 438	Process ID: 0	 Logic Clock: 4814	Waiting: [false true false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4835]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4835]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4816]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4816]
 
 -------------------------
-Snapshot ID: 430	Process ID: 0	 Logic Clock: 4842	Waiting: [false false false]	Process State: 1
+Snapshot ID: 439	Process ID: 0	 Logic Clock: 4824	Waiting: [false false true]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4845]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4845]
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4826]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4826]
 
 -------------------------
-Snapshot ID: 431	Process ID: 0	 Logic Clock: 4856	Waiting: [false false false]	Process State: 1
+Snapshot ID: 440	Process ID: 0	 Logic Clock: 4832	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4857]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4857]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4834]
+Canal[0, 1] = [reqEntry, 0, 4834]
 
 -------------------------
-Snapshot ID: 432	Process ID: 0	 Logic Clock: 4862	Waiting: [false false false]	Process State: 1
+Snapshot ID: 441	Process ID: 0	 Logic Clock: 4858	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4863]
-Canal[0, 1] = [reqEntry, 0, 4863]
 
 -------------------------
-Snapshot ID: 433	Process ID: 0	 Logic Clock: 4880	Waiting: [false false false]	Process State: 1
+Snapshot ID: 442	Process ID: 0	 Logic Clock: 4878	Waiting: [false true false]	Process State: 1
 Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4880]
+Canal[0, 2] = [respOK, 0 reqEntry, 0, 4880]
 
 -------------------------
-Snapshot ID: 434	Process ID: 0	 Logic Clock: 4887	Waiting: [false false false]	Process State: 1
+Snapshot ID: 443	Process ID: 0	 Logic Clock: 4890	Waiting: [false false false]	Process State: 1
 Channel Messages:
+Canal[0, 1] = [respOK, 0 reqEntry, 0, 4891]
+Canal[0, 2] = [reqEntry, 0, 4891]
 
 -------------------------
-Snapshot ID: 435	Process ID: 0	 Logic Clock: 4897	Waiting: [false false false]	Process State: 1
+Snapshot ID: 444	Process ID: 0	 Logic Clock: 4893	Waiting: [false false false]	Process State: 1
 Channel Messages:
-Canal[0, 1] = [respOK, 0]
-Canal[0, 2] = [respOK, 0]
 
 -------------------------
-Snapshot ID: 436	Process ID: 0	 Logic Clock: 4911	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 437	Process ID: 0	 Logic Clock: 4932	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 438	Process ID: 0	 Logic Clock: 4941	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 439	Process ID: 0	 Logic Clock: 4963	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4964]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4964]
-
--------------------------
-Snapshot ID: 440	Process ID: 0	 Logic Clock: 4979	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 441	Process ID: 0	 Logic Clock: 4982	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 442	Process ID: 0	 Logic Clock: 4994	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 4996]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 4996]
-
--------------------------
-Snapshot ID: 443	Process ID: 0	 Logic Clock: 5000	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0]
-Canal[0, 1] = [respOK, 0]
-
--------------------------
-Snapshot ID: 444	Process ID: 0	 Logic Clock: 5024	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5026]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5026]
-
--------------------------
-Snapshot ID: 445	Process ID: 0	 Logic Clock: 5033	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5035]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5035]
-
--------------------------
-Snapshot ID: 446	Process ID: 0	 Logic Clock: 5068	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0]
-
--------------------------
-Snapshot ID: 447	Process ID: 0	 Logic Clock: 5075	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5078]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5078]
-
--------------------------
-Snapshot ID: 448	Process ID: 0	 Logic Clock: 5081	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5083]
-Canal[0, 2] = [reqEntry, 0, 5083]
-
--------------------------
-Snapshot ID: 449	Process ID: 0	 Logic Clock: 5099	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5101]
-Canal[0, 2] = [reqEntry, 0, 5101 respOK, 0]
-
--------------------------
-Snapshot ID: 450	Process ID: 0	 Logic Clock: 5120	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 451	Process ID: 0	 Logic Clock: 5132	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5134]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5134]
-
--------------------------
-Snapshot ID: 452	Process ID: 0	 Logic Clock: 5158	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5160]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5160]
-
--------------------------
-Snapshot ID: 453	Process ID: 0	 Logic Clock: 5171	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5172]
-Canal[0, 2] = [reqEntry, 0, 5172]
-
--------------------------
-Snapshot ID: 454	Process ID: 0	 Logic Clock: 5177	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 455	Process ID: 0	 Logic Clock: 5182	Waiting: [false false true]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5184]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5184]
-
--------------------------
-Snapshot ID: 456	Process ID: 0	 Logic Clock: 5187	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 457	Process ID: 0	 Logic Clock: 5214	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5216]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5216]
-
--------------------------
-Snapshot ID: 458	Process ID: 0	 Logic Clock: 5226	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0]
-Canal[0, 2] = [respOK, 0]
-
--------------------------
-Snapshot ID: 459	Process ID: 0	 Logic Clock: 5231	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5233]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5233]
-
--------------------------
-Snapshot ID: 460	Process ID: 0	 Logic Clock: 5236	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 461	Process ID: 0	 Logic Clock: 5265	Waiting: [false true true]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5266]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5266]
-
--------------------------
-Snapshot ID: 462	Process ID: 0	 Logic Clock: 5271	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5274]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5274]
-
--------------------------
-Snapshot ID: 463	Process ID: 0	 Logic Clock: 5293	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 464	Process ID: 0	 Logic Clock: 5321	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5324]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5324]
-
--------------------------
-Snapshot ID: 465	Process ID: 0	 Logic Clock: 5339	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 466	Process ID: 0	 Logic Clock: 5360	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 467	Process ID: 0	 Logic Clock: 5363	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5365]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5365]
-
--------------------------
-Snapshot ID: 468	Process ID: 0	 Logic Clock: 5372	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5373]
-Canal[0, 2] = [reqEntry, 0, 5373]
-
--------------------------
-Snapshot ID: 469	Process ID: 0	 Logic Clock: 5378	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 470	Process ID: 0	 Logic Clock: 5381	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5383]
-Canal[0, 1] = [reqEntry, 0, 5383]
-
--------------------------
-Snapshot ID: 471	Process ID: 0	 Logic Clock: 5387	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5389]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5389]
-
--------------------------
-Snapshot ID: 472	Process ID: 0	 Logic Clock: 5411	Waiting: [false true false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 473	Process ID: 0	 Logic Clock: 5436	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5438]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5438]
-
--------------------------
-Snapshot ID: 474	Process ID: 0	 Logic Clock: 5454	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5456]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5456]
-
--------------------------
-Snapshot ID: 475	Process ID: 0	 Logic Clock: 5485	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5487]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5487]
-
--------------------------
-Snapshot ID: 476	Process ID: 0	 Logic Clock: 5496	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 477	Process ID: 0	 Logic Clock: 5533	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5534]
-Canal[0, 1] = [reqEntry, 0, 5534]
-
--------------------------
-Snapshot ID: 478	Process ID: 0	 Logic Clock: 5541	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5543]
-Canal[0, 2] = [reqEntry, 0, 5543]
-
--------------------------
-Snapshot ID: 479	Process ID: 0	 Logic Clock: 5546	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5548]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5548]
-
--------------------------
-Snapshot ID: 480	Process ID: 0	 Logic Clock: 5576	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 481	Process ID: 0	 Logic Clock: 5578	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5581]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5581]
-
--------------------------
-Snapshot ID: 482	Process ID: 0	 Logic Clock: 5583	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5586]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5586]
-
--------------------------
-Snapshot ID: 483	Process ID: 0	 Logic Clock: 5596	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 484	Process ID: 0	 Logic Clock: 5602	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5604]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5604]
-
--------------------------
-Snapshot ID: 485	Process ID: 0	 Logic Clock: 5605	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5606]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5606]
-
--------------------------
-Snapshot ID: 486	Process ID: 0	 Logic Clock: 5609	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5610]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5610]
-
--------------------------
-Snapshot ID: 487	Process ID: 0	 Logic Clock: 5612	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 488	Process ID: 0	 Logic Clock: 5620	Waiting: [false true true]	Process State: 2
-Channel Messages:
-Canal[0, 1] = [respOK, 0]
-Canal[0, 2] = [respOK, 0]
-
--------------------------
-Snapshot ID: 489	Process ID: 0	 Logic Clock: 5629	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5631]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5631]
-
--------------------------
-Snapshot ID: 490	Process ID: 0	 Logic Clock: 5635	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 491	Process ID: 0	 Logic Clock: 5637	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5639]
-Canal[0, 2] = [reqEntry, 0, 5639 respOK, 0]
-
--------------------------
-Snapshot ID: 492	Process ID: 0	 Logic Clock: 5647	Waiting: [false true false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 493	Process ID: 0	 Logic Clock: 5652	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 494	Process ID: 0	 Logic Clock: 5655	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5656]
-Canal[0, 2] = [reqEntry, 0, 5656]
-
--------------------------
-Snapshot ID: 495	Process ID: 0	 Logic Clock: 5664	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5665]
-Canal[0, 2] = [reqEntry, 0, 5665]
-
--------------------------
-Snapshot ID: 496	Process ID: 0	 Logic Clock: 5674	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5676]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5676]
-
--------------------------
-Snapshot ID: 497	Process ID: 0	 Logic Clock: 5678	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [reqEntry, 0, 5680 respOK, 0]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5680]
-
--------------------------
-Snapshot ID: 498	Process ID: 0	 Logic Clock: 5683	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5685]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5685]
-
--------------------------
-Snapshot ID: 499	Process ID: 0	 Logic Clock: 5695	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5697]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5697]
-
--------------------------
-Snapshot ID: 500	Process ID: 0	 Logic Clock: 5701	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5703]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5703]
-
--------------------------
-Snapshot ID: 501	Process ID: 0	 Logic Clock: 5707	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 502	Process ID: 0	 Logic Clock: 5710	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5712]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5712]
-
--------------------------
-Snapshot ID: 503	Process ID: 0	 Logic Clock: 5716	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5719]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5719]
-
--------------------------
-Snapshot ID: 504	Process ID: 0	 Logic Clock: 5722	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 505	Process ID: 0	 Logic Clock: 5733	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5734]
-Canal[0, 2] = [reqEntry, 0, 5734]
-
--------------------------
-Snapshot ID: 506	Process ID: 0	 Logic Clock: 5736	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0]
-Canal[0, 2] = [respOK, 0]
-
--------------------------
-Snapshot ID: 507	Process ID: 0	 Logic Clock: 5750	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 508	Process ID: 0	 Logic Clock: 5777	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5780]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5780]
-
--------------------------
-Snapshot ID: 509	Process ID: 0	 Logic Clock: 5786	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 510	Process ID: 0	 Logic Clock: 5809	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 511	Process ID: 0	 Logic Clock: 5812	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 512	Process ID: 0	 Logic Clock: 5826	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5827]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5827]
-
--------------------------
-Snapshot ID: 513	Process ID: 0	 Logic Clock: 5841	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 514	Process ID: 0	 Logic Clock: 5863	Waiting: [false false true]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5865]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5865]
-
--------------------------
-Snapshot ID: 515	Process ID: 0	 Logic Clock: 5870	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 516	Process ID: 0	 Logic Clock: 5905	Waiting: [false true false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 517	Process ID: 0	 Logic Clock: 5916	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5917]
-Canal[0, 2] = [reqEntry, 0, 5917]
-
--------------------------
-Snapshot ID: 518	Process ID: 0	 Logic Clock: 5921	Waiting: [false false true]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5923]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5923]
-
--------------------------
-Snapshot ID: 519	Process ID: 0	 Logic Clock: 5929	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5931]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5931]
-
--------------------------
-Snapshot ID: 520	Process ID: 0	 Logic Clock: 5935	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5937]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5937]
-
--------------------------
-Snapshot ID: 521	Process ID: 0	 Logic Clock: 5990	Waiting: [false true true]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 5991]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 5991]
-
--------------------------
-Snapshot ID: 522	Process ID: 0	 Logic Clock: 6007	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 523	Process ID: 0	 Logic Clock: 6028	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6030]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6030]
-
--------------------------
-Snapshot ID: 524	Process ID: 0	 Logic Clock: 6053	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6055]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6055]
-
--------------------------
-Snapshot ID: 525	Process ID: 0	 Logic Clock: 6058	Waiting: [false true false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 526	Process ID: 0	 Logic Clock: 6062	Waiting: [false false true]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6064]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6064]
-
--------------------------
-Snapshot ID: 527	Process ID: 0	 Logic Clock: 6080	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 528	Process ID: 0	 Logic Clock: 6092	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 529	Process ID: 0	 Logic Clock: 6102	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6105]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6105]
-
--------------------------
-Snapshot ID: 530	Process ID: 0	 Logic Clock: 6108	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6111]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6111]
-
--------------------------
-Snapshot ID: 531	Process ID: 0	 Logic Clock: 6114	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 532	Process ID: 0	 Logic Clock: 6128	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6130]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6130]
-
--------------------------
-Snapshot ID: 533	Process ID: 0	 Logic Clock: 6131	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 534	Process ID: 0	 Logic Clock: 6160	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 535	Process ID: 0	 Logic Clock: 6162	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6164]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6164]
-
--------------------------
-Snapshot ID: 536	Process ID: 0	 Logic Clock: 6186	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6189]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6189]
-
--------------------------
-Snapshot ID: 537	Process ID: 0	 Logic Clock: 6198	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6201]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6201]
-
--------------------------
-Snapshot ID: 538	Process ID: 0	 Logic Clock: 6205	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 539	Process ID: 0	 Logic Clock: 6236	Waiting: [false false true]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6238]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6238]
-
--------------------------
-Snapshot ID: 540	Process ID: 0	 Logic Clock: 6256	Waiting: [false true false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 541	Process ID: 0	 Logic Clock: 6269	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 542	Process ID: 0	 Logic Clock: 6275	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 543	Process ID: 0	 Logic Clock: 6293	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6295]
-Canal[0, 2] = [reqEntry, 0, 6295]
-
--------------------------
-Snapshot ID: 544	Process ID: 0	 Logic Clock: 6341	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 6343 respOK, 0]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6343]
-
--------------------------
-Snapshot ID: 545	Process ID: 0	 Logic Clock: 6347	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6350]
-Canal[0, 1] = [reqEntry, 0, 6350 respOK, 0]
-
--------------------------
-Snapshot ID: 546	Process ID: 0	 Logic Clock: 6371	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 547	Process ID: 0	 Logic Clock: 6381	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 548	Process ID: 0	 Logic Clock: 6416	Waiting: [false false false]	Process State: 0
-Channel Messages:
-Canal[0, 2] = [reqEntry, 0, 6417]
-Canal[0, 1] = [reqEntry, 0, 6417]
-
--------------------------
-Snapshot ID: 549	Process ID: 0	 Logic Clock: 6422	Waiting: [false true true]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6423]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6423]
-
--------------------------
-Snapshot ID: 550	Process ID: 0	 Logic Clock: 6427	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6428]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6428]
-
--------------------------
-Snapshot ID: 551	Process ID: 0	 Logic Clock: 6430	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6432]
-Canal[0, 2] = [reqEntry, 0, 6432 respOK, 0]
-
--------------------------
-Snapshot ID: 552	Process ID: 0	 Logic Clock: 6446	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6448]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6448]
-
--------------------------
-Snapshot ID: 553	Process ID: 0	 Logic Clock: 6456	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0]
-Canal[0, 2] = [respOK, 0]
-
--------------------------
-Snapshot ID: 554	Process ID: 0	 Logic Clock: 6461	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6463]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6463]
-
--------------------------
-Snapshot ID: 555	Process ID: 0	 Logic Clock: 6485	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6488]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6488]
-
--------------------------
-Snapshot ID: 556	Process ID: 0	 Logic Clock: 6506	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6508]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6508]
-
--------------------------
-Snapshot ID: 557	Process ID: 0	 Logic Clock: 6510	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 558	Process ID: 0	 Logic Clock: 6523	Waiting: [false false false]	Process State: 0
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 6524]
-Canal[0, 2] = [reqEntry, 0, 6524]
-
--------------------------
-Snapshot ID: 559	Process ID: 0	 Logic Clock: 6531	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 560	Process ID: 0	 Logic Clock: 6544	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6546]
-Canal[0, 1] = [reqEntry, 0, 6546 respOK, 0]
-
--------------------------
-Snapshot ID: 561	Process ID: 0	 Logic Clock: 6548	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6550]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6550]
-
--------------------------
-Snapshot ID: 562	Process ID: 0	 Logic Clock: 6555	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6556]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6556]
-
--------------------------
-Snapshot ID: 563	Process ID: 0	 Logic Clock: 6575	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6578]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6578]
-
--------------------------
-Snapshot ID: 564	Process ID: 0	 Logic Clock: 6598	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 565	Process ID: 0	 Logic Clock: 6608	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6610]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6610]
-
--------------------------
-Snapshot ID: 566	Process ID: 0	 Logic Clock: 6619	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6621]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6621]
-
--------------------------
-Snapshot ID: 567	Process ID: 0	 Logic Clock: 6623	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 568	Process ID: 0	 Logic Clock: 6638	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 569	Process ID: 0	 Logic Clock: 6652	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6654]
-Canal[0, 1] = [reqEntry, 0, 6654]
-
--------------------------
-Snapshot ID: 570	Process ID: 0	 Logic Clock: 6657	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6659]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6659]
-
--------------------------
-Snapshot ID: 571	Process ID: 0	 Logic Clock: 6669	Waiting: [false false true]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6671]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6671]
-
--------------------------
-Snapshot ID: 572	Process ID: 0	 Logic Clock: 6674	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 573	Process ID: 0	 Logic Clock: 6678	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6680]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6680]
-
--------------------------
-Snapshot ID: 574	Process ID: 0	 Logic Clock: 6691	Waiting: [false true true]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6692]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6692]
-
--------------------------
-Snapshot ID: 575	Process ID: 0	 Logic Clock: 6696	Waiting: [false true false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 576	Process ID: 0	 Logic Clock: 6708	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 577	Process ID: 0	 Logic Clock: 6712	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6714]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6714]
-
--------------------------
-Snapshot ID: 578	Process ID: 0	 Logic Clock: 6716	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 579	Process ID: 0	 Logic Clock: 6720	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6722]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6722]
-
--------------------------
-Snapshot ID: 580	Process ID: 0	 Logic Clock: 6725	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6728]
-Canal[0, 1] = [reqEntry, 0, 6728 respOK, 0]
-
--------------------------
-Snapshot ID: 581	Process ID: 0	 Logic Clock: 6743	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 582	Process ID: 0	 Logic Clock: 6755	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 583	Process ID: 0	 Logic Clock: 6771	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6773]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6773]
-
--------------------------
-Snapshot ID: 584	Process ID: 0	 Logic Clock: 6787	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6789]
-Canal[0, 1] = [reqEntry, 0, 6789]
-
--------------------------
-Snapshot ID: 585	Process ID: 0	 Logic Clock: 6803	Waiting: [false true false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6805]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6805]
-
--------------------------
-Snapshot ID: 586	Process ID: 0	 Logic Clock: 6823	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6826]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6826]
-
--------------------------
-Snapshot ID: 587	Process ID: 0	 Logic Clock: 6849	Waiting: [false false true]	Process State: 1
-Channel Messages:
-Canal[0, 1] = [reqEntry, 0, 6850]
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6850]
-
--------------------------
-Snapshot ID: 588	Process ID: 0	 Logic Clock: 6871	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 589	Process ID: 0	 Logic Clock: 6880	Waiting: [false false false]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 590	Process ID: 0	 Logic Clock: 6902	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6904]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6904]
-
--------------------------
-Snapshot ID: 591	Process ID: 0	 Logic Clock: 6912	Waiting: [false false true]	Process State: 1
-Channel Messages:
-
--------------------------
-Snapshot ID: 592	Process ID: 0	 Logic Clock: 6914	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0]
-
--------------------------
-Snapshot ID: 593	Process ID: 0	 Logic Clock: 6934	Waiting: [false false false]	Process State: 1
-Channel Messages:
-Canal[0, 2] = [respOK, 0 reqEntry, 0, 6936]
-Canal[0, 1] = [respOK, 0 reqEntry, 0, 6936]
-
--------------------------
+Snapshot ID: 445	Process ID: 0	 Logic Clock: 4895	Waiting: [false false false]	Process State: 1
