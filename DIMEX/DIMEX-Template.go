@@ -318,10 +318,10 @@ func (module *DIMEX_Module) handleSnapshotProcesso(msgOutro PP2PLink.PP2PLink_In
 	var snapshotID, senderID int
 	fmt.Sscanf(msgOutro.Message, "take snapshot, %d, %d", &snapshotID, &senderID)
 
-	// Grava o segundo take snapshot recebido
-	if module.stSNAP.emSnapshot {
-		module.stSNAP.Canais[senderID] = append(module.stSNAP.Canais[senderID], msgOutro.Message)
-	}
+	// Grava o take snapshot recebido
+	// if module.stSNAP.emSnapshot && strings.Contains(msgOutro, "take snapshot"){
+	// 	module.stSNAP.Canais[senderID] = append(module.stSNAP.Canais[senderID], msgOutro.Message)
+	// }
 
 	// Recebe pela 1 vez, nao estava em estado de snapshot
 	if !module.stSNAP.emSnapshot {
@@ -379,7 +379,7 @@ func (module *DIMEX_Module) checkSnapshotCompletion() bool {
 func (module *DIMEX_Module) saveLocalState() {
 	// Formata o estado local
 	stateData := fmt.Sprintf(
-		"Snapshot ID: %d\tProcess ID: %d\t Logic Clock: %d\tWaiting: %v\tProcess State: %v\n",
+		"Snapshot ID: %d\tProcess ID: %d\t Logic Clock: %d\tWaiting: %v\tProcess State: %v",
 		module.stSNAP.idSnap, // SNAPSHOT ID
 		module.id,            // Process ID
 		module.lcl,           // process lcl
@@ -410,11 +410,9 @@ func (module *DIMEX_Module) saveSnapshot() {
 
 	// Formata as mensagens do canal
 	channelMsg := "Channel Messages:\n"
+
 	for sender, msgs := range module.stSNAP.Canais {
-		channelMsg += fmt.Sprintf("  From Process %d:\n", sender)
-		for _, msg := range msgs {
-			channelMsg += fmt.Sprintf("    %s\n", msg)
-		}
+		channelMsg += fmt.Sprintf("Canal[%d, %d] = %v\n", module.id, sender, msgs)
 	}
 
 	// Nome do arquivo com id do processo
@@ -445,7 +443,8 @@ func (module *DIMEX_Module) saveSnapshot() {
 func (module *DIMEX_Module) sendToLink(address string, content string, space string) {
 	module.outDbg(space + " ---->>>>   to: " + address + "     msg: " + content)
 
-	if module.stSNAP.emSnapshot {
+	// Se esta em snapshot grava o canal, nao grava as mensagens de take snapshot
+	if module.stSNAP.emSnapshot && !(strings.Contains(content, "take snapshot")) {
 		var senderID int
 		for idx, addr := range module.addresses {
 			if addr == address {
