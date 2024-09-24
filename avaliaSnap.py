@@ -44,26 +44,24 @@ def invariante_1(snapshots):
 
 def invariante_2(snapshots):
     """Invariante 2: Se todos os processos estão em 'não quero a SC', 
-    todos os waitings devem ser falsos e não deve haver mensagens em trânsito."""
+    todos os waitings w devem ser falsos e não deve haver mensagens em trânsito."""
     all_not_wanting_sc = all(snapshot['process_state'] == 0 for snapshot in snapshots)
-    no_waitings = all(all(not waiting for waiting in snapshot['waiting']) for snapshot in snapshots)
+    no_waitings = all((w == 'false' for w in snapshot['waiting']) for snapshot in snapshots)
     no_messages = all(all(len(messages) == 0 for messages in snapshot['mensagens'].values()) for snapshot in snapshots)
 
-    return not all_not_wanting_sc or (no_waitings and no_messages)
-
-def invariante_3(snapshots):
-    """Invariante 3: Se um processo está marcado como waiting em p, 
-    então p está na SC (inMX) ou quer a SC (wantMX)."""
-    
-    for snapshot in snapshots:
-        waiting = snapshot['waiting']
-        process_state = snapshot['process_state']
-
-        for w in waiting:
-            if w == 'true' and process_state == 0:
-                return False
+    if all_not_wanting_sc:
+        if (no_waitings and not no_messages) or (not no_waitings and no_messages):
+            return False
 
     return True
+
+def invariante_3(snapshots):
+    """Invariante 3: Se um processo w está marcado como waiting em p, 
+    então p está na SC (inMX) ou quer a SC (wantMX)."""
+
+    p_in_or_want_MX = all((w == 'true' and snapshot['process_state'] != 0 for w in snapshot['waiting']) for snapshot in snapshots)
+
+    return p_in_or_want_MX
 
 def avaliar_snapshot(snapshots):
     """Avalia um conjunto de snapshots para todas as invariantes."""
@@ -97,11 +95,10 @@ def group_snapshots_by_id(snapshot_files):
                 all_snapshots[snap_id] = []
             all_snapshots[snap_id].append(snapshot)
 
-    # Create a list where each index corresponds to the snapshot IDs
     max_id = max(all_snapshots.keys())
-    grouped_snapshots = [all_snapshots.get(i, []) for i in range(max_id + 1)]
+    grouped_snapshots = [all_snapshots.get(i, []) for i in range(max_id)]
 
-    print_snapshots(grouped_snapshots)
+    #print_snapshots(grouped_snapshots)
 
     return grouped_snapshots
 
