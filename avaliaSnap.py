@@ -66,17 +66,17 @@ def invariante_3(snapshots):
 def avaliar_snapshot(snapshots):
     """Avalia um conjunto de snapshots para todas as invariantes."""
     snapshot_id = snapshots[0]['snapshot_id']
-    if invariante_1(snapshots):
-        if invariante_2(snapshots):
-            if invariante_3(snapshots):
-                print(f"Snapshot {snapshot_id} está consistente!")
-            else:
-                print(f"Invariante 3 violada no Snapshot {snapshot_id}")
-        else:
-            print(f"Invariante 2 violada no Snapshot {snapshot_id}")
-    else:
-        print(f"Invariante 1 violada no Snapshot {snapshot_id}")
 
+    # Verificação das invariantes
+    if not invariante_1(snapshots):
+        print(f"Invariante 1 violada no Snapshot {snapshot_id}")
+    elif not invariante_2(snapshots):
+        print(f"Invariante 2 violada no Snapshot {snapshot_id}")
+    elif not invariante_3(snapshots):
+        print(f"Invariante 3 violada no Snapshot {snapshot_id}")
+    else:
+        print(f"Snapshot {snapshot_id} está consistente!")
+        
 def process_all_snapshots(grouped_snapshots):
     """Avalia invariantes de conjuntos de snapshots com mesmo índice em múltiplos arquivos."""
     for snap_list in grouped_snapshots:
