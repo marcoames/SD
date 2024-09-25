@@ -96,7 +96,7 @@ def group_snapshots_by_id(snapshot_files):
             all_snapshots[snap_id].append(snapshot)
 
     max_id = max(all_snapshots.keys())
-    grouped_snapshots = [all_snapshots.get(i, []) for i in range(max_id)]
+    grouped_snapshots = [all_snapshots.get(i, []) for i in range(max_id + 1)]
 
     #print_snapshots(grouped_snapshots)
 
