@@ -359,9 +359,38 @@ func (module *DIMEX_Module) handleSnapshotProcesso(msgOutro PP2PLink.PP2PLink_In
 			// Salva snapshot completo
 			module.stSNAP.emSnapshot = false // Sai do estado de snapshot
 			module.saveSnapshot()
+			// fmt.Printf("\n")
+			// fmt.Println("--------------------------------------")
+			// fmt.Printf("SNAPSHOT NUMERO: %d ESCRITO", snapshotID)
+			// fmt.Println("--------------------------------------")
+			// fmt.Printf("\n")
+
+			module.write_snapnumber(snapshotID)
+
 		}
 	}
 
+}
+
+func (module *DIMEX_Module) write_snapnumber(snapshotID int) {
+	// Nome do arquivo com id do processo
+	fileName := "snapshots.txt"
+
+	file, err := os.OpenFile(fileName, os.O_TRUNC|os.O_CREATE|os.O_WRONLY, 0644)
+	if err != nil {
+		fmt.Println("Error opening snapshot file:", err)
+		return
+	}
+	defer file.Close()
+
+	data := fmt.Sprintf("snapshots salvos: %d", snapshotID)
+
+	// Escreve o numero do snapshot salvo no arquivo
+	_, err = file.WriteString(data)
+	if err != nil {
+		fmt.Println("Error writing snapshot to file:", err)
+		return
+	}
 }
 
 func (module *DIMEX_Module) checkSnapshotCompletion() bool {
@@ -433,7 +462,6 @@ func (module *DIMEX_Module) saveSnapshot() {
 		fmt.Println("Error writing snapshot to file:", err)
 		return
 	}
-
 }
 
 // ------------------------------------------------------------------------------------

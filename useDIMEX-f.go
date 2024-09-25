@@ -68,7 +68,7 @@ func main() {
 	for {
 
 		// Solicita snapshot para processo 0
-		if rand.Float64() < 0.2 { // 20%
+		if rand.Float64() < 0.1 { // 10%
 			if id == 0 {
 				dmx.Req <- DIMEX.SNAPSHOT
 			}
